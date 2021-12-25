@@ -1,0 +1,958 @@
+Borough,Area,Bedrooms,Bathrooms,Size,Rent
+Manhattan,Downtown,Studio,1 Bathroom,555,2875
+Manhattan,Midtown,Studio,1 Bathroom,532,2595
+Manhattan,Upper East Side,Studio,1 Bathroom,500,2100
+Manhattan,Upper Manhattan,Studio,1 Bathroom,412,1795
+Manhattan,Upper West Side,Studio,1 Bathroom,490,2249
+Manhattan,Battery Park City,Studio,1 Bathroom,650,3360
+Manhattan,Chelsea,Studio,1 Bathroom,590,2875
+Manhattan,Central Harlem,Studio,1 Bathroom,440,1799
+Manhattan,Central Park South,Studio,1 Bathroom,550,2800
+Manhattan,East Harlem,Studio,1 Bathroom,412,1800
+Manhattan,East Village,Studio,1 Bathroom,470,2250
+Manhattan,Flatiron,Studio,1 Bathroom,665,3600
+Manhattan,Financial District,Studio,1 Bathroom,632,3095
+Manhattan,Gramercy Park,Studio,1 Bathroom,627,2875
+Manhattan,Hamilton Heights,Studio,1 Bathroom,420,1773
+Manhattan,Greenwich Village,Studio,1 Bathroom,500,2750
+Manhattan,Little Italy,Studio,1 Bathroom,412,1971
+Manhattan,Lower East Side,Studio,1 Bathroom,480,2150
+Manhattan,Manhattan,Studio,1 Bathroom,590,2450
+Manhattan,Manhattanville,Studio,1 Bathroom,430,1922
+Manhattan,Midtown,Studio,1 Bathroom,499,2891
+Manhattan,Midtown East,Studio,1 Bathroom,475,2462
+Manhattan,Midtown South,Studio,1 Bathroom,476,2700
+Manhattan,Midtown West,Studio,1 Bathroom,466,2667
+Manhattan,Morningside Heights,Studio,1 Bathroom,480,2295
+Manhattan,NYC,Studio,1 Bathroom,450,2300
+Manhattan,Nolita,Studio,1 Bathroom,440,2875
+Manhattan,Roosevelt Island,Studio,1 Bathroom,425,2200
+Manhattan,Soho,Studio,1 Bathroom,460,2650
+Manhattan,Tribeca,Studio,1 Bathroom,680,2675
+Manhattan,Upper East Side,Studio,1 Bathroom,624,2100
+Manhattan,Upper West Side,Studio,1 Bathroom,690,2249
+Manhattan,Washington Heights,Studio,1 Bathroom,624,1675
+Manhattan,West Village,Studio,1 Bathroom,675,2800
+Queens,Astoria,Studio,1 Bathroom,660,1870
+Queens,Woodside,Studio,1 Bathroom,612,1500
+Queens,Sunnyside,Studio,1 Bathroom,624,1651
+Queens,South Queens,Studio,1 Bathroom,630,1475
+Queens,Rego Park,Studio,1 Bathroom,612,1642
+Queens,Queens,Studio,1 Bathroom,590,1750
+Queens,Northeast Queens,Studio,1 Bathroom,660,1550
+Queens,Kew Gardens,Studio,1 Bathroom,652,1525
+Queens,Long Island City,Studio,1 Bathroom,750,2538
+Queens,Jackson Heights,Studio,1 Bathroom,612,1600
+Queens,Jamaica,Studio,1 Bathroom,640,1828
+Queens,Elmhurst,Studio,1 Bathroom,660,1500
+Queens,Flushing,Studio,1 Bathroom,630,1550
+Queens,Forest Hills,Studio,1 Bathroom,620,1595
+Queens,Central Queens,Studio,1 Bathroom,630,1595
+Queens,Northwest Queens,Studio,1 Bathroom,650,2300
+Queens,Corona,Studio,1 Bathroom,635,1500
+Queens,Briarwood,Studio,1 Bathroom,622,1575
+Brooklyn,Williamsburg,Studio,1 Bathroom,590,2483
+Brooklyn,Windsor Terrace,Studio,1 Bathroom,624,2000
+Brooklyn,Sunset Park,Studio,1 Bathroom,634,1600
+Brooklyn,Bay Ridge,Studio,1 Bathroom,623,1592
+Brooklyn,Bedford-Stuyvesant,Studio,1 Bathroom,550,1995
+Brooklyn,Bensonhurst,Studio,1 Bathroom,500,1765
+Brooklyn,Boerum Hill,Studio,1 Bathroom,650,2100
+Brooklyn,Sheepshead Bay,Studio,1 Bathroom,625,1450
+Brooklyn,Red Hook,Studio,1 Bathroom,490,1800
+Brooklyn,Park Slope,Studio,1 Bathroom,580,2100
+Brooklyn,Prospect Heights,Studio,1 Bathroom,550,1850
+Brooklyn,Prospect Lefferts Gardens,Studio,1 Bathroom,490,1645
+Brooklyn,Prospect Park,Studio,1 Bathroom,500,1925
+Brooklyn,Prospect Park South,Studio,1 Bathroom,624,1550
+Brooklyn,Northwest Brooklyn,Studio,1 Bathroom,600,2500
+Brooklyn,South Brooklyn,Studio,1 Bathroom,623,1595
+Brooklyn,North Brooklyn,Studio,1 Bathroom,500,2452
+Brooklyn,Midwood,Studio,1 Bathroom,623,1600
+Brooklyn,Gravesend,Studio,1 Bathroom,624,1375
+Brooklyn,Greenpoint,Studio,1 Bathroom,500,2125
+Brooklyn,Greenwood,Studio,1 Bathroom,550,2674
+Brooklyn,Fort Greene,Studio,1 Bathroom,580,2504
+Brooklyn,Gowanus,Studio,1 Bathroom,570,2550
+Brooklyn,Kensington,Studio,1 Bathroom,624,1550
+Brooklyn,Flatbush,Studio,1 Bathroom,624,1620
+Brooklyn,Clinton Hill,Studio,1 Bathroom,550,2250
+Brooklyn,Cobble Hill,Studio,1 Bathroom,624,1950
+Brooklyn,Crown Heights,Studio,1 Bathroom,624,1700
+Brooklyn,DUMBO,Studio,1 Bathroom,612,3000
+Brooklyn,Ditmas Park,Studio,1 Bathroom,550,1599
+Brooklyn,Downtown Brooklyn,Studio,1 Bathroom,612,2655
+Brooklyn,East Brooklyn,Studio,1 Bathroom,500,1976
+Brooklyn,East Flatbush,Studio,1 Bathroom,612,1450
+Brooklyn,Brooklyn,Studio,1 Bathroom,580,2150
+Brooklyn,Brooklyn Heights,Studio,1 Bathroom,580,2150
+Brooklyn,Bushwick,Studio,1 Bathroom,560,2012
+Brooklyn,Carroll Gardens,Studio,1 Bathroom,612,2650
+Bronx,Highbridge,Studio,1 Bathroom,630,1450
+Bronx,Riverdale,Studio,1 Bathroom,625,1500
+Bronx,Highbridge,Studio,1 Bathroom,630,1450
+Bronx,Riverdale,Studio,1 Bathroom,633,1500
+Bronx,Highbridge,Studio,1 Bathroom,612,1450
+Bronx,Riverdale,Studio,1 Bathroom,590,1500
+Bronx,Riverdale,Studio,1 Bathroom,612,1500
+Bronx,Highbridge,Studio,1 Bathroom,612,1450
+Bronx,Highbridge,Studio,1 Bathroom,612,1450
+Bronx,Riverdale,Studio,1 Bathroom,624,1500
+Bronx,Highbridge,Studio,1 Bathroom,622,1450
+Bronx,Riverdale,Studio,1 Bathroom,622,1500
+Bronx,Highbridge,Studio,1 Bathroom,630,1450
+Bronx,Riverdale,Studio,1 Bathroom,634,1500
+Bronx,Riverdale,Studio,1 Bathroom,632,1500
+Bronx,Highbridge,Studio,1 Bathroom,639,1450
+Bronx,Highbridge,Studio,1 Bathroom,633,1450
+Bronx,Riverdale,Studio,1 Bathroom,638,1500
+Bronx,Highbridge,Studio,1 Bathroom,622,1450
+Bronx,Riverdale,Studio,1 Bathroom,624,1500
+Bronx,Highbridge,Studio,1 Bathroom,612,1450
+Bronx,Riverdale,Studio,1 Bathroom,624,1500
+Bronx,Riverdale,Studio,1 Bathroom,630,1500
+Bronx,Highbridge,Studio,1 Bathroom,620,1450
+Staten Island,Arden Heights,Studio,1 Bathroom,600,1290
+Staten Island,Arden Heights,Studio,1 Bathroom,650,1191
+Staten Island,Arden Heights,Studio,1 Bathroom,632,1392
+Staten Island,Arden Heights,Studio,1 Bathroom,550,1293
+Staten Island,Arden Heights,Studio,1 Bathroom,640,994
+Staten Island,Arden Heights,Studio,1 Bathroom,600,800
+Staten Island,Arden Heights,Studio,1 Bathroom,640,1252
+Staten Island,Arden Heights,Studio,1 Bathroom,590,925
+Staten Island,Arden Heights,Studio,1 Bathroom,585,825
+Staten Island,Arden Heights,Studio,1 Bathroom,600,1000
+Staten Island,Arden Heights,Studio,1 Bathroom,612,890
+Staten Island,Arden Heights,Studio,1 Bathroom,634,999
+Staten Island,Arden Heights,Studio,1 Bathroom,620,875
+Staten Island,Arden Heights,Studio,1 Bathroom,640,925
+Staten Island,Arden Heights,Studio,1 Bathroom,650,912
+Staten Island,Arden Heights,Studio,1 Bathroom,590,899
+Staten Island,Arden Heights,Studio,1 Bathroom,585,924
+Staten Island,Arden Heights,Studio,1 Bathroom,600,1002
+Staten Island,Arden Heights,Studio,1 Bathroom,590,946
+Staten Island,Arden Heights,Studio,1 Bathroom,612,966
+Staten Island,Arden Heights,Studio,1 Bathroom,624,899
+Staten Island,Arden Heights,Studio,1 Bathroom,594,924
+Manhattan,Downtown,1 Bedroom,1 Bathroom,800,3600
+Manhattan,Midtown,1 Bedroom,1 Bathroom,750,3550
+Manhattan,Upper East Side,1 Bedroom,1 Bathroom,650,2795
+Manhattan,Upper Manhattan,1 Bedroom,1 Bathroom,612,1950
+Manhattan,Upper West Side,1 Bedroom,1 Bathroom,724,3149
+Brooklyn,Bay Ridge,1 Bedroom,1 Bathroom,624,1700
+Manhattan,Central Harlem,1 Bedroom,1 Bathroom,646,2100
+Manhattan,Central Park South,1 Bedroom,1 Bathroom,712,2975
+Manhattan,Chelsea,1 Bedroom,1 Bathroom,766,4170
+Manhattan,Chinatown,1 Bedroom,1 Bathroom,742,2337
+Manhattan,East Harlem,1 Bedroom,1 Bathroom,690,2097
+Manhattan,East Village,1 Bedroom,1 Bathroom,722,2782
+Manhattan,Financial District,1 Bedroom,1 Bathroom,766,3995
+Manhattan,Flatiron,1 Bedroom,1 Bathroom,762,3635
+Manhattan,Gramercy Park,1 Bedroom,1 Bathroom,750,3500
+Manhattan,Hamilton Heights,1 Bedroom,1 Bathroom,650,1950
+Manhattan,Inwood,1 Bedroom,1 Bathroom,612,1750
+Manhattan,Greenwich Village,1 Bedroom,1 Bathroom,734,3750
+Manhattan,Lower East Side,1 Bedroom,1 Bathroom,680,2912
+Manhattan,Manhattan,1 Bedroom,1 Bathroom,712,3150
+Manhattan,Manhattanville,1 Bedroom,1 Bathroom,650,2297
+Manhattan,Little Italy,1 Bedroom,1 Bathroom,688,2575
+Manhattan,Midtown,1 Bedroom,1 Bathroom,700,3695
+Manhattan,Midtown East,1 Bedroom,1 Bathroom,692,3400
+Manhattan,Midtown South,1 Bedroom,1 Bathroom,724,3966
+Manhattan,Midtown West,1 Bedroom,1 Bathroom,712,3542
+Manhattan,Morningside Heights,1 Bedroom,1 Bathroom,670,2750
+Manhattan,Nolita,1 Bedroom,1 Bathroom,700,3100
+Manhattan,Midtown,1 Bedroom,1 Bathroom,650,2550
+Manhattan,Roosevelt Island,1 Bedroom,1 Bathroom,630,2716
+Manhattan,Soho,1 Bedroom,1 Bathroom,690,3450
+Manhattan,Stuyvesant Town,1 Bedroom,1 Bathroom,712,3635
+Manhattan,Tribeca,1 Bedroom,1 Bathroom,790,3700
+Manhattan,Upper East Side,1 Bedroom,1 Bathroom,644,2795
+Manhattan,Upper West Side,1 Bedroom,1 Bathroom,676,3149
+Manhattan,Washington Heights,1 Bedroom,1 Bathroom,612,1800
+Manhattan,West Harlem,1 Bedroom,1 Bathroom,622,2000
+Manhattan,West Village,1 Bedroom,1 Bathroom,650,3895
+Manhattan,Battery Park City,1 Bedroom,1 Bathroom,724,3850
+Queens,Astoria,1 Bedroom,1 Bathroom,730,1925
+Queens,Auburndale,1 Bedroom,1 Bathroom,612,1425
+Queens,Bayside,1 Bedroom,1 Bathroom,650,1625
+Queens,Briarwood,1 Bedroom,1 Bathroom,634,1650
+Queens,Central Queens,1 Bedroom,1 Bathroom,700,1850
+Queens,Corona,1 Bedroom,1 Bathroom,612,1670
+Queens,Elmhurst,1 Bedroom,1 Bathroom,712,1900
+Queens,Flushing,1 Bedroom,1 Bathroom,675,1725
+Queens,Forest Hills,1 Bedroom,1 Bathroom,720,1900
+Queens,Glendale,1 Bedroom,1 Bathroom,674,1700
+Queens,Jackson Heights,1 Bedroom,1 Bathroom,684,1780
+Queens,Jamaica,1 Bedroom,1 Bathroom,750,2075
+Queens,Jamaica Estates,1 Bedroom,1 Bathroom,674,1765
+Queens,Kew Gardens,1 Bedroom,1 Bathroom,675,1750
+Queens,Kew Gardens Hills,1 Bedroom,1 Bathroom,690,1825
+Queens,Long Island City,1 Bedroom,1 Bathroom,824,3208
+Queens,Maspeth,1 Bedroom,1 Bathroom,650,1645
+Queens,North Corona,1 Bedroom,1 Bathroom,644,1610
+Queens,Northeast Queens,1 Bedroom,1 Bathroom,624,1750
+Queens,Northwest Queens,1 Bedroom,1 Bathroom,812,2100
+Queens,Oakland Gardens,1 Bedroom,1 Bathroom,650,1672
+Queens,Jackson Heights,1 Bedroom,1 Bathroom,690,1945
+Queens,Rego Park,1 Bedroom,1 Bathroom,675,1872
+Queens,Ridgewood,1 Bedroom,1 Bathroom,724,2246
+Queens,Rockaway All,1 Bedroom,1 Bathroom,675,1695
+Queens,Sunnyside,1 Bedroom,1 Bathroom,685,1850
+Queens,The Rockaways,1 Bedroom,1 Bathroom,690,1695
+Queens,Woodhaven,1 Bedroom,1 Bathroom,656,1625
+Queens,Woodside,1 Bedroom,1 Bathroom,675,1750
+Queens,South Queens,1 Bedroom,1 Bathroom,670,1700
+Brooklyn,Bath Beach,1 Bedroom,1 Bathroom,624,1499
+Brooklyn,Bedford-Stuyvesant,1 Bedroom,1 Bathroom,724,2200
+Brooklyn,Bensonhurst,1 Bedroom,1 Bathroom,625,1575
+Brooklyn,Boerum Hill,1 Bedroom,1 Bathroom,775,2700
+Brooklyn,Borough Park,1 Bedroom,1 Bathroom,655,1550
+Brooklyn,Brighton Beach,1 Bedroom,1 Bathroom,675,1750
+Brooklyn,Brooklyn Heights,1 Bedroom,1 Bathroom,734,2300
+Brooklyn,Brooklyn Heights,1 Bedroom,1 Bathroom,790,2784
+Brooklyn,Brownsville,1 Bedroom,1 Bathroom,612,1487
+Brooklyn,Bushwick,1 Bedroom,1 Bathroom,724,2290
+Brooklyn,Carroll Gardens,1 Bedroom,1 Bathroom,754,2500
+Brooklyn,Clinton Hill,1 Bedroom,1 Bathroom,760,2500
+Brooklyn,Cobble Hill,1 Bedroom,1 Bathroom,780,2775
+Brooklyn,Columbia St Waterfront District,1 Bedroom,1 Bathroom,760,2575
+Bronx,Concourse,1 Bedroom,1 Bathroom,600,1512
+Brooklyn,Coney Island,1 Bedroom,1 Bathroom,700,2100
+Brooklyn,Crown Heights,1 Bedroom,1 Bathroom,724,2150
+Brooklyn,DUMBO,1 Bedroom,1 Bathroom,850,3747
+Brooklyn,Ditmas Park,1 Bedroom,1 Bathroom,650,1700
+Brooklyn,Downtown Brooklyn,1 Bedroom,1 Bathroom,850,3369
+Brooklyn,Dyker Heights,1 Bedroom,1 Bathroom,624,1500
+Brooklyn,East Brooklyn,1 Bedroom,1 Bathroom,700,2200
+Brooklyn,East Flatbush,1 Bedroom,1 Bathroom,670,1750
+Brooklyn,East New York,1 Bedroom,1 Bathroom,640,1680
+Brooklyn,Flatbush,1 Bedroom,1 Bathroom,670,1775
+Brooklyn,Fort Greene,1 Bedroom,1 Bathroom,750,2769
+Brooklyn,Gowanus,1 Bedroom,1 Bathroom,724,2725
+Brooklyn,Gravesend,1 Bedroom,1 Bathroom,624,1650
+Brooklyn,Greenpoint,1 Bedroom,1 Bathroom,750,2425
+Brooklyn,Greenwood,1 Bedroom,1 Bathroom,725,2199
+Brooklyn,Kensington,1 Bedroom,1 Bathroom,625,1750
+Brooklyn,Midwood,1 Bedroom,1 Bathroom,645,1700
+Brooklyn,Northwest Brooklyn,1 Bedroom,1 Bathroom,760,2850
+Brooklyn,North Brooklyn,1 Bedroom,1 Bathroom,750,2650
+Brooklyn,Ocean Parkway,1 Bedroom,1 Bathroom,625,1700
+Brooklyn,Park Slope,1 Bedroom,1 Bathroom,740,2600
+Brooklyn,Prospect Heights,1 Bedroom,1 Bathroom,760,2500
+Brooklyn,Prospect Lefferts Gardens,1 Bedroom,1 Bathroom,675,1950
+Brooklyn,Prospect Park,1 Bedroom,1 Bathroom,725,2350
+Brooklyn,Prospect Park South,1 Bedroom,1 Bathroom,650,1795
+Brooklyn,Red Hook,1 Bedroom,1 Bathroom,740,2400
+Brooklyn,Sheepshead Bay,1 Bedroom,1 Bathroom,660,1662
+Brooklyn,South Brooklyn,1 Bedroom,1 Bathroom,640,1700
+Brooklyn,Sunset Park,1 Bedroom,1 Bathroom,650,1719
+Brooklyn,Williamsburg,1 Bedroom,1 Bathroom,760,2700
+Brooklyn,Windsor Terrace,1 Bedroom,1 Bathroom,724,2137
+Bronx,Soundview,1 Bedroom,1 Bathroom,650,1500
+Bronx,Riverdale,1 Bedroom,1 Bathroom,675,1875
+Bronx,Tremont,1 Bedroom,1 Bathroom,680,1537
+Bronx,University Heights,1 Bedroom,1 Bathroom,725,2500
+Bronx,Woodstock,1 Bedroom,1 Bathroom,700,2000
+Bronx,Parkchester,1 Bedroom,1 Bathroom,712,2200
+Bronx,Norwood,1 Bedroom,1 Bathroom,612,1500
+Bronx,Morris Heights,1 Bedroom,1 Bathroom,660,1600
+Bronx,Morris Park,1 Bedroom,1 Bathroom,670,1650
+Bronx,Mott Haven,1 Bedroom,1 Bathroom,712,2000
+Bronx,Kingsbridge,1 Bedroom,1 Bathroom,680,1575
+Bronx,Melrose,1 Bedroom,1 Bathroom,660,1400
+Bronx,Fordham,1 Bedroom,1 Bathroom,690,1675
+Bronx,Bronx,1 Bedroom,1 Bathroom,650,1625
+Bronx,Bronxwood,1 Bedroom,1 Bathroom,670,1550
+Bronx,Bedford Park,1 Bedroom,1 Bathroom,660,1472
+Bronx,Belmont,1 Bedroom,1 Bathroom,664,1575
+Staten Island,Arlington,1 Bedroom,1 Bathroom,684,1878
+Staten Island,Bloomfield,1 Bedroom,1 Bathroom,690,1950
+Staten Island,Graniteville,1 Bedroom,1 Bathroom,700,1878
+Staten Island,Grant City,1 Bedroom,1 Bathroom,712,1950
+Staten Island,Arlington,1 Bedroom,1 Bathroom,724,1948
+Staten Island,Bloomfield,1 Bedroom,1 Bathroom,740,1950
+Staten Island,Graniteville,1 Bedroom,1 Bathroom,690,1632
+Staten Island,Grant City,1 Bedroom,1 Bathroom,724,1800
+Staten Island,Arlington,1 Bedroom,1 Bathroom,690,1744
+Staten Island,Bloomfield,1 Bedroom,1 Bathroom,736,1999
+Staten Island,Graniteville,1 Bedroom,1 Bathroom,700,1843
+Staten Island,Grant City,1 Bedroom,1 Bathroom,712,1950
+Manhattan,Upper East Side,2 Bedroom,2 Bathroom,1075,3600
+Manhattan,Upper Manhattan,2 Bedroom,2 Bathroom,950,2475
+Manhattan,Central Harlem,2 Bedroom,2 Bathroom,999,2795
+Manhattan,Chinatown,2 Bedroom,2 Bathroom,1012,2900
+Manhattan,East Harlem,2 Bedroom,2 Bathroom,950,2500
+Manhattan,East Village,2 Bedroom,2 Bathroom,1150,3590
+Manhattan,Inwood,2 Bedroom,2 Bathroom,825,2250
+Manhattan,Hamilton Heights,2 Bedroom,2 Bathroom,850,2400
+Manhattan,Little Italy,2 Bedroom,2 Bathroom,875,3300
+Manhattan,Lower East Side,2 Bedroom,2 Bathroom,899,3450
+Manhattan,Midtown,2 Bedroom,2 Bathroom,975,3800
+Manhattan,Manhattanville,2 Bedroom,2 Bathroom,912,2922
+Manhattan,Midtown,2 Bedroom,2 Bathroom,1240,5900
+Manhattan,Midtown East,2 Bedroom,2 Bathroom,1112,4220
+Manhattan,Midtown South,2 Bedroom,2 Bathroom,1222,5487
+Manhattan,Midtown West,2 Bedroom,2 Bathroom,1212,4945
+Manhattan,Morningside Heights,2 Bedroom,2 Bathroom,1000,3000
+Manhattan,Midtown,2 Bedroom,2 Bathroom,975,2892
+Manhattan,Nolita,2 Bedroom,2 Bathroom,1012,4300
+Manhattan,Roosevelt Island,2 Bedroom,2 Bathroom,1060,3798
+Manhattan,Soho,2 Bedroom,2 Bathroom,1102,7250
+Manhattan,Stuyvesant Town,2 Bedroom,2 Bathroom,1012,3703
+Manhattan,Upper East Side,2 Bedroom,2 Bathroom,999,3600
+Manhattan,Upper West Side,2 Bedroom,2 Bathroom,1050,4581
+Manhattan,Washington Heights,2 Bedroom,2 Bathroom,800,2300
+Manhattan,West Harlem,2 Bedroom,2 Bathroom,812,2383
+Manhattan,West Village,2 Bedroom,2 Bathroom,1040,4600
+Queens,Astoria,2 Bedroom,2 Bathroom,975,2300
+Queens,Bayside,2 Bedroom,2 Bathroom,950,2275
+Queens,Briarwood,2 Bedroom,2 Bathroom,850,1999
+Queens,Central Queens,2 Bedroom,2 Bathroom,925,2250
+Queens,Corona,2 Bedroom,2 Bathroom,945,2342
+Queens,Elmhurst,2 Bedroom,2 Bathroom,960,2300
+Queens,Flushing,2 Bedroom,2 Bathroom,920,2174
+Queens,Forest Hills,2 Bedroom,2 Bathroom,1012,2500
+Queens,Glendale,2 Bedroom,2 Bathroom,890,1975
+Queens,Jackson Heights,2 Bedroom,2 Bathroom,975,2362
+Queens,Jamaica Estates,2 Bedroom,2 Bathroom,1075,2575
+Queens,Kew Gardens,2 Bedroom,2 Bathroom,1024,2100
+Queens,Kew Gardens Hills,2 Bedroom,2 Bathroom,1100,2075
+Queens,Long Island City,2 Bedroom,2 Bathroom,1124,4231
+Queens,Maspeth,2 Bedroom,2 Bathroom,912,1998
+Queens,Middle Village,2 Bedroom,2 Bathroom,924,2200
+Queens,Northeast Queens,2 Bedroom,2 Bathroom,899,2100
+Queens,Northwest Queens,2 Bedroom,2 Bathroom,912,2400
+Queens,Northeast Queens,2 Bedroom,2 Bathroom,924,2300
+Queens,Rego Park,2 Bedroom,2 Bathroom,936,2400
+Queens,Ridgewood,2 Bedroom,2 Bathroom,950,2200
+Queens,Rockaway All,2 Bedroom,2 Bathroom,1124,2150
+Queens,South Queens,2 Bedroom,2 Bathroom,1000,2300
+Queens,Sunnyside,2 Bedroom,2 Bathroom,1050,2300
+Queens,Woodside,2 Bedroom,2 Bathroom,899,2200
+Queens,The Rockaways,2 Bedroom,2 Bathroom,1024,2150
+Brooklyn,Bedford-Stuyvesant,2 Bedroom,2 Bathroom,899,2520
+Brooklyn,Bensonhurst,2 Bedroom,2 Bathroom,875,1899
+Brooklyn,Boerum Hill,2 Bedroom,2 Bathroom,1112,3900
+Brooklyn,Borough Park,2 Bedroom,2 Bathroom,850,1800
+Brooklyn,Coney Island,2 Bedroom,2 Bathroom,925,2395
+Brooklyn,Brighton Beach,2 Bedroom,2 Bathroom,950,2472
+Brooklyn,Brooklyn,2 Bedroom,2 Bathroom,1012,2600
+Brooklyn,Brooklyn Heights,2 Bedroom,2 Bathroom,1120,4699
+Brooklyn,Brownsville,2 Bedroom,2 Bathroom,850,1825
+Brooklyn,Bushwick,2 Bedroom,2 Bathroom,925,2449
+Brooklyn,Canarsie,2 Bedroom,2 Bathroom,875,1899
+Brooklyn,Carroll Gardens,2 Bedroom,2 Bathroom,925,3399
+Brooklyn,Clinton Hill,2 Bedroom,2 Bathroom,934,3200
+Brooklyn,Cobble Hill,2 Bedroom,2 Bathroom,944,3800
+Brooklyn,Waterfront District,2 Bedroom,2 Bathroom,968,2999
+Brooklyn,Crown Heights,2 Bedroom,2 Bathroom,975,2449
+Brooklyn,DUMBO,2 Bedroom,2 Bathroom,1200,5382
+Brooklyn,Ditmas Park,2 Bedroom,2 Bathroom,1012,2299
+Brooklyn,Downtown Brooklyn,2 Bedroom,2 Bathroom,1150,4540
+Brooklyn,Dyker Heights,2 Bedroom,2 Bathroom,950,1925
+Brooklyn,East Brooklyn,2 Bedroom,2 Bathroom,1012,2475
+Brooklyn,East Flatbush,2 Bedroom,2 Bathroom,950,2150
+Brooklyn,East New York,2 Bedroom,2 Bathroom,920,1957
+Brooklyn,Fort Greene,2 Bedroom,2 Bathroom,1075,3400
+Brooklyn,Flatbush,2 Bedroom,2 Bathroom,925,2200
+Brooklyn,Gowanus,2 Bedroom,2 Bathroom,1012,2825
+Brooklyn,Gravesend,2 Bedroom,2 Bathroom,975,1995
+Brooklyn,Greenpoint,2 Bedroom,2 Bathroom,1090,2950
+Brooklyn,Greenwood,2 Bedroom,2 Bathroom,1000,2477
+Bronx,Highbridge,2 Bedroom,2 Bathroom,875,1850
+Brooklyn,Midwood,2 Bedroom,2 Bathroom,912,2000
+Brooklyn,North Brooklyn,2 Bedroom,2 Bathroom,1025,3000
+Brooklyn,Northwest Brooklyn,2 Bedroom,2 Bathroom,1112,3505
+Brooklyn,Ocean Parkway,2 Bedroom,2 Bathroom,999,2197
+Brooklyn,Park Slope,2 Bedroom,2 Bathroom,1099,3200
+Brooklyn,Prospect Heights,2 Bedroom,2 Bathroom,1114,3300
+Brooklyn,Prospect Lefferts Gardens,2 Bedroom,2 Bathroom,925,2426
+Brooklyn,Prospect Park,2 Bedroom,2 Bathroom,975,2910
+Brooklyn,Prospect Park South,2 Bedroom,2 Bathroom,925,2337
+Brooklyn,Sunset Park,2 Bedroom,2 Bathroom,910,1997
+Brooklyn,Red Hook,2 Bedroom,2 Bathroom,1012,2700
+Brooklyn,Sheepshead Bay,2 Bedroom,2 Bathroom,950,2150
+Brooklyn,South Brooklyn,2 Bedroom,2 Bathroom,950,2195
+Brooklyn,Bath Beach,2 Bedroom,2 Bathroom,924,1800
+Brooklyn,Bay Ridge,2 Bedroom,2 Bathroom,975,2200
+Brooklyn,Kensington,2 Bedroom,2 Bathroom,970,2300
+Brooklyn,Williamsburg,2 Bedroom,2 Bathroom,1060,3000
+Brooklyn,Windsor Terrace,2 Bedroom,2 Bathroom,1002,2899
+Bronx,Kingsbridge,2 Bedroom,2 Bathroom,960,1950
+Bronx,Kingsbridge,2 Bedroom,2 Bathroom,960,1950
+Bronx,Kingsbridge,2 Bedroom,2 Bathroom,960,1950
+Bronx,Kingsbridge,2 Bedroom,2 Bathroom,960,1950
+Bronx,Morris Park,2 Bedroom,2 Bathroom,960,2025
+Bronx,Mott Haven,2 Bedroom,2 Bathroom,940,2237
+Bronx,Norwood,2 Bedroom,2 Bathroom,920,1950
+Bronx,Tremont,2 Bedroom,2 Bathroom,900,1850
+Bronx,Woodstock,2 Bedroom,2 Bathroom,875,1787
+Bronx,Riverdale,2 Bedroom,2 Bathroom,999,2383
+Bronx,Norwood,2 Bedroom,2 Bathroom,924,1950
+Bronx,Tremont,2 Bedroom,2 Bathroom,912,1850
+Bronx,Woodstock,2 Bedroom,2 Bathroom,899,1787
+Bronx,Riverdale,2 Bedroom,2 Bathroom,964,2383
+Staten Island,Dongan Hills,2 Bedroom,2 Bathroom,1000,2250
+Staten Island,Elm Park,2 Bedroom,2 Bathroom,940,2350
+Staten Island,Graniteville,2 Bedroom,2 Bathroom,950,2400
+Staten Island,Fort Wadsworth,2 Bedroom,2 Bathroom,910,2350
+Staten Island,Grasmere,2 Bedroom,2 Bathroom,920,2350
+Staten Island,Dongan Hills,2 Bedroom,2 Bathroom,950,2250
+Staten Island,Elm Park,2 Bedroom,2 Bathroom,1000,2350
+Staten Island,Graniteville,2 Bedroom,2 Bathroom,940,2400
+Staten Island,Fort Wadsworth,2 Bedroom,2 Bathroom,950,2350
+Staten Island,Grasmere,2 Bedroom,2 Bathroom,910,2350
+Staten Island,Dongan Hills,2 Bedroom,2 Bathroom,920,2250
+Staten Island,Elm Park,2 Bedroom,2 Bathroom,950,2350
+Staten Island,Graniteville,2 Bedroom,2 Bathroom,922,2400
+Staten Island,Fort Wadsworth,2 Bedroom,2 Bathroom,944,2350
+Staten Island,Grasmere,2 Bedroom,2 Bathroom,984,2350
+Manhattan,Upper Manhattan,3 Bedroom,3 Bathroom,1100,3250
+Manhattan,Upper West Side,3 Bedroom,4 Bathroom,1390,7000
+Manhattan,Central Harlem,3 Bedroom,2 Bathroom,1150,3700
+Manhattan,Chinatown,3 Bedroom,2 Bathroom,1125,4200
+Manhattan,East Harlem,3 Bedroom,1 Bathroom,1112,3350
+Manhattan,East Village,3 Bedroom,2 Bathroom,1300,5000
+Manhattan,Gramercy Park,3 Bedroom,2 Bathroom,1202,5550
+Manhattan,Hamilton Heights,3 Bedroom,1 Bathroom,1200,3197
+Manhattan,Inwood,3 Bedroom,1 Bathroom,1102,2672
+Manhattan,Lower East Side,3 Bedroom,1 Bathroom,1125,4622
+Manhattan,Manhattan,3 Bedroom,1 Bathroom,1202,5310
+Manhattan,Manhattanville,3 Bedroom,1 Bathroom,1100,3350
+Manhattan,Midtown,3 Bedroom,3 Bathroom,1550,8075
+Manhattan,Midtown East,3 Bedroom,2 Bathroom,1275,5977
+Manhattan,Midtown West,3 Bedroom,1 Bathroom,1225,5500
+Manhattan,Morningside Heights,3 Bedroom,1 Bathroom,1100,3666
+Manhattan,Midtown,3 Bedroom,1 Bathroom,1150,3400
+Manhattan,Nolita,3 Bedroom,2 Bathroom,1275,6325
+Manhattan,Roosevelt Island,3 Bedroom,1 Bathroom,1175,4746
+Manhattan,Stuyvesant Town,3 Bedroom,1 Bathroom,1124,4572
+Manhattan,Upper East Side,3 Bedroom,3 Bathroom,1300,7995
+Manhattan,Upper West Side,3 Bedroom,2 Bathroom,1200,7000
+Manhattan,Washington Heights,3 Bedroom,1 Bathroom,1100,2987
+Manhattan,West Harlem,3 Bedroom,2 Bathroom,1660,3325
+Manhattan,West Village,3 Bedroom,1 Bathroom,1250,7497
+Queens,Astoria,3 Bedroom,1 Bathroom,1750,2900
+Queens,Bayside,3 Bedroom,2 Bathroom,1625,3150
+Queens,Central Queens,3 Bedroom,1 Bathroom,1400,2750
+Queens,East Elmhurst,3 Bedroom,1 Bathroom,1322,2650
+Queens,Elmhurst,3 Bedroom,1 Bathroom,1400,2738
+Queens,Forest Hills,3 Bedroom,2 Bathroom,2050,3500
+Queens,Flushing,3 Bedroom,1 Bathroom,1100,2525
+Queens,Glendale,3 Bedroom,1 Bathroom,1112,2398
+Queens,Jackson Heights,3 Bedroom,1 Bathroom,1125,2400
+Queens,Maspeth,3 Bedroom,1 Bathroom,1120,2475
+Queens,Kew Gardens,3 Bedroom,1 Bathroom,1250,2675
+Queens,Long Island City,3 Bedroom,3 Bathroom,2750,5160
+Queens,North Corona,3 Bedroom,1 Bathroom,1750,3000
+Queens,Northeast Queens,3 Bedroom,2 Bathroom,1325,2700
+Queens,Northwest Queens,3 Bedroom,1 Bathroom,1699,3000
+Queens,Queens,3 Bedroom,2 Bathroom,1325,2800
+Queens,Rego Park,3 Bedroom,2 Bathroom,1425,3000
+Queens,Ridgewood,3 Bedroom,1 Bathroom,1350,2797
+Queens,Rockaway All,3 Bedroom,1 Bathroom,1312,2647
+Queens,Woodside,3 Bedroom,1 Bathroom,1324,2720
+Queens,Sunnyside,3 Bedroom,1 Bathroom,1350,2725
+Queens,South Queens,3 Bedroom,1 Bathroom,1300,2500
+Queens,The Rockaways,3 Bedroom,1 Bathroom,1450,2647
+Brooklyn,Bath Beach,3 Bedroom,2 Bathroom,1600,2500
+Brooklyn,Gowanus,3 Bedroom,2 Bathroom,1850,3247
+Brooklyn,Bay Ridge,3 Bedroom,1 Bathroom,1300,2500
+Brooklyn,Fort Greene,3 Bedroom,3 Bathroom,1850,4649
+Brooklyn,Bedford-Stuyvesant,3 Bedroom,1 Bathroom,1200,2998
+Brooklyn,Flatbush,3 Bedroom,1 Bathroom,1150,2725
+Brooklyn,Bensonhurst,3 Bedroom,1 Bathroom,1100,2500
+Brooklyn,Boerum Hill,3 Bedroom,2 Bathroom,2080,5500
+Brooklyn,Brighton Beach,3 Bedroom,1 Bathroom,1100,2600
+Brooklyn,East New York,3 Bedroom,1 Bathroom,900,2350
+Brooklyn, Brooklyn Heights,3 Bedroom,1 Bathroom,1200,3022
+Brooklyn,Brooklyn Heights,3 Bedroom,4 Bathroom,1860,7450
+Brooklyn,Brownsville,3 Bedroom,1 Bathroom,900,2200
+Brooklyn,Bushwick,3 Bedroom,2 Bathroom,950,2897
+Brooklyn,Canarsie,3 Bedroom,1 Bathroom,920,2300
+Brooklyn,Carroll Gardens,3 Bedroom,1 Bathroom,1200,4112
+Brooklyn,Williamsburg,3 Bedroom,2 Bathroom,1190,3660
+Brooklyn,Windsor Terrace,3 Bedroom,1 Bathroom,1150,3255
+Brooklyn,Midwood,3 Bedroom,1 Bathroom,900,2450
+Brooklyn,South Brooklyn,3 Bedroom,1 Bathroom,950,2600
+Brooklyn,North Brooklyn,3 Bedroom,2 Bathroom,1250,3682
+Brooklyn,Sunset Park,3 Bedroom,1 Bathroom,975,2499
+Brooklyn,Sheepshead Bay,3 Bedroom,1 Bathroom,999,2600
+Brooklyn,Northwest Brooklyn,3 Bedroom,2 Bathroom,1750,4996
+Brooklyn,Park Slope,3 Bedroom,1 Bathroom,1650,4795
+Brooklyn,Prospect Heights,3 Bedroom,2 Bathroom,1300,3850
+Brooklyn,Prospect Lefferts Gardens,3 Bedroom,1 Bathroom,1250,3000
+Brooklyn,Prospect Park,3 Bedroom,2 Bathroom,1200,3750
+Brooklyn,Prospect Park South,3 Bedroom,1 Bathroom,1125,2600
+Brooklyn,Crown Heights,3 Bedroom,1 Bathroom,1225,3250
+Brooklyn,Ditmas Park,3 Bedroom,1 Bathroom,1005,2762
+Brooklyn,Dyker Heights,3 Bedroom,1 Bathroom,1025,2550
+Brooklyn,East Brooklyn,3 Bedroom,1 Bathroom,1050,2950
+Brooklyn,Greenwood,3 Bedroom,1 Bathroom,1150,3000
+Brooklyn,East Flatbush,3 Bedroom,1 Bathroom,999,2650
+Brooklyn,Gravesend,3 Bedroom,1 Bathroom,1022,2400
+Brooklyn,Greenpoint,3 Bedroom,2 Bathroom,1290,3735
+Brooklyn,Kensington,3 Bedroom,2 Bathroom,1060,2800
+Brooklyn,Clinton Hill,3 Bedroom,3 Bathroom,1350,4400
+Brooklyn,Cobble Hill,3 Bedroom,4 Bathroom,1400,6400
+Brooklyn,Waterfront District,3 Bedroom,4 Bathroom,1850,5875
+Bronx,Belmont,3 Bedroom,1 Bathroom,900,2300
+Bronx,Riverdale,3 Bedroom,2 Bathroom,1225,3000
+Bronx,Riverdale,3 Bedroom,1 Bathroom,860,2400
+Bronx,Concourse,3 Bedroom,1 Bathroom,900,2446
+Bronx,Fordham,3 Bedroom,1 Bathroom,925,2325
+Bronx,Kingsbridge,3 Bedroom,1 Bathroom,1400,2500
+Bronx,Mott Haven,3 Bedroom,1 Bathroom,1000,2375
+Bronx,Belmont,3 Bedroom,1 Bathroom,950,2300
+Bronx,Riverdale,3 Bedroom,1 Bathroom,1350,3000
+Bronx,Belmont,3 Bedroom,1 Bathroom,900,2300
+Bronx,Riverdale,3 Bedroom,2 Bathroom,1225,3000
+Bronx,Riverdale,3 Bedroom,1 Bathroom,860,2400
+Bronx,Concourse,3 Bedroom,1 Bathroom,900,2446
+Bronx,Fordham,3 Bedroom,1 Bathroom,925,2325
+Bronx,Kingsbridge,3 Bedroom,1 Bathroom,1400,2500
+Bronx,Mott Haven,3 Bedroom,1 Bathroom,1000,2375
+Bronx,Belmont,3 Bedroom,1 Bathroom,950,2300
+Bronx,Riverdale,3 Bedroom,1 Bathroom,1350,3000
+Bronx,Riverdale,3 Bedroom,1 Bathroom,1350,3000
+Bronx,Riverdale,3 Bedroom,1 Bathroom,1350,3000
+Bronx,Riverdale,3 Bedroom,1 Bathroom,1350,3000
+Staten Island,Pleasant Plains,3 Bedroom,1 Bathroom,999,2200
+Staten Island,Richmond Valley,3 Bedroom,1 Bathroom,1180,2500
+Staten Island,Rosebank,3 Bedroom,1 Bathroom,1250,3000
+Staten Island,Saint George,3 Bedroom,1 Bathroom,1350,3500
+Staten Island,Stapleton Heights,3 Bedroom,2 Bathroom,1750,4000
+Staten Island,Sunnyside,3 Bedroom,2 Bathroom,1012,2500
+Staten Island,Pleasant Plains,3 Bedroom,1 Bathroom,999,2200
+Staten Island,Richmond Valley,3 Bedroom,1 Bathroom,1180,2500
+Staten Island,Rosebank,3 Bedroom,1 Bathroom,1250,3000
+Staten Island,Saint George,3 Bedroom,1 Bathroom,1350,3500
+Staten Island,Stapleton Heights,3 Bedroom,2 Bathroom,1750,4000
+Staten Island,Sunnyside,3 Bedroom,2 Bathroom,1012,2500
+Staten Island,Pleasant Plains,3 Bedroom,1 Bathroom,999,2200
+Staten Island,Richmond Valley,3 Bedroom,1 Bathroom,1180,2500
+Staten Island,Rosebank,3 Bedroom,1 Bathroom,1250,3000
+Staten Island,Saint George,3 Bedroom,1 Bathroom,1350,3500
+Staten Island,Stapleton Heights,3 Bedroom,2 Bathroom,1750,4000
+Staten Island,Sunnyside,3 Bedroom,2 Bathroom,1012,2500
+Manhattan,Downtown,Studio,1 Bathroom,555,2875
+Manhattan,Midtown,Studio,1 Bathroom,532,2595
+Manhattan,Upper East Side,Studio,1 Bathroom,500,2100
+Manhattan,Upper Manhattan,Studio,1 Bathroom,412,1795
+Manhattan,Upper West Side,Studio,1 Bathroom,490,2249
+Manhattan,Battery Park City,Studio,1 Bathroom,650,3360
+Manhattan,Chelsea,Studio,1 Bathroom,590,2875
+Manhattan,Central Harlem,Studio,1 Bathroom,440,1799
+Manhattan,Central Park South,Studio,1 Bathroom,550,2800
+Manhattan,East Harlem,Studio,1 Bathroom,412,1800
+Manhattan,East Village,Studio,1 Bathroom,470,2250
+Manhattan,Flatiron,Studio,1 Bathroom,665,3600
+Manhattan,Financial District,Studio,1 Bathroom,632,3095
+Manhattan,Gramercy Park,Studio,1 Bathroom,627,2875
+Manhattan,Hamilton Heights,Studio,1 Bathroom,420,1773
+Manhattan,Greenwich Village,Studio,1 Bathroom,500,2750
+Manhattan,Little Italy,Studio,1 Bathroom,412,1971
+Manhattan,Lower East Side,Studio,1 Bathroom,480,2150
+Manhattan,Manhattan,Studio,1 Bathroom,590,2450
+Manhattan,Manhattanville,Studio,1 Bathroom,430,1922
+Manhattan,Midtown,Studio,1 Bathroom,499,2891
+Manhattan,Midtown East,Studio,1 Bathroom,475,2462
+Manhattan,Midtown South,Studio,1 Bathroom,476,2700
+Manhattan,Midtown West,Studio,1 Bathroom,466,2667
+Manhattan,Morningside Heights,Studio,1 Bathroom,480,2295
+Manhattan,NYC,Studio,1 Bathroom,450,2300
+Manhattan,Nolita,Studio,1 Bathroom,440,2875
+Manhattan,Roosevelt Island,Studio,1 Bathroom,425,2200
+Manhattan,Soho,Studio,1 Bathroom,460,2650
+Manhattan,Tribeca,Studio,1 Bathroom,1000,4275
+Manhattan,Upper East Side,Studio,1 Bathroom,624,2100
+Manhattan,Upper West Side,Studio,1 Bathroom,690,2249
+Manhattan,Washington Heights,Studio,1 Bathroom,624,1675
+Manhattan,West Village,Studio,1 Bathroom,675,2800
+Queens,Astoria,Studio,1 Bathroom,660,1870
+Queens,Woodside,Studio,1 Bathroom,612,1500
+Queens,Sunnyside,Studio,1 Bathroom,624,1651
+Queens,South Queens,Studio,1 Bathroom,630,1475
+Queens,Rego Park,Studio,1 Bathroom,612,1642
+Queens,Queens,Studio,1 Bathroom,590,1750
+Queens,Northeast Queens,Studio,1 Bathroom,660,1550
+Queens,Kew Gardens,Studio,1 Bathroom,652,1525
+Queens,Long Island City,Studio,1 Bathroom,750,2538
+Queens,Jackson Heights,Studio,1 Bathroom,612,1600
+Queens,Jamaica,Studio,1 Bathroom,640,1828
+Queens,Elmhurst,Studio,1 Bathroom,660,1500
+Queens,Flushing,Studio,1 Bathroom,630,1550
+Queens,Forest Hills,Studio,1 Bathroom,620,1595
+Queens,Central Queens,Studio,1 Bathroom,630,1595
+Queens,Northwest Queens,Studio,1 Bathroom,650,2300
+Queens,Corona,Studio,1 Bathroom,635,1500
+Queens,Briarwood,Studio,1 Bathroom,622,1575
+Brooklyn,Williamsburg,Studio,1 Bathroom,590,2483
+Brooklyn,Windsor Terrace,Studio,1 Bathroom,624,2000
+Brooklyn,Sunset Park,Studio,1 Bathroom,634,1600
+Brooklyn,Bay Ridge,Studio,1 Bathroom,623,1592
+Brooklyn,Bedford-Stuyvesant,Studio,1 Bathroom,550,1995
+Brooklyn,Bensonhurst,Studio,1 Bathroom,500,1765
+Brooklyn,Boerum Hill,Studio,1 Bathroom,650,2100
+Brooklyn,Sheepshead Bay,Studio,1 Bathroom,625,1450
+Brooklyn,Red Hook,Studio,1 Bathroom,490,1800
+Brooklyn,Park Slope,Studio,1 Bathroom,580,2100
+Brooklyn,Prospect Heights,Studio,1 Bathroom,550,1850
+Brooklyn,Prospect Lefferts Gardens,Studio,1 Bathroom,490,1645
+Brooklyn,Prospect Park,Studio,1 Bathroom,500,1925
+Brooklyn,Prospect Park South,Studio,1 Bathroom,624,1550
+Brooklyn,Northwest Brooklyn,Studio,1 Bathroom,600,2500
+Brooklyn,South Brooklyn,Studio,1 Bathroom,623,1595
+Brooklyn,North Brooklyn,Studio,1 Bathroom,500,2452
+Brooklyn,Midwood,Studio,1 Bathroom,623,1600
+Brooklyn,Gravesend,Studio,1 Bathroom,624,1375
+Brooklyn,Greenpoint,Studio,1 Bathroom,500,2125
+Brooklyn,Greenwood,Studio,1 Bathroom,550,2674
+Brooklyn,Fort Greene,Studio,1 Bathroom,580,2504
+Brooklyn,Gowanus,Studio,1 Bathroom,570,2550
+Brooklyn,Kensington,Studio,1 Bathroom,624,1550
+Brooklyn,Flatbush,Studio,1 Bathroom,624,1620
+Brooklyn,Clinton Hill,Studio,1 Bathroom,550,2250
+Brooklyn,Cobble Hill,Studio,1 Bathroom,624,1950
+Brooklyn,Crown Heights,Studio,1 Bathroom,624,1700
+Brooklyn,DUMBO,Studio,1 Bathroom,612,3000
+Brooklyn,Ditmas Park,Studio,1 Bathroom,550,1599
+Brooklyn,Downtown Brooklyn,Studio,1 Bathroom,612,2655
+Brooklyn,East Brooklyn,Studio,1 Bathroom,500,1976
+Brooklyn,East Flatbush,Studio,1 Bathroom,612,1450
+Brooklyn,Brooklyn,Studio,1 Bathroom,580,2150
+Brooklyn,Brooklyn Heights,Studio,1 Bathroom,580,2150
+Brooklyn,Bushwick,Studio,1 Bathroom,560,2012
+Brooklyn,Carroll Gardens,Studio,1 Bathroom,612,2650
+Bronx,Highbridge,Studio,1 Bathroom,630,1450
+Bronx,Riverdale,Studio,1 Bathroom,625,1500
+Bronx,Highbridge,Studio,1 Bathroom,630,1450
+Bronx,Riverdale,Studio,1 Bathroom,633,1500
+Bronx,Highbridge,Studio,1 Bathroom,612,1450
+Bronx,Riverdale,Studio,1 Bathroom,590,1500
+Bronx,Riverdale,Studio,1 Bathroom,612,1500
+Bronx,Highbridge,Studio,1 Bathroom,612,1450
+Bronx,Highbridge,Studio,1 Bathroom,612,1450
+Bronx,Riverdale,Studio,1 Bathroom,624,1500
+Bronx,Highbridge,Studio,1 Bathroom,622,1450
+Bronx,Riverdale,Studio,1 Bathroom,622,1500
+Bronx,Highbridge,Studio,1 Bathroom,630,1450
+Bronx,Riverdale,Studio,1 Bathroom,634,1500
+Bronx,Riverdale,Studio,1 Bathroom,632,1500
+Bronx,Highbridge,Studio,1 Bathroom,639,1450
+Bronx,Highbridge,Studio,1 Bathroom,633,1450
+Bronx,Riverdale,Studio,1 Bathroom,638,1500
+Bronx,Highbridge,Studio,1 Bathroom,622,1450
+Bronx,Riverdale,Studio,1 Bathroom,624,1500
+Bronx,Highbridge,Studio,1 Bathroom,612,1450
+Bronx,Riverdale,Studio,1 Bathroom,624,1500
+Bronx,Riverdale,Studio,1 Bathroom,630,1500
+Bronx,Highbridge,Studio,1 Bathroom,620,1450
+Staten Island,Arden Heights,Studio,1 Bathroom,600,1290
+Staten Island,Arden Heights,Studio,1 Bathroom,650,1191
+Staten Island,Arden Heights,Studio,1 Bathroom,632,1392
+Staten Island,Arden Heights,Studio,1 Bathroom,550,1293
+Staten Island,Arden Heights,Studio,1 Bathroom,640,994
+Staten Island,Arden Heights,Studio,1 Bathroom,600,800
+Staten Island,Arden Heights,Studio,1 Bathroom,640,1252
+Staten Island,Arden Heights,Studio,1 Bathroom,590,925
+Staten Island,Arden Heights,Studio,1 Bathroom,585,825
+Staten Island,Arden Heights,Studio,1 Bathroom,600,1000
+Staten Island,Arden Heights,Studio,1 Bathroom,612,890
+Staten Island,Arden Heights,Studio,1 Bathroom,634,999
+Staten Island,Arden Heights,Studio,1 Bathroom,620,875
+Staten Island,Arden Heights,Studio,1 Bathroom,640,925
+Staten Island,Arden Heights,Studio,1 Bathroom,650,912
+Staten Island,Arden Heights,Studio,1 Bathroom,590,899
+Staten Island,Arden Heights,Studio,1 Bathroom,585,924
+Staten Island,Arden Heights,Studio,1 Bathroom,600,1002
+Staten Island,Arden Heights,Studio,1 Bathroom,590,946
+Staten Island,Arden Heights,Studio,1 Bathroom,612,966
+Staten Island,Arden Heights,Studio,1 Bathroom,624,899
+Staten Island,Arden Heights,Studio,1 Bathroom,594,924
+Manhattan,Downtown,1 Bedroom,1 Bathroom,800,3600
+Manhattan,Midtown,1 Bedroom,1 Bathroom,750,3550
+Manhattan,Upper East Side,1 Bedroom,1 Bathroom,650,2795
+Manhattan,Upper Manhattan,1 Bedroom,1 Bathroom,612,1950
+Manhattan,Upper West Side,1 Bedroom,1 Bathroom,724,3149
+Brooklyn,Bay Ridge,1 Bedroom,1 Bathroom,624,1700
+Manhattan,Central Harlem,1 Bedroom,1 Bathroom,646,2100
+Manhattan,Central Park South,1 Bedroom,1 Bathroom,712,6975
+Manhattan,Chelsea,1 Bedroom,1 Bathroom,766,4170
+Manhattan,Chinatown,1 Bedroom,1 Bathroom,742,2337
+Manhattan,East Harlem,1 Bedroom,1 Bathroom,690,2097
+Manhattan,East Village,1 Bedroom,1 Bathroom,722,2782
+Manhattan,Financial District,1 Bedroom,1 Bathroom,766,3995
+Manhattan,Flatiron,1 Bedroom,1 Bathroom,812,4635
+Manhattan,Gramercy Park,1 Bedroom,1 Bathroom,750,3500
+Manhattan,Hamilton Heights,1 Bedroom,1 Bathroom,650,1950
+Manhattan,Inwood,1 Bedroom,1 Bathroom,612,1750
+Manhattan,Greenwich Village,1 Bedroom,1 Bathroom,734,3750
+Manhattan,Lower East Side,1 Bedroom,1 Bathroom,680,2912
+Manhattan,Manhattan,1 Bedroom,1 Bathroom,712,3150
+Manhattan,Manhattanville,1 Bedroom,1 Bathroom,650,2297
+Manhattan,Little Italy,1 Bedroom,1 Bathroom,688,2575
+Manhattan,Midtown,1 Bedroom,1 Bathroom,700,3695
+Manhattan,Midtown East,1 Bedroom,1 Bathroom,692,3400
+Manhattan,Midtown South,1 Bedroom,1 Bathroom,724,3966
+Manhattan,Midtown West,1 Bedroom,1 Bathroom,712,3542
+Manhattan,Morningside Heights,1 Bedroom,1 Bathroom,670,2750
+Manhattan,Nolita,1 Bedroom,1 Bathroom,700,3100
+Manhattan,Midtown,1 Bedroom,1 Bathroom,650,2550
+Manhattan,Roosevelt Island,1 Bedroom,1 Bathroom,630,2716
+Manhattan,Soho,1 Bedroom,1 Bathroom,690,3450
+Manhattan,Stuyvesant Town,1 Bedroom,1 Bathroom,712,3635
+Manhattan,Tribeca,1 Bedroom,1 Bathroom,790,4700
+Manhattan,Upper East Side,1 Bedroom,1 Bathroom,644,2795
+Manhattan,Upper West Side,1 Bedroom,1 Bathroom,676,3149
+Manhattan,Washington Heights,1 Bedroom,1 Bathroom,612,1800
+Manhattan,West Harlem,1 Bedroom,1 Bathroom,622,2000
+Manhattan,West Village,1 Bedroom,1 Bathroom,650,3895
+Manhattan,Battery Park City,1 Bedroom,1 Bathroom,724,3850
+Queens,Astoria,1 Bedroom,1 Bathroom,730,1925
+Queens,Auburndale,1 Bedroom,1 Bathroom,612,1425
+Queens,Bayside,1 Bedroom,1 Bathroom,650,1625
+Queens,Briarwood,1 Bedroom,1 Bathroom,634,1650
+Queens,Central Queens,1 Bedroom,1 Bathroom,700,1850
+Queens,Corona,1 Bedroom,1 Bathroom,612,1670
+Queens,Elmhurst,1 Bedroom,1 Bathroom,712,1900
+Queens,Flushing,1 Bedroom,1 Bathroom,675,1725
+Queens,Forest Hills,1 Bedroom,1 Bathroom,720,1900
+Queens,Glendale,1 Bedroom,1 Bathroom,674,1700
+Queens,Jackson Heights,1 Bedroom,1 Bathroom,684,1780
+Queens,Jamaica,1 Bedroom,1 Bathroom,750,2075
+Queens,Jamaica Estates,1 Bedroom,1 Bathroom,674,1765
+Queens,Kew Gardens,1 Bedroom,1 Bathroom,675,1750
+Queens,Kew Gardens Hills,1 Bedroom,1 Bathroom,690,1825
+Queens,Long Island City,1 Bedroom,1 Bathroom,824,3208
+Queens,Maspeth,1 Bedroom,1 Bathroom,650,1645
+Queens,North Corona,1 Bedroom,1 Bathroom,644,1610
+Queens,Northeast Queens,1 Bedroom,1 Bathroom,624,1750
+Queens,Northwest Queens,1 Bedroom,1 Bathroom,812,2100
+Queens,Oakland Gardens,1 Bedroom,1 Bathroom,650,1672
+Queens,Jackson Heights,1 Bedroom,1 Bathroom,690,1945
+Queens,Rego Park,1 Bedroom,1 Bathroom,675,1872
+Queens,Ridgewood,1 Bedroom,1 Bathroom,724,2246
+Queens,Rockaway All,1 Bedroom,1 Bathroom,675,1695
+Queens,Sunnyside,1 Bedroom,1 Bathroom,685,1850
+Queens,The Rockaways,1 Bedroom,1 Bathroom,690,1695
+Queens,Woodhaven,1 Bedroom,1 Bathroom,656,1625
+Queens,Woodside,1 Bedroom,1 Bathroom,675,1750
+Queens,South Queens,1 Bedroom,1 Bathroom,670,1700
+Brooklyn,Bath Beach,1 Bedroom,1 Bathroom,624,1499
+Brooklyn,Bedford-Stuyvesant,1 Bedroom,1 Bathroom,724,2200
+Brooklyn,Bensonhurst,1 Bedroom,1 Bathroom,625,1575
+Brooklyn,Boerum Hill,1 Bedroom,1 Bathroom,775,2700
+Brooklyn,Borough Park,1 Bedroom,1 Bathroom,655,1550
+Brooklyn,Brighton Beach,1 Bedroom,1 Bathroom,675,1750
+Brooklyn,Brooklyn Heights,1 Bedroom,1 Bathroom,734,2300
+Brooklyn,Brooklyn Heights,1 Bedroom,1 Bathroom,790,2784
+Brooklyn,Brownsville,1 Bedroom,1 Bathroom,612,1487
+Brooklyn,Bushwick,1 Bedroom,1 Bathroom,724,2290
+Brooklyn,Carroll Gardens,1 Bedroom,1 Bathroom,754,2500
+Brooklyn,Clinton Hill,1 Bedroom,1 Bathroom,760,2500
+Brooklyn,Cobble Hill,1 Bedroom,1 Bathroom,780,2775
+Brooklyn,Columbia St Waterfront District,1 Bedroom,1 Bathroom,760,2575
+Bronx,Concourse,1 Bedroom,1 Bathroom,600,1512
+Brooklyn,Coney Island,1 Bedroom,1 Bathroom,700,2100
+Brooklyn,Crown Heights,1 Bedroom,1 Bathroom,724,2150
+Brooklyn,DUMBO,1 Bedroom,1 Bathroom,850,3747
+Brooklyn,Ditmas Park,1 Bedroom,1 Bathroom,650,1700
+Brooklyn,Downtown Brooklyn,1 Bedroom,1 Bathroom,850,3369
+Brooklyn,Dyker Heights,1 Bedroom,1 Bathroom,624,1500
+Brooklyn,East Brooklyn,1 Bedroom,1 Bathroom,700,2200
+Brooklyn,East Flatbush,1 Bedroom,1 Bathroom,670,1750
+Brooklyn,East New York,1 Bedroom,1 Bathroom,640,1680
+Brooklyn,Flatbush,1 Bedroom,1 Bathroom,670,1775
+Brooklyn,Fort Greene,1 Bedroom,1 Bathroom,750,2769
+Brooklyn,Gowanus,1 Bedroom,1 Bathroom,724,2725
+Brooklyn,Gravesend,1 Bedroom,1 Bathroom,624,1650
+Brooklyn,Greenpoint,1 Bedroom,1 Bathroom,750,2425
+Brooklyn,Greenwood,1 Bedroom,1 Bathroom,725,2199
+Brooklyn,Kensington,1 Bedroom,1 Bathroom,625,1750
+Brooklyn,Midwood,1 Bedroom,1 Bathroom,645,1700
+Brooklyn,Northwest Brooklyn,1 Bedroom,1 Bathroom,760,2850
+Brooklyn,North Brooklyn,1 Bedroom,1 Bathroom,750,2650
+Brooklyn,Ocean Parkway,1 Bedroom,1 Bathroom,625,1700
+Brooklyn,Park Slope,1 Bedroom,1 Bathroom,740,2600
+Brooklyn,Prospect Heights,1 Bedroom,1 Bathroom,760,2500
+Brooklyn,Prospect Lefferts Gardens,1 Bedroom,1 Bathroom,675,1950
+Brooklyn,Prospect Park,1 Bedroom,1 Bathroom,725,2350
+Brooklyn,Prospect Park South,1 Bedroom,1 Bathroom,650,1795
+Brooklyn,Red Hook,1 Bedroom,1 Bathroom,740,2400
+Brooklyn,Sheepshead Bay,1 Bedroom,1 Bathroom,660,1662
+Brooklyn,South Brooklyn,1 Bedroom,1 Bathroom,640,1700
+Brooklyn,Sunset Park,1 Bedroom,1 Bathroom,650,1719
+Brooklyn,Williamsburg,1 Bedroom,1 Bathroom,760,2700
+Brooklyn,Windsor Terrace,1 Bedroom,1 Bathroom,724,2137
+Bronx,Soundview,1 Bedroom,1 Bathroom,650,1500
+Bronx,Riverdale,1 Bedroom,1 Bathroom,675,1875
+Bronx,Tremont,1 Bedroom,1 Bathroom,680,1537
+Bronx,University Heights,1 Bedroom,1 Bathroom,725,2500
+Bronx,Woodstock,1 Bedroom,1 Bathroom,700,2000
+Bronx,Parkchester,1 Bedroom,1 Bathroom,712,2200
+Bronx,Norwood,1 Bedroom,1 Bathroom,612,1500
+Bronx,Morris Heights,1 Bedroom,1 Bathroom,660,1600
+Bronx,Morris Park,1 Bedroom,1 Bathroom,670,1650
+Bronx,Mott Haven,1 Bedroom,1 Bathroom,712,2000
+Bronx,Kingsbridge,1 Bedroom,1 Bathroom,680,1575
+Bronx,Melrose,1 Bedroom,1 Bathroom,660,1400
+Bronx,Fordham,1 Bedroom,1 Bathroom,690,1675
+Bronx,Bronx,1 Bedroom,1 Bathroom,650,1625
+Bronx,Bronxwood,1 Bedroom,1 Bathroom,670,1550
+Bronx,Bedford Park,1 Bedroom,1 Bathroom,660,1472
+Bronx,Belmont,1 Bedroom,1 Bathroom,664,1575
+Staten Island,Arlington,1 Bedroom,1 Bathroom,684,1878
+Staten Island,Bloomfield,1 Bedroom,1 Bathroom,690,1950
+Staten Island,Graniteville,1 Bedroom,1 Bathroom,700,1878
+Staten Island,Grant City,1 Bedroom,1 Bathroom,712,1950
+Staten Island,Arlington,1 Bedroom,1 Bathroom,724,1948
+Staten Island,Bloomfield,1 Bedroom,1 Bathroom,740,1950
+Staten Island,Graniteville,1 Bedroom,1 Bathroom,690,1632
+Staten Island,Grant City,1 Bedroom,1 Bathroom,724,1800
+Staten Island,Arlington,1 Bedroom,1 Bathroom,690,1744
+Staten Island,Bloomfield,1 Bedroom,1 Bathroom,736,1999
+Staten Island,Graniteville,1 Bedroom,1 Bathroom,700,1843
+Staten Island,Grant City,1 Bedroom,1 Bathroom,712,1950
+Manhattan,Downtown,2 Bedroom,2 Bathroom,1150,4450
+Manhattan,Midtown,2 Bedroom,2 Bathroom,1175,4770
+Manhattan,Upper East Side,2 Bedroom,2 Bathroom,1075,3600
+Manhattan,Upper Manhattan,2 Bedroom,2 Bathroom,950,2475
+Manhattan,Upper West Side,2 Bedroom,2 Bathroom,1150,4581
+Manhattan,Battery Park City,2 Bedroom,2 Bathroom,1200,6453
+Manhattan,Central Harlem,2 Bedroom,2 Bathroom,999,2795
+Manhattan,Central Park South,2 Bedroom,2 Bathroom,1200,11077
+Manhattan,Chelsea,2 Bedroom,2 Bathroom,1100,6280
+Manhattan,Chinatown,2 Bedroom,2 Bathroom,1012,2900
+Manhattan,East Harlem,2 Bedroom,2 Bathroom,950,2500
+Manhattan,East Village,2 Bedroom,2 Bathroom,1150,3590
+Manhattan,Financial District,2 Bedroom,2 Bathroom,1275,5360
+Manhattan,Flatiron,2 Bedroom,2 Bathroom,1250,7064
+Manhattan,Gramercy Park,2 Bedroom,2 Bathroom,1075,4400
+Manhattan,Greenwich Village,2 Bedroom,2 Bathroom,1125,5447
+Manhattan,Inwood,2 Bedroom,2 Bathroom,825,2250
+Manhattan,Hamilton Heights,2 Bedroom,2 Bathroom,850,2400
+Manhattan,Little Italy,2 Bedroom,2 Bathroom,875,3300
+Manhattan,Lower East Side,2 Bedroom,2 Bathroom,899,3450
+Manhattan,Midtown,2 Bedroom,2 Bathroom,975,3800
+Manhattan,Manhattanville,2 Bedroom,2 Bathroom,912,2922
+Manhattan,Midtown,2 Bedroom,2 Bathroom,1240,5900
+Manhattan,Midtown East,2 Bedroom,2 Bathroom,1112,4220
+Manhattan,Midtown South,2 Bedroom,2 Bathroom,1222,5487
+Manhattan,Midtown West,2 Bedroom,2 Bathroom,1212,4945
+Manhattan,Morningside Heights,2 Bedroom,2 Bathroom,1000,3000
+Manhattan,Midtown,2 Bedroom,2 Bathroom,975,2892
+Manhattan,Nolita,2 Bedroom,2 Bathroom,1012,4300
+Manhattan,Roosevelt Island,2 Bedroom,2 Bathroom,1060,3798
+Manhattan,Soho,2 Bedroom,2 Bathroom,1102,7250
+Manhattan,Stuyvesant Town,2 Bedroom,2 Bathroom,1012,3703
+Manhattan,Tribeca,2 Bedroom,2 Bathroom,1124,7850
+Manhattan,Upper East Side,2 Bedroom,2 Bathroom,999,3600
+Manhattan,Upper West Side,2 Bedroom,2 Bathroom,1050,4581
+Manhattan,Washington Heights,2 Bedroom,2 Bathroom,800,2300
+Manhattan,West Harlem,2 Bedroom,2 Bathroom,812,2383
+Manhattan,West Village,2 Bedroom,2 Bathroom,1040,4600
+Queens,Astoria,2 Bedroom,2 Bathroom,975,2300
+Queens,Bayside,2 Bedroom,2 Bathroom,950,2275
+Queens,Briarwood,2 Bedroom,2 Bathroom,850,1999
+Queens,Central Queens,2 Bedroom,2 Bathroom,925,2250
+Queens,Corona,2 Bedroom,2 Bathroom,945,2342
+Queens,Elmhurst,2 Bedroom,2 Bathroom,960,2300
+Queens,Flushing,2 Bedroom,2 Bathroom,920,2174
+Queens,Forest Hills,2 Bedroom,2 Bathroom,1012,2500
+Queens,Glendale,2 Bedroom,2 Bathroom,890,1975
+Queens,Jackson Heights,2 Bedroom,2 Bathroom,975,2362
+Queens,Jamaica Estates,2 Bedroom,2 Bathroom,1075,2575
+Queens,Kew Gardens,2 Bedroom,2 Bathroom,1024,2100
+Queens,Kew Gardens Hills,2 Bedroom,2 Bathroom,1100,2075
+Queens,Long Island City,2 Bedroom,2 Bathroom,1124,4231
+Queens,Maspeth,2 Bedroom,2 Bathroom,912,1998
+Queens,Middle Village,2 Bedroom,2 Bathroom,924,2200
+Queens,Northeast Queens,2 Bedroom,2 Bathroom,899,2100
+Queens,Northwest Queens,2 Bedroom,2 Bathroom,912,2400
+Queens,Northeast Queens,2 Bedroom,2 Bathroom,924,2300
+Queens,Rego Park,2 Bedroom,2 Bathroom,936,2400
+Queens,Ridgewood,2 Bedroom,2 Bathroom,950,2200
+Queens,Rockaway All,2 Bedroom,2 Bathroom,1124,2150
+Queens,South Queens,2 Bedroom,2 Bathroom,1000,2300
+Queens,Sunnyside,2 Bedroom,2 Bathroom,1050,2300
+Queens,Woodside,2 Bedroom,2 Bathroom,899,2200
+Queens,The Rockaways,2 Bedroom,2 Bathroom,1024,2150
+Brooklyn,Bedford-Stuyvesant,2 Bedroom,2 Bathroom,899,2520
+Brooklyn,Bensonhurst,2 Bedroom,2 Bathroom,875,1899
+Brooklyn,Boerum Hill,2 Bedroom,2 Bathroom,1112,3900
+Brooklyn,Borough Park,2 Bedroom,2 Bathroom,850,1800
+Brooklyn,Coney Island,2 Bedroom,2 Bathroom,925,2395
+Brooklyn,Brighton Beach,2 Bedroom,2 Bathroom,950,2472
+Brooklyn,Brooklyn,2 Bedroom,2 Bathroom,1012,2600
+Brooklyn,Brooklyn Heights,2 Bedroom,2 Bathroom,1120,4699
+Brooklyn,Brownsville,2 Bedroom,2 Bathroom,850,1825
+Brooklyn,Bushwick,2 Bedroom,2 Bathroom,925,2449
+Brooklyn,Canarsie,2 Bedroom,2 Bathroom,875,1899
+Brooklyn,Carroll Gardens,2 Bedroom,2 Bathroom,925,3399
+Brooklyn,Clinton Hill,2 Bedroom,2 Bathroom,934,3200
+Brooklyn,Cobble Hill,2 Bedroom,2 Bathroom,944,3800
+Brooklyn,Waterfront District,2 Bedroom,2 Bathroom,968,2999
+Brooklyn,Crown Heights,2 Bedroom,2 Bathroom,975,2449
+Brooklyn,DUMBO,2 Bedroom,2 Bathroom,1200,5382
+Brooklyn,Ditmas Park,2 Bedroom,2 Bathroom,1012,2299
+Brooklyn,Downtown Brooklyn,2 Bedroom,2 Bathroom,1150,4540
+Brooklyn,Dyker Heights,2 Bedroom,2 Bathroom,950,1925
+Brooklyn,East Brooklyn,2 Bedroom,2 Bathroom,1012,2475
+Brooklyn,East Flatbush,2 Bedroom,2 Bathroom,950,2150
+Brooklyn,East New York,2 Bedroom,2 Bathroom,920,1957
+Brooklyn,Fort Greene,2 Bedroom,2 Bathroom,1075,3400
+Brooklyn,Flatbush,2 Bedroom,2 Bathroom,925,2200
+Brooklyn,Gowanus,2 Bedroom,2 Bathroom,1012,2825
+Brooklyn,Gravesend,2 Bedroom,2 Bathroom,975,1995
+Brooklyn,Greenpoint,2 Bedroom,2 Bathroom,1090,2950
+Brooklyn,Greenwood,2 Bedroom,2 Bathroom,1000,2477
+Bronx,Highbridge,2 Bedroom,2 Bathroom,875,1850
+Brooklyn,Midwood,2 Bedroom,2 Bathroom,912,2000
+Brooklyn,North Brooklyn,2 Bedroom,2 Bathroom,1025,3000
+Brooklyn,Northwest Brooklyn,2 Bedroom,2 Bathroom,1112,3505
+Brooklyn,Ocean Parkway,2 Bedroom,2 Bathroom,999,2197
+Brooklyn,Park Slope,2 Bedroom,2 Bathroom,1099,3200
+Brooklyn,Prospect Heights,2 Bedroom,2 Bathroom,1114,3300
+Brooklyn,Prospect Lefferts Gardens,2 Bedroom,2 Bathroom,925,2426
+Brooklyn,Prospect Park,2 Bedroom,2 Bathroom,975,2910
+Brooklyn,Prospect Park South,2 Bedroom,2 Bathroom,925,2337
+Brooklyn,Sunset Park,2 Bedroom,2 Bathroom,910,1997
+Brooklyn,Red Hook,2 Bedroom,2 Bathroom,1012,2700
+Brooklyn,Sheepshead Bay,2 Bedroom,2 Bathroom,950,2150
+Brooklyn,South Brooklyn,2 Bedroom,2 Bathroom,950,2195
+Brooklyn,Bath Beach,2 Bedroom,2 Bathroom,924,1800
+Brooklyn,Bay Ridge,2 Bedroom,2 Bathroom,975,2200
+Brooklyn,Kensington,2 Bedroom,2 Bathroom,970,2300
+Brooklyn,Williamsburg,2 Bedroom,2 Bathroom,1060,3000
+Brooklyn,Windsor Terrace,2 Bedroom,2 Bathroom,1002,2899
+Bronx,Kingsbridge,2 Bedroom,2 Bathroom,960,1950
+Bronx,Kingsbridge,2 Bedroom,2 Bathroom,960,1950
+Bronx,Kingsbridge,2 Bedroom,2 Bathroom,960,1950
+Bronx,Kingsbridge,2 Bedroom,2 Bathroom,960,1950
+Bronx,Morris Park,2 Bedroom,2 Bathroom,960,2025
+Bronx,Mott Haven,2 Bedroom,2 Bathroom,940,2237
+Bronx,Norwood,2 Bedroom,2 Bathroom,920,1950
+Bronx,Tremont,2 Bedroom,2 Bathroom,900,1850
+Bronx,Woodstock,2 Bedroom,2 Bathroom,875,1787
+Bronx,Riverdale,2 Bedroom,2 Bathroom,999,2383
+Bronx,Norwood,2 Bedroom,2 Bathroom,924,1950
+Bronx,Tremont,2 Bedroom,2 Bathroom,912,1850
+Bronx,Woodstock,2 Bedroom,2 Bathroom,899,1787
+Bronx,Riverdale,2 Bedroom,2 Bathroom,964,2383
+Staten Island,Dongan Hills,2 Bedroom,2 Bathroom,1000,2250
+Staten Island,Elm Park,2 Bedroom,2 Bathroom,940,2350
+Staten Island,Graniteville,2 Bedroom,2 Bathroom,950,2400
+Staten Island,Fort Wadsworth,2 Bedroom,2 Bathroom,910,2350
+Staten Island,Grasmere,2 Bedroom,2 Bathroom,920,2350
+Staten Island,Dongan Hills,2 Bedroom,2 Bathroom,950,2250
+Staten Island,Elm Park,2 Bedroom,2 Bathroom,1000,2350
+Staten Island,Graniteville,2 Bedroom,2 Bathroom,940,2400
+Staten Island,Fort Wadsworth,2 Bedroom,2 Bathroom,950,2350
+Staten Island,Grasmere,2 Bedroom,2 Bathroom,910,2350
+Staten Island,Dongan Hills,2 Bedroom,2 Bathroom,920,2250
+Staten Island,Elm Park,2 Bedroom,2 Bathroom,950,2350
+Staten Island,Graniteville,2 Bedroom,2 Bathroom,922,2400
+Staten Island,Fort Wadsworth,2 Bedroom,2 Bathroom,944,2350
+Staten Island,Grasmere,2 Bedroom,2 Bathroom,984,2350
