@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Statistics">
+
+    <com.github.mikephil.charting.charts.BarChart
+        android:id="@+id/leadershipResultsGraph"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_alignBottom="@+id/confidenceResultsGraph"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="7dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginEnd="3dp"
+        android:layout_marginRight="3dp"
+        android:layout_marginBottom="0dp"
+        android:layout_toStartOf="@+id/confidenceResultsGraph"
+        android:layout_toLeftOf="@+id/confidenceResultsGraph" />
+
+    <com.github.mikephil.charting.charts.BarChart
+        android:id="@+id/confidenceResultsGraph"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="3dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginRight="10dp" />
+
+    <com.github.mikephil.charting.charts.BarChart
+        android:id="@+id/integrityResultsGraph"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_below="@+id/txtLeadership"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="-3dp"
+        android:layout_marginRight="-3dp"
+        android:layout_toStartOf="@+id/extremeSituationsResultsGraph"
+        android:layout_toLeftOf="@+id/extremeSituationsResultsGraph" />
+
+    <com.github.mikephil.charting.charts.BarChart
+        android:id="@+id/extremeSituationsResultsGraph"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_below="@+id/txtConfidence"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="7dp">
+
+    </com.github.mikephil.charting.charts.BarChart>
+
+    <Button
+        android:id="@+id/btnHome"
+        android:layout_width="171dp"
+        android:layout_height="65dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="4dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.934" />
+
+    <TextView
+        android:id="@+id/txtLeadership"
+        android:layout_width="202dp"
+        android:layout_height="80dp"
+        android:layout_below="@+id/leadershipResultsGraph"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginStart="12dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginTop="-1dp"
+        android:layout_marginEnd="-4dp"
+        android:layout_marginRight="-4dp"
+        android:layout_toStartOf="@+id/txtConfidence"
+        android:layout_toLeftOf="@+id/txtConfidence" />
+
+    <TextView
+        android:id="@+id/txtConfidence"
+        android:layout_width="202dp"
+        android:layout_height="80dp"
+        android:layout_below="@+id/confidenceResultsGraph"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="-1dp"
+        android:layout_marginEnd="-4dp"
+        android:layout_marginRight="-4dp" />
+
+    <TextView
+        android:id="@+id/txtIntegrity"
+        android:layout_width="203dp"
+        android:layout_height="76dp"
+        android:layout_below="@+id/integrityResultsGraph"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="1dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginBottom="153dp"
+        android:layout_toStartOf="@+id/txtExtremeSituations"
+        android:layout_toLeftOf="@+id/txtExtremeSituations" />
+
+    <TextView
+        android:id="@+id/txtExtremeSituations"
+        android:layout_width="199dp"
+        android:layout_height="80dp"
+        android:layout_below="@+id/extremeSituationsResultsGraph"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="1dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginBottom="115dp" />
+
+</RelativeLayout>

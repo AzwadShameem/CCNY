@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/questionHolder"
+        android:layout_width="333dp"
+        android:layout_height="192dp"
+        android:layout_marginTop="20dp"
+        app:autoSizeTextType="uniform"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.493"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtTimer" />
+
+    <Button
+        android:id="@+id/btnNext"
+        android:layout_width="174dp"
+        android:layout_height="56dp"
+        android:layout_marginBottom="28dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/radioGroupChoice" />
+
+    <RadioGroup
+        android:id="@+id/radioGroupChoice"
+        android:layout_width="333dp"
+        android:layout_height="242dp"
+        android:layout_marginTop="15dp"
+        app:layout_constraintEnd_toEndOf="@+id/questionHolder"
+        app:layout_constraintHorizontal_bias="0.555"
+        app:layout_constraintStart_toStartOf="@+id/questionHolder"
+        app:layout_constraintTop_toBottomOf="@+id/questionHolder">
+
+        <RadioButton
+            android:id="@+id/btnOptionOne"
+            android:layout_width="match_parent"
+            android:layout_height="59dp"
+            android:checked="true" />
+
+        <RadioButton
+            android:id="@+id/btnOptionTwo"
+            android:layout_width="match_parent"
+            android:layout_height="59dp" />
+
+        <RadioButton
+            android:id="@+id/btnOptionThree"
+            android:layout_width="match_parent"
+            android:layout_height="59dp" />
+
+        <RadioButton
+            android:id="@+id/btnOptionFour"
+            android:layout_width="match_parent"
+            android:layout_height="60dp" />
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/txtTimer"
+        android:layout_width="383dp"
+        android:layout_height="35dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginRight="20dp"
+        app:autoSizeTextType="uniform"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
