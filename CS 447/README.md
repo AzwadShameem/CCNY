@@ -1,1 +1,3 @@
-# CS 447 - Machine Learning
+# CS 447 
+Machine Learning  
+Grade: A
