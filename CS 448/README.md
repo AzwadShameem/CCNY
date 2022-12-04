@@ -1,1 +1,3 @@
-# CS 448 - Artificial Intelligence
+# CS 448
+Artificial Intelligence  
+Grade: A
