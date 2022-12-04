@@ -1,1 +1,3 @@
-# CS 221 - Software Design
+# CS 221
+Software Design  
+Grade: A+
