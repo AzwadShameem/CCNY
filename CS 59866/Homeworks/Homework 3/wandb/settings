@@ -1,0 +1,5 @@
+[default]
+entity = azwad
+project = hw03
+base_url = https://api.wandb.ai
+

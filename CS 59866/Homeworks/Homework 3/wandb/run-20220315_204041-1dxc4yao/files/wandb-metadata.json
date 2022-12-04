@@ -1,0 +1,34 @@
+{
+    "os": "Windows-10-10.0.19044-SP0",
+    "python": "3.9.6",
+    "heartbeatAt": "2022-03-16T00:40:55.343117",
+    "startedAt": "2022-03-16T00:40:41.545741",
+    "docker": null,
+    "gpu": "NVIDIA GeForce GTX 1080",
+    "gpu_count": 1,
+    "cpu_count": 16,
+    "cuda": null,
+    "args": [
+        "--ip=127.0.0.1",
+        "--stdin=9013",
+        "--control=9011",
+        "--hb=9010",
+        "--Session.signature_scheme=\"hmac-sha256\"",
+        "--Session.key=b\"ad160c12-cb7c-4109-ac5a-375c38457d9f\"",
+        "--shell=9012",
+        "--transport=\"tcp\"",
+        "--iopub=9014",
+        "--f=C:\\Users\\azwad\\AppData\\Local\\Temp\\tmp-4228idL2PYXTMbvX.json"
+    ],
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/Azwadd/CS_59866.git",
+        "commit": "67645c93d3faee3f9a665ece788479a066fda2cd"
+    },
+    "email": "azwadshameem@outlook.com",
+    "root": "C:/Users/azwad/Documents/CS_59866",
+    "host": "DESKTOP-UMH0R4O",
+    "username": "azwad",
+    "executable": "C:\\Users\\azwad\\.pyenv\\pyenv-win\\versions\\3.9.6\\python3.9.exe"
+}

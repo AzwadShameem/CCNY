@@ -1,0 +1,184 @@
+Best Test PR-AUC for Logistic Regression is in Experiment-3-StandardScaler-TargetEncoding  with a Test PR-AUC of 0.928914881677986 in row 80 of the csv
+Best Test Accuracy for Logistic Regression is 0.8804347826086957 on row 80 in the csv
+Best hyperameters for test accuracy with Logistic Regression is solver=lbfgs max_iter=600
+[25, 24, 15, 12, 2]
+['ST_Slope-OneHot-Flat' 'ST_Slope-OneHot-Up' 'ChestPainType-OneHot-ASY'
+ 'Sex-OneHot-M' 'Cholesterol-StandardScaler']
+[0 0 1 1 0]
+Testing Accuracy: 0.8586956521739131
+Test PR-AUC: 0.9192069552343288
+Experiment-5-KitchenSink
+criterion=gini, splitter=random, max_features=sqrt, max_depth=300, min_samples_split=2
+Test PR-AUC for DecisionTreeClassifier 0.9118249798903715
+Experiment-4-MinMax-OneHot
+solver=adam, activation=relu, max_iter=3000
+Test PR-AUC for Neural Net classifier 0.9426702390627115
+Experiment-2-StandardScaler-OneHot
+loss=deviance, criterion=friedman_mse, min_samples_split=9, min_samples_leaf=3, learning_rate=0.28
+Test PR-AUC for Gradient Boost 0.9423497029856234
+0.8504672897196262
+0.7829457364341085
+[67.33514986376022, 65.47826086956528]
+[76.29427792915529, 60.994565217391354]
+[71.13215258855584, 63.74456521739137]
+[72.91825613079021, 66.679347826087]
+['Custom-BinaryHighMaxHR', 'Custom-BucketizedLowOldpeak', 'Custom-BucketizedMidOldpeak', 'Custom-BucketizedHighOldpeak', 'Custom-BucketizedLowMaxHR', 'Custom-BucketizedMidMaxHR', 'Custom-BucketizedHighMaxHR', 'Custom-BucketizedHighOldpeak_X_LowMaxHR', 'Custom-BucketizedMidOldpeak_X_MidMaxHR', 'Custom-BucketizedLowOldpeak_X_HighMaxHR', 'Custom-BucketizedLowAge', 'Custom-BucketizedMidAge', 'Custom-BucketizedHighAge']
+0.8504672897196262
+0.7829457364341085
+0.8411214953271028
+0.7829457364341085
+0.8411214953271028
+0.7829457364341085
+0.8411214953271028
+0.7829457364341085
+0    0.841121
+1    0.841121
+2    0.841121
+3    0.822430
+4    0.813084
+5    0.841121
+6    0.841121
+7    0.841121
+8    0.841121
+9    0.841121
+Name: Testing Recall, dtype: float64
+0.7829457364341085
+0.7829457364341085
+0.7829457364341085
+0.9345794392523364
+0.7829457364341085
+0.9345794392523364
+0.7829457364341085
+0.9345794392523364
+0.9518072289156626
+Recall: 0.9345794392523364
+0.9518072289156626
+Recall: 0.9345794392523364 Precision
+0.9518072289156626
+Testing Recall: 0.9345794392523364 Testing Precision 0.8403361344537815
+0.9518072289156626
+Testing Recall: 0.9345794392523364 Testing Precision 0.8403361344537815
+Testing Precision 0.9518072289156626
+Testing Recall: 0.9345794392523364 Testing Precision 0.8403361344537815
+Testing Precision 0.9518072289156626 Testing Recall: 0.7383177570093458
+Model MLPClassifier Testing Recall: 0.9345794392523364 Testing Precision 0.8403361344537815
+Testing Precision 0.9518072289156626 Testing Recall: 0.7383177570093458
+Model: MLPClassifier Testing Recall: 0.9345794392523364 Testing Precision 0.8403361344537815
+Testing Precision 0.9518072289156626 Testing Recall: 0.7383177570093458
+Model: MLPClassifier Hyperparameters solver=adam, activation=relu, hidden_layer_sizes=(100, 100), max_iter=3000
+Testing Recall: 0.9345794392523364 Testing Precision 0.8403361344537815
+Testing Precision 0.9518072289156626 Testing Recall: 0.7383177570093458
+Model: MLPClassifier Hyperparameters solver=adam, activation=relu, hidden_layer_sizes=(100, 100), max_iter=3000
+Testing Recall: 0.9345794392523364 Testing Precision 0.8403361344537815
+Model: MLPClassifier Hyperparameters solver=adam, activation=relu, hidden_layer_sizes=(100, 100), alpha=0.001, learning_rate=constant, max_iter=3000
+Testing Precision 0.9518072289156626 Testing Recall: 0.7383177570093458
+Model: MLPClassifier Hyperparameters: solver=adam, activation=relu, hidden_layer_sizes=(100, 100), max_iter=3000
+Testing Recall: 0.9345794392523364 Testing Precision 0.8403361344537815
+Model: MLPClassifier Hyperparameters: solver=adam, activation=relu, hidden_layer_sizes=(100, 100), alpha=0.001, learning_rate=constant, max_iter=3000
+Testing Precision 0.9518072289156626 Testing Recall: 0.7383177570093458
+Model: MLPClassifier  Hyperparameters: solver=adam, activation=relu, hidden_layer_sizes=(100, 100), max_iter=3000
+Testing Recall: 0.9345794392523364 Testing Precision 0.8403361344537815
+Model: MLPClassifier  Hyperparameters: solver=adam, activation=relu, hidden_layer_sizes=(100, 100), alpha=0.001, learning_rate=constant, max_iter=3000
+Testing Precision 0.9518072289156626 Testing Recall: 0.7383177570093458
+Model: MLPClassifier 	Hyperparameters: solver=adam, activation=relu, hidden_layer_sizes=(100, 100), max_iter=3000
+Testing Recall: 0.9345794392523364 Testing Precision 0.8403361344537815
+Model: MLPClassifier 	Hyperparameters: solver=adam, activation=relu, hidden_layer_sizes=(100, 100), alpha=0.001, learning_rate=constant, max_iter=3000
+Testing Precision 0.9518072289156626 Testing Recall: 0.7383177570093458
+Model: MLPClassifier 	Hyperparameters: solver=adam, activation=relu, hidden_layer_sizes=(100, 100), max_iter=3000
+Testing Recall: 0.9345794392523364
+Testing Precision 0.8403361344537815
+Training Precision 0.8071278825995807
+Model: MLPClassifier 	Hyperparameters: solver=adam, activation=relu, hidden_layer_sizes=(100, 100), alpha=0.001, learning_rate=constant, max_iter=3000
+Testing Precision 0.9518072289156626 Testing Recall: 0.7383177570093458
+Model: MLPClassifier 	Hyperparameters: solver=adam, activation=relu, hidden_layer_sizes=(100, 100), max_iter=3000
+Testing Recall: 0.9345794392523364
+Testing Precision 0.8403361344537815
+Training Precision 0.8071278825995807
+Model: MLPClassifier 	Hyperparameters: solver=adam, activation=relu, hidden_layer_sizes=(100, 100), alpha=0.001, learning_rate=constant, max_iter=3000
+Testing Precision 0.9518072289156626 Testing Recall: 0.7383177570093458
+Model: MLPClassifier 	Hyperparameters: solver=adam, activation=relu, hidden_layer_sizes=(100, 100), max_iter=3000
+Testing Recall: 0.9345794392523364
+Testing Precision 0.8403361344537815
+Training Precision 0.8071278825995807
+Model: MLPClassifier 	=Hyperparameters: solver=adam, activation=relu, hidden_layer_sizes=(100, 100), alpha=0.001, learning_rate=constant, max_iter=3000
+Testing Precision 0.9518072289156626 Testing Recall: 0.7383177570093458
+Model: MLPClassifier 	Hyperparameters: solver=adam, activation=relu, hidden_layer_sizes=(100, 100), max_iter=3000
+Testing Recall: 0.9345794392523364
+Testing Precision 0.8403361344537815
+Training Precision 0.8071278825995807
+Model: MLPClassifier 	=Hyperparameters: solver=adam, activation=relu, hidden_layer_sizes=(100, 100), alpha=0.001, learning_rate=constant, max_iter=3000
+Testing Precision 0.9518072289156626
+Testing Recall: 0.7383177570093458
+Model: MLPClassifier 	Hyperparameters: solver=adam, activation=relu, hidden_layer_sizes=(100, 100), max_iter=3000
+Testing Recall: 0.9345794392523364
+Testing Precision 0.8403361344537815
+Training Precision 0.8071278825995807
+Model: MLPClassifier 	Hyperparameters: solver=adam, activation=relu, hidden_layer_sizes=(100, 100), alpha=0.001, learning_rate=constant, max_iter=3000
+Testing Precision 0.9518072289156626
+Testing Recall: 0.7383177570093458
+Model: MLPClassifier 	Hyperparameters: solver=adam, activation=relu, hidden_layer_sizes=(100, 100), max_iter=3000
+Testing Recall: 0.9345794392523364
+Testing Precision 0.8403361344537815
+Training Precision 0.8071278825995807
+Model: MLPClassifier 	Hyperparameters: solver=adam, activation=relu, hidden_layer_sizes=(100, 100), alpha=0.001, learning_rate=constant, max_iter=3000
+Testing Precision 0.9518072289156626
+Testing Recall: 0.7383177570093458
+Training Recall 0.9600997506234414
+Training, Testing
+[67.33514986376022, 65.47826086956528]
+[76.29427792915529, 60.994565217391354]
+[71.13215258855584, 63.74456521739137]
+[72.91825613079021, 66.679347826087]
+Sum of all Accuracies
+132.8134107333255
+137.28884314654664
+134.8767178059472
+139.5976039568772
+Training, Testing
+[67.33514986376022, 65.47826086956528]
+[76.29427792915529, 60.994565217391354]
+[71.13215258855584, 63.74456521739137]
+[72.91825613079021, 66.679347826087]
+Sum of all Accuracies
+132.8134107333255
+137.28884314654664
+134.8767178059472
+139.5976039568772
+Training, Testing
+LogisticRegression: [67.33514986376022, 65.47826086956528]
+DecisionTreeClassifier: [76.29427792915529, 60.994565217391354]
+MLPClassifier: [71.13215258855584, 63.74456521739137]
+GradientBoostClassifier: [72.91825613079021, 66.679347826087]
+LogisticRegression: 132.8134107333255
+DecisionTreeClassifier: 137.28884314654664
+MLPClassifier: 134.8767178059472
+GradientBoostClassifier: 139.5976039568772
+Training, Testing
+LogisticRegression: [67.33514986376022, 65.47826086956528]
+DecisionTreeClassifier: [76.29427792915529, 60.994565217391354]
+MLPClassifier: [71.13215258855584, 63.74456521739137]
+GradientBoostClassifier: [72.91825613079021, 66.679347826087]
+Sum of all Accuracy
+LogisticRegression: 132.8134107333255
+DecisionTreeClassifier: 137.28884314654664
+MLPClassifier: 134.8767178059472
+GradientBoostClassifier: 139.5976039568772
+Training, Testing
+LogisticRegression: [67.33514986376022, 65.47826086956528]
+DecisionTreeClassifier: [76.29427792915529, 60.994565217391354]
+MLPClassifier: [71.13215258855584, 63.74456521739137]
+GradientBoostClassifier: [72.91825613079021, 66.679347826087]
+Sum of all Accuracy
+LogisticRegression: 132.8134107333255
+DecisionTreeClassifier: 137.28884314654664
+MLPClassifier: 134.8767178059472
+GradientBoostClassifier: 139.5976039568772
+Training Accuracy, Testing Accuracy
+LogisticRegression: [67.33514986376022, 65.47826086956528]
+DecisionTreeClassifier: [76.29427792915529, 60.994565217391354]
+MLPClassifier: [71.13215258855584, 63.74456521739137]
+GradientBoostClassifier: [72.91825613079021, 66.679347826087]
+Sum of all Accuracy
+LogisticRegression: 132.8134107333255
+DecisionTreeClassifier: 137.28884314654664
+MLPClassifier: 134.8767178059472
