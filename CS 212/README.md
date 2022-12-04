@@ -1,1 +1,3 @@
-# CS 212 - Data Structures
+# CS 212  
+Data Structures  
+Grade: A
