@@ -1,0 +1,207 @@
+.userProfileTitle{
+    text-align: center;
+}
+
+.userProfile {
+    width: 80%;
+    margin: 3% 10%;
+}
+
+.OrderReview {
+    width: 100%;
+    display: flex;
+    justify-content: end;
+}
+
+.OrderReview button {
+    padding: 1% 2%;
+    border-radius: 25px;
+    border: none;
+}
+
+.OrderRatingForm {
+    padding: 1% 2%;
+    margin-top: 2.5%;
+    border-radius: 35px;
+    background-color: var(--beige);
+}
+
+.OrderRatingForm input[type = "number"] {
+    border: 1px solid #976627;
+    padding: 0.5% 1%;
+    margin-left: 0.5%;
+    border-radius: 25px;
+}
+
+.OrderRatingForm form {
+    display: flex;
+    flex-direction: column;
+}
+
+.OrderRatingForm label {
+    margin-top: 1%;
+}
+
+.OrderRatingForm textarea {
+    resize: none;
+    margin-top: 0.5%;
+    padding: 1%;
+    border: 1px solid #976627;
+    border-radius: 15px;
+}
+
+.OrderRatingForm textarea:focus {
+    outline: none;
+}
+
+.OrderRatingForm form button {
+    float: right;
+    margin-top: 2%;
+    border: none;
+    background-color: var(--yellow);
+    border-radius: 25px;
+    padding: 1% 2%;
+}
+
+.ratingInput {
+    display: inherit;
+}
+
+
+.userMetaData {
+    display: grid;
+    grid-template-columns: repeat(3, 33.33%);
+    align-items: center;
+    align-content: center;
+    margin-top: 3%;
+}
+
+.userMetaDataOne, .userMetaDataTwo, .userMetaDataThree {
+    text-align: center;
+}
+
+.userMetaDataOne h3, .userMetaDataTwo h3, .userMetaDataThree h3 {
+    font-size: 1.8em;
+    padding: 0;
+    margin: 0;
+}
+
+.addMoney {
+    width: 100%;
+    margin-top: 1%;
+    display: flex;
+    margin-left: 8%;
+    height: 80%;
+}
+
+.addMoney button {
+    padding: 2.5% 10%;
+    background-color: rgb(43, 207, 43);
+    border-radius: 25px;
+    border: none;
+    color: white;
+    font-size: 1.3em;
+}
+
+.WalletForm {
+    position: absolute;
+    background-color: var(--white);
+    top: 50%;
+    left: 50%;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    transform: translate(-50%, -50%);
+    border-radius: 15px;
+    padding: 2% 2%;
+    display: none;
+    overflow-y: noscroll;
+}
+
+.WalletForm form {
+    width: 17%;
+    display: flex;
+    flex-direction: column;
+}
+
+.WalletBox label {
+    margin-bottom: 3%;
+}
+
+.WalletBox input {
+    margin-bottom: 8%;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    border-bottom: 1px solid #976627;
+    padding: 3% 2%;
+}
+
+.WalletBox input:focus {
+    outline: none;
+}
+
+.WalletBox h1 {
+    margin-bottom: 2%;
+}
+
+.WalletBox {
+    width: 100%;
+    display: grid;
+    align-items: center;
+    height: 100%;
+    grid-template-columns: 100%;
+    justify-content: center;
+}
+
+.ProfilePic {
+    width: 100%;
+    display: grid;
+    clear: both;
+    justify-content: center;
+}
+
+.profileImage {
+    background: lightblue;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+.deleteAccount {
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+.deleteAccount button {
+    background-color: var(--yellow);
+    border: none;
+    border-radius: 25px;
+    margin-top: 1%;
+    padding: 0.9% 2%;
+    font-size: 0.9em;
+}
+
+.AddToWallet {
+    width: 100%;
+    background-color: rgb(43, 207, 43);
+    color: var(--white);
+    padding: 4%;
+    border-radius: 25px;
+    border: none;
+    font-weight: bold;
+    font-size: 1em;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.closeButtonForm {
+    width: 100%;
+    background-color: rgb(214, 214, 214);
+    color: var(--black);
+    padding: 4%;
+    border-radius: 25px;
+    border: none;
+    font-size: 1em;
+}

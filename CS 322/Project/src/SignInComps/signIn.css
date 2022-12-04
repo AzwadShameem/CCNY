@@ -1,0 +1,84 @@
+.signTop {
+    margin-top: 100px;
+}
+
+.signBox {
+    border: none;
+    margin: 0 550px 0 550px;
+}
+
+.signHeader {
+    margin-left: 43%
+}
+
+.labelSpacing {
+    margin: 0 18%;
+    display: grid;
+    align-items: center;
+    margin-bottom: 2%;
+}
+
+.labelSpacingButton {
+    margin: 0 18%;
+    width: 64%;
+}
+
+.input[type=text] {
+    border: 2px solid green;
+    box-sizing: border-box;
+    padding: 10px 170px 10px 10px;
+    margin-bottom: 10px;
+}
+
+.input[type=password] {
+    border: 2px solid green;
+    box-sizing: border-box;
+    padding: 10px 170px 10px 10px;
+    margin: 0 0 10px 5px;
+}
+
+.btnSubmit {
+    background-color: #4CAF50;
+    border: none;
+    cursor: pointer;
+    color: white;
+    margin-bottom: 10px;
+    margin-left: 93px;
+    padding: 8px 153px 8px 153px;
+}
+
+.divider {
+    text-align: center;
+    text-transform: uppercase;
+    position: relative;
+    z-index: 1;
+    margin: 2% 0;
+}
+
+.divider:before {
+    border-top: 2px solid var(--red);
+    content:"";
+    position: absolute;
+    top: 50%; left: 550px; right: 550px; bottom: 0;
+    z-index: -1;
+}
+
+.signMsg {
+    background: #F5F2DF;
+    color: var(--red);
+    padding: 0 10px 0 10px;
+    font-size: 12px;
+    font-family: 'Rock Salt', cursive;
+}
+
+.linkSignUp{
+    margin: 0 10px 10px 550px;
+    padding: 10px 350px 10px 350px;
+    border-radius: 25px;
+    color: white;
+    background-color: #4CAF50;
+}
+
+.SignIn {
+    margin: 0% 0% 10% 0;
+}

@@ -1,0 +1,146 @@
+
+.managerProfile {
+    width: 80%;
+    margin: 3% 10%;
+}
+
+.ChoicesLink {
+    width: 100%;
+    display: flex;
+    margin-top: 3%;
+}
+
+.ChoicesLink div {
+    border-radius: 25px;
+    margin-right: 2%;
+    padding: 0.5% 1%;
+    border: 1px solid var(--yellow);
+    cursor: pointer;
+}
+
+.userCard {
+    margin: 1% 0;
+    background-color: var(--white);
+    padding: 0.5% 3%;
+    border-radius: 25px;
+    display: grid;
+    grid-template-columns: 87% 13%;
+    justify-content: center;
+    align-items: center;
+}
+
+.userCard:nth-child(1) {
+    margin-top: 5%;
+}
+
+.userCard button {
+    width: 100%;
+    background-color: var(--yellow);
+    border-radius: 25px;
+    border: none;
+    padding: 10% 20%;
+    font-size: 0.9em;
+    margin-bottom: 2%;
+    margin-top: 2%;
+}
+
+
+.UserOrderCard {
+    margin: 3% 0;
+    background-color: var(--white);
+    border-radius: 25px;
+    padding: 0.5% 2% 1.5% 2%;
+}
+
+.userCardInner {
+    display: flex;
+    padding: 0 3% 0 2%;
+    justify-content: space-between;
+}
+
+.userCardInner h3 {
+    font-size: 2em;
+    margin: 0;
+}
+
+.deliveryCardTwo {
+    padding: 1% 3%;
+    background-color: var(--white);
+    border-radius: 25px;
+    display: grid;
+    grid-template-columns: 49% 49%;
+    column-gap: 2%;
+    margin-bottom: 3%;
+}
+
+.deliveryLabel {
+    margin-left: 10px;
+}
+
+.labelOrderDate {
+    margin-bottom: 100px;
+    padding-right: 10px;
+}
+
+.btnDelivery1 {
+    background-color: var(--yellow);
+    border-radius: 15px;
+    border: none;
+    font-size: 0.9em;
+    padding: 3%;
+    margin-bottom: 3%;
+    font-weight: bold;
+}
+
+.btnDelivery2 {
+    background-color: var(--yellow);
+    border-radius: 15px;
+    border: none;
+    font-size: 0.9em;
+    padding: 3%;
+    margin-bottom: 3%;
+    font-weight: bold;
+}
+
+.memo {
+    position: absolute;
+    width: 100%;
+    z-index: 2;
+    height: 100%;
+    top: 0;
+    left: 0;
+    position: fixed;
+    background-color: var(--beige);
+    justify-content: center;
+    align-items: center;
+    display: none;
+}
+.memoBox {
+    display: flex;
+    flex-direction: column;
+}
+
+.memoBox textarea {
+    background-color: var(--white);
+    border-radius: 15px;
+    padding: 2% 3%;
+}
+
+.memo button {
+    margin: 1% 0;
+    border: none;
+    border-radius: 15px;
+    padding: 2% 0
+}
+
+.memo button:nth-child(1) {
+    margin-top: 6.5%;
+    background-color: lightgreen;
+    border: none;
+}
+
+.memo button:nth-child(2) {
+    margin-top: 2%;
+    background-color: var(--black);
+    color: var(--white);
+}

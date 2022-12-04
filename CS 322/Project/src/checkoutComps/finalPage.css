@@ -1,0 +1,25 @@
+
+.finalPage h1 {
+    color: var(--red);
+    font-size: 1.2rem;
+}
+
+.finalPageCheck {
+    font-size: 4rem;
+    padding-bottom: 1%;
+    color: var(--yellow);
+}
+
+.finalPageParent {
+    width: 100%;
+    display: flex;
+    flex-flow: column;
+    flex: 1 1 auto;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+.finalPage {
+    text-align: center;
+}

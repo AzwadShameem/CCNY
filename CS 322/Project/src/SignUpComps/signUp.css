@@ -1,0 +1,29 @@
+
+.SignIn button {   
+    background-color: #4CAF50;   
+    width: 100%;   
+    padding: 15px;   
+    margin: 10px 0px;   
+    border: none;   
+    cursor: pointer;   
+    border-radius: 25px;  
+}
+
+.SignIn form {
+    display: grid;
+    align-items: center;
+}
+
+.SignIn input[type=text], .SignIn input[type=password], .SignIn select {   
+    width: 100%;   
+    margin: 8px 0;  
+    padding: 12px 20px;   
+    display: inline-block;   
+    border: 2px solid green;   
+    box-sizing: border-box;   
+    border-radius: 25px;
+}
+
+.SignIn button:hover {   
+    opacity: 0.7;   
+}

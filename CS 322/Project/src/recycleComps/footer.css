@@ -1,0 +1,21 @@
+
+footer {
+    margin-top: auto;
+    width: 90%;
+    padding: 0.5% 5%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-color: var(--red);
+}
+
+footer p {
+    color: var(--yellow);
+}
+
+footer p:nth-child(1) {
+    text-align: left;
+}
+
+footer p:nth-child(2) {
+    text-align: right;
+}
