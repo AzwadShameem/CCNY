@@ -1,1 +1,3 @@
-# CS 211 - Fundamentals Of Computer Systems
+# CS 211  
+Fundamentals Of Computer Systems  
+Grade: A-
