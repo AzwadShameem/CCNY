@@ -1,0 +1,83 @@
+.home_body{
+    align-items: center;
+}
+.top_image_row{
+    position: center;
+    width: 100%;
+    max-width: 300 px;
+}
+
+.welcome{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 800px;
+    width: 95%;
+}
+
+.top_image_text{
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+.overlay{
+    font-size: 50px;
+}
+
+.contact_button{
+    border-width: 2px;
+    outline: 0;
+    display: inline-block;
+    padding: 10px 25px;
+    color: white;
+    background-color:transparent;
+    text-align: center;
+    cursor: pointer;
+}
+
+.contact_button:hover{
+    font-size: 20px;
+    background-color: transparent;
+}
+.amenities{
+    padding: 20px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+.amenities h1{
+    font-weight: bold;
+    color: grey;
+}
+.about_us_text{
+    padding-top: 160px;
+    padding-left: 15px;
+    padding-right: 15px;
+    width:43%;
+    background-color: #7c746c;
+    color: white;
+}
+
+.about_us_image{
+    width: 50%;
+}
+
+.about_us{
+    margin-top: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+/*
+kjhdkahdl
+*/
+.contact_us{
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+    margin-top: 15px;
+    background-color: #7c746c;
+    color: white;
+}

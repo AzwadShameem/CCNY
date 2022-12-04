@@ -1,0 +1,86 @@
+@import url("https://fonts.googleapis.com/css2?family=Oxygen:wght@300;400;700&display=swap");
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Oxygen, sans-serif;
+    margin: 2rem;
+}
+
+.wrapper{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(16rem, 20rem));
+    gap: 2rem;
+    justify-content: center;
+    margin: 0;
+    position: relative;
+    top: 50%;
+    -ms-transform: translateY(50%);
+    transform: translateY(50%);
+    height: 500px;
+}
+
+.card {
+    overflow: hidden;
+    box-shadow: 0 2px 20px #e1e5ee;
+    border-radius: 0.2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    cursor: pointer;
+    transition: transform 200ms ease-in;
+    margin: 0;
+    /* padding: 10px; */
+}
+
+.card_image {
+    height: 15rem;
+    width: 100%;
+    object-fit: cover;
+}
+
+.card_title {
+    padding: 1rem;
+}
+
+.card_desc {
+    padding: 0 1rem;
+}
+
+.card_btn {
+    padding: 1rem;
+    font-family: inherit;
+    font-size: 1rem;
+    font-weight: bold;
+    margin: 1rem;
+    border: 2px solid #00bfff;
+    background: transparent;
+    color: #00bfff;
+    border-radius: 0.2rem;
+    transition: background 200ms ease-in, color 200ms ease-in;
+}
+
+.card:hover {
+    overflow: hidden;
+    box-shadow: 0 2px 20px #e1e5ee;
+    border-radius: 0.2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    cursor: pointer;
+    transition: transform 200ms ease-in;
+    margin: 0;
+    transform: scale(1.02);
+}
+
+
+.card_btn:hover{
+    background: #00bfff;
+    color:white;
+}

@@ -1,0 +1,27 @@
+.contact_us_form{
+    max-width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+.contact_us_form label{
+    text-align: left;
+    display: block;
+}
+
+.contact_us_form input, .contact_us_form textarea{
+    width: 100%;
+    padding: 6px 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+    display: block;
+}
+
+.contact_us_form button{
+    background-color: transparent;
+    color: white;
+    border-color: white;
+    border-width: 2px;
+    margin-bottom: 10px;
+}
