@@ -1,1 +1,3 @@
-# CS 301 - Scientific Numerical Programming
+# CS 301 
+Scientific Numerical Programming  
+Grade: A+
