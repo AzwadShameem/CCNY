@@ -1,1 +1,3 @@
-# CS 332 - Operating Systems
+# CS 332
+Operating Systems  
+Grade: A+
