@@ -1,0 +1,38 @@
+|Shameem_03_06_22_NBitFullAdderSubFlags
+Shameem_03_06_22_Operation => Shameem_03_06_22_int1[0].IN0
+Shameem_03_06_22_Operation => Shameem_03_06_22_int1[1].IN0
+Shameem_03_06_22_Operation => Shameem_03_06_22_int1[2].IN0
+Shameem_03_06_22_Operation => Shameem_03_06_22_int1[3].IN0
+Shameem_03_06_22_Operation => Shameem_03_06_22_Result.IN1
+Shameem_03_06_22_Operation => Shameem_03_06_22_int3[0].IN1
+Shameem_03_06_22_Operation => Shameem_03_06_22_Overflow.OUTPUTSELECT
+Shameem_03_06_22_A[0] => Shameem_03_06_22_int2[0].IN1
+Shameem_03_06_22_A[0] => Shameem_03_06_22_Cout.IN1
+Shameem_03_06_22_A[1] => Shameem_03_06_22_int2[1].IN1
+Shameem_03_06_22_A[1] => Shameem_03_06_22_Cout.IN1
+Shameem_03_06_22_A[2] => Shameem_03_06_22_int2[2].IN1
+Shameem_03_06_22_A[2] => Shameem_03_06_22_Cout.IN1
+Shameem_03_06_22_A[3] => Shameem_03_06_22_int2[3].IN1
+Shameem_03_06_22_A[3] => Shameem_03_06_22_Cout.IN1
+Shameem_03_06_22_A[3] => process_0.IN0
+Shameem_03_06_22_A[3] => process_0.IN0
+Shameem_03_06_22_A[3] => process_0.IN0
+Shameem_03_06_22_A[3] => process_0.IN0
+Shameem_03_06_22_B[0] => Shameem_03_06_22_int1[0].IN1
+Shameem_03_06_22_B[1] => Shameem_03_06_22_int1[1].IN1
+Shameem_03_06_22_B[2] => Shameem_03_06_22_int1[2].IN1
+Shameem_03_06_22_B[3] => Shameem_03_06_22_int1[3].IN1
+Shameem_03_06_22_B[3] => process_0.IN1
+Shameem_03_06_22_B[3] => process_0.IN1
+Shameem_03_06_22_B[3] => process_0.IN1
+Shameem_03_06_22_B[3] => process_0.IN1
+Shameem_03_06_22_Sum[0] <= Shameem_03_06_22_Result.DB_MAX_OUTPUT_PORT_TYPE
+Shameem_03_06_22_Sum[1] <= Shameem_03_06_22_Result.DB_MAX_OUTPUT_PORT_TYPE
+Shameem_03_06_22_Sum[2] <= Shameem_03_06_22_Result.DB_MAX_OUTPUT_PORT_TYPE
+Shameem_03_06_22_Sum[3] <= Shameem_03_06_22_Result.DB_MAX_OUTPUT_PORT_TYPE
+Shameem_03_06_22_Carry <= Shameem_03_06_22_Cout.DB_MAX_OUTPUT_PORT_TYPE
+Shameem_03_06_22_Overflow <= Shameem_03_06_22_Overflow.DB_MAX_OUTPUT_PORT_TYPE
+Shameem_03_06_22_Zero <= Equal0.DB_MAX_OUTPUT_PORT_TYPE
+Shameem_03_06_22_Negative <= Shameem_03_06_22_Result.DB_MAX_OUTPUT_PORT_TYPE
+
+

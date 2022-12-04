@@ -1,0 +1,12 @@
+|Shameem_Azwad_02_28_22_two_bit_equal
+a[0] => p1.IN0
+a[0] => p0.IN0
+a[1] => p2.IN0
+a[1] => p0.IN0
+b[0] => p1.IN1
+b[0] => p0.IN1
+b[1] => p2.IN1
+b[1] => p0.IN1
+aeqb <= aeqb.DB_MAX_OUTPUT_PORT_TYPE
+
+

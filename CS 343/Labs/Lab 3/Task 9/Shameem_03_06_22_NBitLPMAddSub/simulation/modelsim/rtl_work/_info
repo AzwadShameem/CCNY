@@ -1,0 +1,101 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 3/Task 9/Shameem_03_06_22_NBitLPMAddSub/simulation/modelsim
+Eshameem_03_06_22_nbitlpmaddsub
+Z1 w1646586496
+Z2 DPx3 lpm 14 lpm_components 0 22 ZZ?0`GZD@?:kcFM0gmf[@1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+R0
+Z5 8C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 3/Task 9/Shameem_03_06_22_NBitLPMAddSub/shameem_03_06_22_nbitlpmaddsub.vhd
+Z6 FC:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 3/Task 9/Shameem_03_06_22_NBitLPMAddSub/shameem_03_06_22_nbitlpmaddsub.vhd
+l0
+L6 1
+V@CaVAROI6Wkj68h7ChUc]1
+!s100 YgPMLzZFL6XSS1TANW^HM2
+Z7 OV;C;2020.1;71
+31
+Z8 !s110 1646851611
+!i10b 1
+Z9 !s108 1646851611.000000
+Z10 !s90 -reportprogress|300|-93|-work|work|C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 3/Task 9/Shameem_03_06_22_NBitLPMAddSub/shameem_03_06_22_nbitlpmaddsub.vhd|
+Z11 !s107 C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 3/Task 9/Shameem_03_06_22_NBitLPMAddSub/shameem_03_06_22_nbitlpmaddsub.vhd|
+!i113 1
+Z12 o-93 -work work
+Z13 tExplicit 1 CvgOpt 0
+Aarch
+R2
+R3
+R4
+DEx4 work 30 shameem_03_06_22_nbitlpmaddsub 0 22 @CaVAROI6Wkj68h7ChUc]1
+!i122 0
+l28
+L14 28
+VzmX?I4l2AEF@1d^_ghoN=1
+!s100 ACLk4c_mO46U;YM9AICMI1
+R7
+31
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Eshameem_03_06_22_nbitlpmaddsubtestbench
+Z14 w1646586095
+Z15 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z16 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z17 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+R3
+R4
+!i122 1
+R0
+Z18 8C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 3/Task 9/Shameem_03_06_22_NBitLPMAddSub/Shameem_03_06_22_NBitLPMAddSubTestBench.vhd
+Z19 FC:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 3/Task 9/Shameem_03_06_22_NBitLPMAddSub/Shameem_03_06_22_NBitLPMAddSubTestBench.vhd
+l0
+L7 1
+VjjZZWKdM3bDk2AKjMC4l23
+!s100 917JDL:Seb9zddL=:a=@Q3
+R7
+31
+Z20 !s110 1646851612
+!i10b 1
+Z21 !s108 1646851612.000000
+Z22 !s90 -reportprogress|300|-93|-work|work|C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 3/Task 9/Shameem_03_06_22_NBitLPMAddSub/Shameem_03_06_22_NBitLPMAddSubTestBench.vhd|
+!s107 C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 3/Task 9/Shameem_03_06_22_NBitLPMAddSub/Shameem_03_06_22_NBitLPMAddSubTestBench.vhd|
+!i113 1
+R12
+R13
+Aarch_test
+R15
+R16
+R17
+R3
+R4
+DEx4 work 39 shameem_03_06_22_nbitlpmaddsubtestbench 0 22 jjZZWKdM3bDk2AKjMC4l23
+!i122 1
+l19
+L10 52
+VEiW?13XH@YJWj67l8H3P33
+!s100 BAGG0WB_W:VD@mIdlV<G43
+R7
+31
+R20
+!i10b 1
+R21
+R22
+Z23 !s107 C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 3/Task 9/Shameem_03_06_22_NBitLPMAddSub/Shameem_03_06_22_NBitLPMAddSubTestBench.vhd|
+!i113 1
+R12
+R13

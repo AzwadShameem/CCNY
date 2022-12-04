@@ -1,0 +1,17 @@
+{C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 3/Task 2/Shameem_03_06_22_FullAdder/Shameem_03_06_22_HalfAdder.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 3/Task 2/Shameem_03_06_22_FullAdder/Shameem_03_06_22_HalfAdder.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Shameem_03_06_22_Half_Adder
+-- Compiling architecture arch of Shameem_03_06_22_Half_Adder
+
+} {} {}} {C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 3/Task 2/Shameem_03_06_22_FullAdder/Shameem_03_06_22_FullAdder.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 3/Task 2/Shameem_03_06_22_FullAdder/Shameem_03_06_22_FullAdder.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Shameem_03_06_22_Full_Adder
+-- Compiling architecture arch of Shameem_03_06_22_Full_Adder
+
+} {} {}}

@@ -1,0 +1,33 @@
+# Compile of Shameem_Azwad_02_28_22_two_bit_comparator.vhd was successful.
+# Compile of Shameem_Azwad_02_28_22_test_two_bit_comparator.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of Shameem_Azwad_02_28_22_two_bit_comparator.vhd was successful.
+# Compile of Shameem_Azwad_02_28_22_test_two_bit_comparator.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.shameem_azwad_02_28_22_test_two_bit_comparator
+# vsim -gui work.shameem_azwad_02_28_22_test_two_bit_comparator 
+# Start time: 20:15:48 on Feb 26,2022
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.shameem_azwad_02_28_22_test_two_bit_comparator(arch_test)
+# Loading work.shameem_azwad_02_28_22_two_bit_comparator(arch)
+run -all
+# ** Failure: No errors detected. Simulation successful
+#    Time: 1608 ns  Iteration: 0  Process: /shameem_azwad_02_28_22_test_two_bit_comparator/line__18 File: C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_two_bit_comparator/Shameem_Azwad_02_28_22_test_two_bit_comparator.vhd
+# Break in Process line__18 at C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_two_bit_comparator/Shameem_Azwad_02_28_22_test_two_bit_comparator.vhd line 76
+add wave -position insertpoint sim:/shameem_azwad_02_28_22_test_two_bit_comparator/*
+run -all
+# ** Failure: No errors detected. Simulation successful
+#    Time: 3216 ns  Iteration: 0  Process: /shameem_azwad_02_28_22_test_two_bit_comparator/line__18 File: C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_two_bit_comparator/Shameem_Azwad_02_28_22_test_two_bit_comparator.vhd
+# Break in Process line__18 at C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_two_bit_comparator/Shameem_Azwad_02_28_22_test_two_bit_comparator.vhd line 76
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+add wave -position insertpoint sim:/shameem_azwad_02_28_22_test_two_bit_comparator/*
+run -all
+# ** Failure: No errors detected. Simulation successful
+#    Time: 1608 ns  Iteration: 0  Process: /shameem_azwad_02_28_22_test_two_bit_comparator/line__18 File: C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_two_bit_comparator/Shameem_Azwad_02_28_22_test_two_bit_comparator.vhd
+# Break in Process line__18 at C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_two_bit_comparator/Shameem_Azwad_02_28_22_test_two_bit_comparator.vhd line 76
+quit
+# End time: 20:18:19 on Feb 26,2022, Elapsed time: 0:02:31
+# Errors: 1, Warnings: 1

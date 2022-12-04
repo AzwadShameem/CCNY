@@ -1,0 +1,136 @@
+# Compile of Shameem_Azwad_02_28_22_equal.vhd was successful.
+vsim -gui work.shameem_azwad_02_28_22_equal
+# vsim -gui work.shameem_azwad_02_28_22_equal 
+# Start time: 16:16:45 on Feb 25,2022
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.shameem_azwad_02_28_22_equal(arch)
+add wave -position end sim:/shameem_azwad_02_28_22_equal/*
+force -freeze sim:/shameem_azwad_02_28_22_equal/I0 0 0
+force -freeze sim:/shameem_azwad_02_28_22_equal/I1 0 0
+run -next
+run -all
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+add wave -position insertpoint sim:/shameem_azwad_02_28_22_equal/*
+force -freeze sim:/shameem_azwad_02_28_22_equal/I0 0 0
+force -freeze sim:/shameem_azwad_02_28_22_equal/I1 0 0
+run -all
+# Compile of Shameem_Azwad_02_28_22_equal.vhd was successful.
+# Compile of Shameem_Azwad_02_28_22_equal.vhd was successful.
+# Compile of Shameem_Azwad_02_28_22_equal.vhd was successful.
+quit -sim
+# End time: 16:21:45 on Feb 25,2022, Elapsed time: 0:05:00
+# Errors: 0, Warnings: 4
+vsim -gui work.shameem_azwad_02_28_22_equal
+# vsim -gui work.shameem_azwad_02_28_22_equal 
+# Start time: 16:21:52 on Feb 25,2022
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.shameem_azwad_02_28_22_equal(arch)
+add wave -position insertpoint sim:/shameem_azwad_02_28_22_equal/*
+force -freeze sim:/shameem_azwad_02_28_22_equal/I0 0 0
+force -freeze sim:/shameem_azwad_02_28_22_equal/I1 0 0
+run
+restart -f
+run -all
+quit -sim
+# End time: 16:22:58 on Feb 25,2022, Elapsed time: 0:01:06
+# Errors: 0, Warnings: 1
+vsim -gui work.shameem_azwad_02_28_22_equal
+# vsim -gui work.shameem_azwad_02_28_22_equal 
+# Start time: 16:23:03 on Feb 25,2022
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.shameem_azwad_02_28_22_equal(arch)
+add wave -position end sim:/shameem_azwad_02_28_22_equal/*
+force -freeze sim:/shameem_azwad_02_28_22_equal/I0 0 0
+force -freeze sim:/shameem_azwad_02_28_22_equal/I1 0 0
+run -all
+run -all
+quit -sim
+# End time: 16:23:39 on Feb 25,2022, Elapsed time: 0:00:36
+# Errors: 0, Warnings: 1
+# Compile of Shameem_Azwad_02_28_22_equal.vhd was successful.
+# Compile of Shameem_Azwad_02_28_22_equal.vhd was successful.
+# Compile of Shameem_Azwad_02_28_22_equal.vhd was successful.
+vsim -gui work.shameem_azwad_02_28_22_equal
+# vsim -gui work.shameem_azwad_02_28_22_equal 
+# Start time: 16:24:13 on Feb 25,2022
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.shameem_azwad_02_28_22_equal(arch)
+add wave -position insertpoint sim:/shameem_azwad_02_28_22_equal/*
+force -freeze sim:/shameem_azwad_02_28_22_equal/I0 0 0
+force -freeze sim:/shameem_azwad_02_28_22_equal/I1 0 0
+run -all
+run -all
+run
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+force -freeze sim:/shameem_azwad_02_28_22_equal/I0 0 0
+force -freeze sim:/shameem_azwad_02_28_22_equal/I1 0 0
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+force -freeze sim:/shameem_azwad_02_28_22_equal/I0 1 0
+run
+quit -sim
+# End time: 16:26:33 on Feb 25,2022, Elapsed time: 0:02:20
+# Errors: 0, Warnings: 1
+# Compile of Shameem_Azwad_02_28_22_equal.vhd was successful.
+# Compile of Shameem_Azwad_02_28_22_equal_test.vhd failed with 3 errors.
+# 2 compiles, 1 failed with 3 errors.
+# Compile of Shameem_Azwad_02_28_22_equal.vhd was successful.
+# Compile of Shameem_Azwad_02_28_22_equal_test.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+
+
+
+
+# Compile of Shameem_Azwad_02_28_22_equal.vhd was successful.
+# Compile of Shameem_Azwad_02_28_22_equal_test.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of Shameem_Azwad_02_28_22_equal.vhd was successful.
+# Compile of Shameem_Azwad_02_28_22_equal_test.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of Shameem_Azwad_02_28_22_equal.vhd was successful.
+# Compile of Shameem_Azwad_02_28_22_equal_test.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of Shameem_Azwad_02_28_22_equal.vhd was successful.
+# Compile of Shameem_Azwad_02_28_22_equal_test.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.shameem_azwad_02_28_22_equal_test
+# vsim -gui work.shameem_azwad_02_28_22_equal_test 
+# Start time: 16:48:22 on Feb 25,2022
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.shameem_azwad_02_28_22_equal_test(arch_test)
+# Loading work.shameem_azwad_02_28_22_equal(arch)
+add wave -position insertpoint sim:/shameem_azwad_02_28_22_equal_test/*
+run -all
+# ** Failure: No errors detected. Simulation successful
+#    Time: 804 ns  Iteration: 0  Process: /shameem_azwad_02_28_22_equal_test/line__18 File: C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_equal/Shameem_Azwad_02_28_22_equal_test.vhd
+# Break in Process line__18 at C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_equal/Shameem_Azwad_02_28_22_equal_test.vhd line 48
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Failure: No errors detected. Simulation successful
+#    Time: 804 ns  Iteration: 0  Process: /shameem_azwad_02_28_22_equal_test/line__18 File: C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_equal/Shameem_Azwad_02_28_22_equal_test.vhd
+# Break in Process line__18 at C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_equal/Shameem_Azwad_02_28_22_equal_test.vhd line 48
+quit
+# End time: 16:53:39 on Feb 25,2022, Elapsed time: 0:05:17
+# Errors: 1, Warnings: 1

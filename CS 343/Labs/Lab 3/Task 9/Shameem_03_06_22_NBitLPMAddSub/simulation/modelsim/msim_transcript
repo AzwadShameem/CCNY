@@ -1,0 +1,59 @@
+# Reading pref.tcl
+# do Shameem_03_06_22_NBitLPMAddSub_run_msim_rtl_vhdl.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 2020.1 Lib Mapping Utility 2020.02 Feb 28 2020
+# vmap work rtl_work 
+# Copying C:/Users/azwad/OneDrive/Documents/FPGA/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vcom -93 -work work {C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 3/Task 9/Shameem_03_06_22_NBitLPMAddSub/shameem_03_06_22_nbitlpmaddsub.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:46:51 on Mar 09,2022
+# vcom -reportprogress 300 -93 -work work C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 3/Task 9/Shameem_03_06_22_NBitLPMAddSub/shameem_03_06_22_nbitlpmaddsub.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package LPM_COMPONENTS
+# -- Compiling entity Shameem_03_06_22_NBitLPMAddSub
+# -- Compiling architecture arch of Shameem_03_06_22_NBitLPMAddSub
+# End time: 13:46:52 on Mar 09,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# 
+# vcom -93 -work work {C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 3/Task 9/Shameem_03_06_22_NBitLPMAddSub/Shameem_03_06_22_NBitLPMAddSubTestBench.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:46:52 on Mar 09,2022
+# vcom -reportprogress 300 -93 -work work C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 3/Task 9/Shameem_03_06_22_NBitLPMAddSub/Shameem_03_06_22_NBitLPMAddSubTestBench.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity Shameem_03_06_22_NBitLPMAddSubTestBench
+# -- Compiling architecture arch_test of Shameem_03_06_22_NBitLPMAddSubTestBench
+# End time: 13:46:52 on Mar 09,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera -L lpm -L sgate -L altera_mf -L altera_lnsim -L cyclonev -L rtl_work -L work -voptargs="+acc"  systb
+# vsim -t 1ps -L altera -L lpm -L sgate -L altera_mf -L altera_lnsim -L cyclonev -L rtl_work -L work -voptargs=""+acc"" systb 
+# Start time: 13:46:52 on Mar 09,2022
+# ** Error: (vsim-3170) Could not find 'systb'.
+#         Searched libraries:
+#             C:/Users/azwad/OneDrive/Documents/FPGA/modelsim_ase/altera/vhdl/altera
+#             C:/Users/azwad/OneDrive/Documents/FPGA/modelsim_ase/altera/vhdl/220model
+#             C:/Users/azwad/OneDrive/Documents/FPGA/modelsim_ase/altera/vhdl/sgate
+#             C:/Users/azwad/OneDrive/Documents/FPGA/modelsim_ase/altera/vhdl/altera_mf
+#             C:/Users/azwad/OneDrive/Documents/FPGA/modelsim_ase/altera/vhdl/altera_lnsim
+#             C:/Users/azwad/OneDrive/Documents/FPGA/modelsim_ase/altera/vhdl/cyclonev
+#             C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 3/Task 9/Shameem_03_06_22_NBitLPMAddSub/simulation/modelsim/rtl_work
+#             C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 3/Task 9/Shameem_03_06_22_NBitLPMAddSub/simulation/modelsim/rtl_work
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./Shameem_03_06_22_NBitLPMAddSub_run_msim_rtl_vhdl.do PAUSED at line 12
+# End time: 13:47:08 on Mar 09,2022, Elapsed time: 0:00:16
+# Errors: 1, Warnings: 0

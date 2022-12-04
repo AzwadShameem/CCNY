@@ -1,0 +1,93 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/azwad/OneDrive/Documents/FPGA
+Eshameem_03_06_22_full_adder
+Z0 w1646530835
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 2
+Z3 dC:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 3/Task 2/Shameem_03_06_22_FullAdder
+Z4 8C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 3/Task 2/Shameem_03_06_22_FullAdder/Shameem_03_06_22_FullAdder.vhd
+Z5 FC:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 3/Task 2/Shameem_03_06_22_FullAdder/Shameem_03_06_22_FullAdder.vhd
+l0
+L4 1
+VkX=?QE:oQonh5NW4zG=c_1
+!s100 M3S3f99<>kA]daO@O=LYj1
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1646530837
+!i10b 1
+Z8 !s108 1646530837.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 3/Task 2/Shameem_03_06_22_FullAdder/Shameem_03_06_22_FullAdder.vhd|
+Z10 !s107 C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 3/Task 2/Shameem_03_06_22_FullAdder/Shameem_03_06_22_FullAdder.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Aarch
+R1
+R2
+DEx4 work 27 shameem_03_06_22_full_adder 0 22 kX=?QE:oQonh5NW4zG=c_1
+!i122 2
+l15
+Z13 L9 11
+VVP`;Zz>Sfm722m6Q]BBN;0
+!s100 WB9UT92dK_9Q_@G;o2]MV3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eshameem_03_06_22_half_adder
+Z14 w1646530706
+R1
+R2
+!i122 3
+R3
+Z15 8C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 3/Task 2/Shameem_03_06_22_FullAdder/Shameem_03_06_22_HalfAdder.vhd
+Z16 FC:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 3/Task 2/Shameem_03_06_22_FullAdder/Shameem_03_06_22_HalfAdder.vhd
+l0
+L4 1
+V@a`;fkC?eZ0Y=[b?5Ph@F1
+!s100 82<HnNh7B2HT=8:LG_YV80
+R6
+32
+R7
+!i10b 1
+R8
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 3/Task 2/Shameem_03_06_22_FullAdder/Shameem_03_06_22_HalfAdder.vhd|
+Z18 !s107 C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 3/Task 2/Shameem_03_06_22_FullAdder/Shameem_03_06_22_HalfAdder.vhd|
+!i113 1
+R11
+R12
+Aarch
+R1
+R2
+Z19 DEx4 work 27 shameem_03_06_22_half_adder 0 22 @a`;fkC?eZ0Y=[b?5Ph@F1
+!i122 3
+l10
+R13
+Z20 VChYG`40:_U40>Jzz24P8A0
+Z21 !s100 PUGAlHI@nl8RJk4SKO>KM1
+R6
+32
+R7
+!i10b 1
+R8
+R17
+R18
+!i113 1
+R11
+R12

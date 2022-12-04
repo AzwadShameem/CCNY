@@ -1,0 +1,10 @@
+{C:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 1/Shameem_03_23_22_DataMemory/Shameem_03_23_22_DataMemory.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 1/Shameem_03_23_22_DataMemory/Shameem_03_23_22_DataMemory.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package altera_mf_components
+-- Compiling entity Shameem_03_23_22_DataMemory
+-- Compiling architecture SYN of shameem_03_23_22_datamemory
+
+} {} {}}

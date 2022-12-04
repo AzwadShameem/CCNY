@@ -1,0 +1,263 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/azwad/Documents/FPGA
+Eshameem_03_23_22_adderk
+Z0 w1647748299
+Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z2 DPx4 ieee 16 std_logic_signed 0 22 C<aanc0R`<LWPSe[JYRP^3
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 12
+Z5 dC:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 2/Shameem_03_23_22_AddSubScratchCircuit
+Z6 8C:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 2/Shameem_03_23_22_AddSubScratchCircuit/Shameem_03_23_22_Adderk.vhd
+Z7 FC:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 2/Shameem_03_23_22_AddSubScratchCircuit/Shameem_03_23_22_Adderk.vhd
+l0
+L5 1
+V^SR9[P7L]EZn;VObCF^z:0
+!s100 B8BW1IWZcjPA0zV7IkT0E2
+Z8 OV;C;2020.1;71
+32
+Z9 !s110 1647968672
+!i10b 1
+Z10 !s108 1647968672.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 2/Shameem_03_23_22_AddSubScratchCircuit/Shameem_03_23_22_Adderk.vhd|
+Z12 !s107 C:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 2/Shameem_03_23_22_AddSubScratchCircuit/Shameem_03_23_22_Adderk.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Abehavioural
+R1
+R2
+R3
+R4
+DEx4 work 23 shameem_03_23_22_adderk 0 22 ^SR9[P7L]EZn;VObCF^z:0
+!i122 12
+l16
+L14 7
+V5:?ghJ6Dn^SJ_c<D_@?``2
+!s100 W3LE]e9GVJC5V3Tj@EZTY3
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Eshameem_03_23_22_addsub
+Z15 w1647919341
+R3
+R4
+!i122 13
+R5
+Z16 8C:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 2/Shameem_03_23_22_AddSubScratchCircuit/Shameem_03_23_22_AddSub.vhd
+Z17 FC:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 2/Shameem_03_23_22_AddSubScratchCircuit/Shameem_03_23_22_AddSub.vhd
+l0
+L4 1
+VgcOSK9?@zNbNPLYgfVMjJ0
+!s100 j>0d2OBlTnE@EdloAC[Fo2
+R8
+32
+R9
+!i10b 1
+R10
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 2/Shameem_03_23_22_AddSubScratchCircuit/Shameem_03_23_22_AddSub.vhd|
+Z19 !s107 C:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 2/Shameem_03_23_22_AddSubScratchCircuit/Shameem_03_23_22_AddSub.vhd|
+!i113 1
+R13
+R14
+Abehavioural
+R3
+R4
+DEx4 work 23 shameem_03_23_22_addsub 0 22 gcOSK9?@zNbNPLYgfVMjJ0
+!i122 13
+l32
+Z20 L13 53
+VkgTEBAHQoHf8EO>MShM?n3
+!s100 MfOhl7UIf[MP:m8_n=<HW2
+R8
+32
+R9
+!i10b 1
+R10
+R18
+R19
+!i113 1
+R13
+R14
+Eshameem_03_23_22_addsubscratch
+Z21 w1647959744
+R3
+R4
+!i122 14
+R5
+Z22 8C:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 2/Shameem_03_23_22_AddSubScratchCircuit/Shameem_03_23_22_AddSubScratch.vhd
+Z23 FC:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 2/Shameem_03_23_22_AddSubScratchCircuit/Shameem_03_23_22_AddSubScratch.vhd
+l0
+L4 1
+VO9[``TR>]i;Xo3J0D<HWn2
+!s100 4i>28R3MWkZjWed4JLd=k1
+R8
+32
+R9
+!i10b 1
+R10
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 2/Shameem_03_23_22_AddSubScratchCircuit/Shameem_03_23_22_AddSubScratch.vhd|
+Z25 !s107 C:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 2/Shameem_03_23_22_AddSubScratchCircuit/Shameem_03_23_22_AddSubScratch.vhd|
+!i113 1
+R13
+R14
+Abehavioural
+R3
+R4
+DEx4 work 30 shameem_03_23_22_addsubscratch 0 22 O9[``TR>]i;Xo3J0D<HWn2
+!i122 14
+l32
+R20
+VBYc:lzF294eeDLPhA3bOQ0
+!s100 3e:omo2;[9:jTboNJZ@NE0
+R8
+32
+R9
+!i10b 1
+R10
+R24
+R25
+!i113 1
+R13
+R14
+Eshameem_03_23_22_addsubscratchcircuit
+Z26 w1647968665
+R3
+R4
+!i122 15
+R5
+Z27 8C:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 2/Shameem_03_23_22_AddSubScratchCircuit/Shameem_03_23_22_AddSubScratchCircuit.vhd
+Z28 FC:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 2/Shameem_03_23_22_AddSubScratchCircuit/Shameem_03_23_22_AddSubScratchCircuit.vhd
+l0
+L4 1
+V;LOZg_GNN;jiE[z??5eIh2
+!s100 SGN0iKmJ`ZnzhWWhETCkQ3
+R8
+32
+Z29 !s110 1647968673
+!i10b 1
+R10
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 2/Shameem_03_23_22_AddSubScratchCircuit/Shameem_03_23_22_AddSubScratchCircuit.vhd|
+Z31 !s107 C:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 2/Shameem_03_23_22_AddSubScratchCircuit/Shameem_03_23_22_AddSubScratchCircuit.vhd|
+!i113 1
+R13
+R14
+Aarch
+R3
+R4
+DEx4 work 37 shameem_03_23_22_addsubscratchcircuit 0 22 ;LOZg_GNN;jiE[z??5eIh2
+!i122 15
+l37
+L14 38
+V?=EhKkkDnS_bKC@Y6INT;1
+!s100 hP7SgeX4kCn5IWUeY[4?20
+R8
+32
+R29
+!i10b 1
+R10
+R30
+R31
+!i113 1
+R13
+R14
+Eshameem_03_23_22_datamemory
+Z32 w1647966825
+Z33 DPx9 altera_mf 20 altera_mf_components 0 22 BN6nPmY:UEbXa[^5b@FTW1
+R3
+R4
+!i122 16
+R5
+Z34 8C:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 2/Shameem_03_23_22_AddSubScratchCircuit/Shameem_03_23_22_DataMemory.vhd
+Z35 FC:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 2/Shameem_03_23_22_AddSubScratchCircuit/Shameem_03_23_22_DataMemory.vhd
+l0
+L43 1
+VAc60i;Fa^ekb6UUSWXYeZ0
+!s100 S2S7VN8eV8EeooFa7K0<z1
+R8
+32
+R29
+!i10b 1
+Z36 !s108 1647968673.000000
+Z37 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 2/Shameem_03_23_22_AddSubScratchCircuit/Shameem_03_23_22_DataMemory.vhd|
+Z38 !s107 C:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 2/Shameem_03_23_22_AddSubScratchCircuit/Shameem_03_23_22_DataMemory.vhd|
+!i113 1
+R13
+R14
+Asyn
+R33
+R3
+R4
+DEx4 work 27 shameem_03_23_22_datamemory 0 22 Ac60i;Fa^ekb6UUSWXYeZ0
+!i122 16
+l59
+L55 37
+VRfWYk1MA1egMIhGo0nbVJ0
+!s100 n^nZ5z755Xf27gc1WC9:R1
+R8
+32
+R29
+!i10b 1
+R36
+R37
+R38
+!i113 1
+R13
+R14
+Eshameem_03_23_22_mux2to1
+Z39 w1647751512
+R3
+R4
+!i122 17
+R5
+Z40 8C:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 2/Shameem_03_23_22_AddSubScratchCircuit/Shameem_03_23_22_Mux2to1.vhd
+Z41 FC:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 2/Shameem_03_23_22_AddSubScratchCircuit/Shameem_03_23_22_Mux2to1.vhd
+l0
+L4 1
+V=4?ea6m9dSf?UK2e8R9Q_2
+!s100 mM3aL`Tf]loL3BdYIeOZK1
+R8
+32
+R29
+!i10b 1
+R36
+Z42 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 2/Shameem_03_23_22_AddSubScratchCircuit/Shameem_03_23_22_Mux2to1.vhd|
+Z43 !s107 C:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 2/Shameem_03_23_22_AddSubScratchCircuit/Shameem_03_23_22_Mux2to1.vhd|
+!i113 1
+R13
+R14
+Abehavioural
+R3
+R4
+Z44 DEx4 work 24 shameem_03_23_22_mux2to1 0 22 =4?ea6m9dSf?UK2e8R9Q_2
+!i122 17
+l13
+Z45 L12 11
+Z46 V9l[B;Iz9[D[A5D^E0[DYQ1
+Z47 !s100 BfU2VNMZ[D3>oRQ8hc31G1
+R8
+32
+R29
+!i10b 1
+R36
+R42
+R43
+!i113 1
+R13
+R14

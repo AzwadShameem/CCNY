@@ -1,0 +1,54 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/azwad/Documents/FPGA
+Eshameem_03_23_22_dualportedregisterfile
+Z0 w1647915406
+Z1 DPx9 altera_mf 20 altera_mf_components 0 22 BN6nPmY:UEbXa[^5b@FTW1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+Z4 dC:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 1/Shameem_03_23_22_DualPortedRegisterFile
+Z5 8C:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 1/Shameem_03_23_22_DualPortedRegisterFile/Shameem_03_23_22_DualPortedRegisterFile.vhd
+Z6 FC:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 1/Shameem_03_23_22_DualPortedRegisterFile/Shameem_03_23_22_DualPortedRegisterFile.vhd
+l0
+L43 1
+VG:5M0G;OA0b1D:Y::5=PJ2
+!s100 WH[N_HNM@CFb_SaiLIP<a0
+Z7 OV;C;2020.1;71
+32
+Z8 !s110 1647915597
+!i10b 1
+Z9 !s108 1647915597.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 1/Shameem_03_23_22_DualPortedRegisterFile/Shameem_03_23_22_DualPortedRegisterFile.vhd|
+!s107 C:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 1/Shameem_03_23_22_DualPortedRegisterFile/Shameem_03_23_22_DualPortedRegisterFile.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Asyn
+R1
+R2
+R3
+DEx4 work 39 shameem_03_23_22_dualportedregisterfile 0 22 G:5M0G;OA0b1D:Y::5=PJ2
+!i122 0
+l60
+L56 43
+VD68nG3;Z`]nZibA7`dz@I0
+!s100 U_Be@7ViiQRMi?cOfbG4i0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+Z13 !s107 C:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 1/Shameem_03_23_22_DualPortedRegisterFile/Shameem_03_23_22_DualPortedRegisterFile.vhd|
+!i113 1
+R11
+R12

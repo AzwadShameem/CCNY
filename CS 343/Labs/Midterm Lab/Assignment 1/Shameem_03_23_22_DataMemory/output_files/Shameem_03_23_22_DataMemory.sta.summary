@@ -1,0 +1,21 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'Shameem_03_23_22_clock'
+Slack : -3.166
+TNS   : -206.010
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'Shameem_03_23_22_clock'
+Slack : -3.166
+TNS   : -205.786
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'Shameem_03_23_22_clock'
+Slack : -2.174
+TNS   : -135.528
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'Shameem_03_23_22_clock'
+Slack : -2.174
+TNS   : -135.595
+
+------------------------------------------------------------

@@ -1,0 +1,65 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Shameem_03132022_q[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03132022_q[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03132022_q[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03132022_q[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03132022_wren",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03132022_clock",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03132022_data[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03132022_address[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03132022_address[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03132022_address[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03132022_address[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03132022_data[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03132022_data[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03132022_data[3]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

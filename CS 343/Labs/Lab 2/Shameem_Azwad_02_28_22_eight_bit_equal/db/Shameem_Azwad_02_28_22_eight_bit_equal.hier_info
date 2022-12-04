@@ -1,0 +1,84 @@
+|Shameem_Azwad_02_28_22_eight_bit_equal
+a[0] => Shameem_Azwad_02_28_22_equal:U1.a
+a[1] => Shameem_Azwad_02_28_22_equal:U2.a
+a[2] => Shameem_Azwad_02_28_22_equal:U3.a
+a[3] => Shameem_Azwad_02_28_22_equal:U4.a
+a[4] => Shameem_Azwad_02_28_22_equal:U5.a
+a[5] => Shameem_Azwad_02_28_22_equal:U6.a
+a[6] => Shameem_Azwad_02_28_22_equal:U7.a
+a[7] => Shameem_Azwad_02_28_22_equal:U8.a
+b[0] => Shameem_Azwad_02_28_22_equal:U1.b
+b[1] => Shameem_Azwad_02_28_22_equal:U2.b
+b[2] => Shameem_Azwad_02_28_22_equal:U3.b
+b[3] => Shameem_Azwad_02_28_22_equal:U4.b
+b[4] => Shameem_Azwad_02_28_22_equal:U5.b
+b[5] => Shameem_Azwad_02_28_22_equal:U6.b
+b[6] => Shameem_Azwad_02_28_22_equal:U7.b
+b[7] => Shameem_Azwad_02_28_22_equal:U8.b
+aeqb << aeqb.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Shameem_Azwad_02_28_22_eight_bit_equal|Shameem_Azwad_02_28_22_equal:U1
+a => p1.IN0
+a => p0.IN0
+b => p1.IN1
+b => p0.IN1
+aeqb <= aeqb.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Shameem_Azwad_02_28_22_eight_bit_equal|Shameem_Azwad_02_28_22_equal:U2
+a => p1.IN0
+a => p0.IN0
+b => p1.IN1
+b => p0.IN1
+aeqb <= aeqb.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Shameem_Azwad_02_28_22_eight_bit_equal|Shameem_Azwad_02_28_22_equal:U3
+a => p1.IN0
+a => p0.IN0
+b => p1.IN1
+b => p0.IN1
+aeqb <= aeqb.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Shameem_Azwad_02_28_22_eight_bit_equal|Shameem_Azwad_02_28_22_equal:U4
+a => p1.IN0
+a => p0.IN0
+b => p1.IN1
+b => p0.IN1
+aeqb <= aeqb.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Shameem_Azwad_02_28_22_eight_bit_equal|Shameem_Azwad_02_28_22_equal:U5
+a => p1.IN0
+a => p0.IN0
+b => p1.IN1
+b => p0.IN1
+aeqb <= aeqb.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Shameem_Azwad_02_28_22_eight_bit_equal|Shameem_Azwad_02_28_22_equal:U6
+a => p1.IN0
+a => p0.IN0
+b => p1.IN1
+b => p0.IN1
+aeqb <= aeqb.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Shameem_Azwad_02_28_22_eight_bit_equal|Shameem_Azwad_02_28_22_equal:U7
+a => p1.IN0
+a => p0.IN0
+b => p1.IN1
+b => p0.IN1
+aeqb <= aeqb.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Shameem_Azwad_02_28_22_eight_bit_equal|Shameem_Azwad_02_28_22_equal:U8
+a => p1.IN0
+a => p0.IN0
+b => p1.IN1
+b => p0.IN1
+aeqb <= aeqb.DB_MAX_OUTPUT_PORT_TYPE
+
+

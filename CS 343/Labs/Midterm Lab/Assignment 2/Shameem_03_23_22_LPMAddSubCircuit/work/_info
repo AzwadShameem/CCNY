@@ -1,0 +1,136 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/azwad/Documents/FPGA
+Eshameem_03_23_22_datamemory
+Z0 w1647920117
+Z1 DPx9 altera_mf 20 altera_mf_components 0 22 BN6nPmY:UEbXa[^5b@FTW1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 3
+Z4 dC:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 2/Shameem_03_23_22_LPMAddSubCircuit
+Z5 8C:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 2/Shameem_03_23_22_LPMAddSubCircuit/Shameem_03_23_22_DataMemory.vhd
+Z6 FC:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 2/Shameem_03_23_22_LPMAddSubCircuit/Shameem_03_23_22_DataMemory.vhd
+l0
+Z7 L43 1
+VAc60i;Fa^ekb6UUSWXYeZ0
+!s100 S2S7VN8eV8EeooFa7K0<z1
+Z8 OV;C;2020.1;71
+32
+Z9 !s110 1647979010
+!i10b 1
+Z10 !s108 1647979010.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 2/Shameem_03_23_22_LPMAddSubCircuit/Shameem_03_23_22_DataMemory.vhd|
+Z12 !s107 C:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 2/Shameem_03_23_22_LPMAddSubCircuit/Shameem_03_23_22_DataMemory.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Asyn
+R1
+R2
+R3
+DEx4 work 27 shameem_03_23_22_datamemory 0 22 Ac60i;Fa^ekb6UUSWXYeZ0
+!i122 3
+l59
+L55 37
+VR4:1^f6W8z`SD4TSK5@k[1
+!s100 I;O251QUINS2JW]<:a_MI2
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Eshameem_03_23_22_lpmaddsub
+Z15 w1647920019
+R2
+R3
+!i122 4
+R4
+Z16 8C:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 2/Shameem_03_23_22_LPMAddSubCircuit/Shameem_03_23_22_LPMAddSub.vhd
+Z17 FC:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 2/Shameem_03_23_22_LPMAddSubCircuit/Shameem_03_23_22_LPMAddSub.vhd
+l0
+R7
+V7W4aF_a?Tom<1zI0aAe:81
+!s100 9Yi;3nfanKM]O_I@KH=ae3
+R8
+32
+R9
+!i10b 1
+R10
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 2/Shameem_03_23_22_LPMAddSubCircuit/Shameem_03_23_22_LPMAddSub.vhd|
+Z19 !s107 C:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 2/Shameem_03_23_22_LPMAddSubCircuit/Shameem_03_23_22_LPMAddSub.vhd|
+!i113 1
+R13
+R14
+Asyn
+R2
+R3
+DEx4 work 26 shameem_03_23_22_lpmaddsub 0 22 7W4aF_a?Tom<1zI0aAe:81
+!i122 4
+l79
+L55 47
+VahDUS=^Q?F7HS9:[LjOR00
+!s100 ZQ:GF]2Z^mBK@82K[3;HD0
+R8
+32
+R9
+!i10b 1
+R10
+R18
+R19
+!i113 1
+R13
+R14
+Eshameem_03_23_22_lpmaddsubcircuit
+Z20 w1647920097
+R2
+R3
+!i122 5
+R4
+Z21 8C:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 2/Shameem_03_23_22_LPMAddSubCircuit/Shameem_03_23_22_LPMAddSubCircuit.vhd
+Z22 FC:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 2/Shameem_03_23_22_LPMAddSubCircuit/Shameem_03_23_22_LPMAddSubCircuit.vhd
+l0
+L4 1
+Vz:eUUHTl_DFF5_k2mm^iI0
+!s100 8lgSmbzjUnS?_9kXISEWI0
+R8
+32
+R9
+!i10b 1
+R10
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 2/Shameem_03_23_22_LPMAddSubCircuit/Shameem_03_23_22_LPMAddSubCircuit.vhd|
+Z24 !s107 C:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 2/Shameem_03_23_22_LPMAddSubCircuit/Shameem_03_23_22_LPMAddSubCircuit.vhd|
+!i113 1
+R13
+R14
+Aarch
+R2
+R3
+Z25 DEx4 work 33 shameem_03_23_22_lpmaddsubcircuit 0 22 z:eUUHTl_DFF5_k2mm^iI0
+!i122 5
+l37
+Z26 L14 37
+Z27 V@L=IaiTXiMJ19Hac0M;iD1
+Z28 !s100 ]IJ;8GP9W<H`dYI]534l32
+R8
+32
+R9
+!i10b 1
+R10
+R23
+R24
+!i113 1
+R13
+R14

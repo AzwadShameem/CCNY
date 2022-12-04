@@ -1,0 +1,99 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/azwad/OneDrive/Documents/FPGA
+Eshameem_03_06_22_nbitfulladdersubflags
+Z0 w1646588229
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 68
+Z3 dC:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 3/Task 10/Shameem_03_06_22_NBitFullAdderSub
+Z4 8C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 3/Task 10/Shameem_03_06_22_NBitFullAdderSub/Shameem_03_06_22_NBitFullAdderSubFlags.vhd
+Z5 FC:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 3/Task 10/Shameem_03_06_22_NBitFullAdderSub/Shameem_03_06_22_NBitFullAdderSubFlags.vhd
+l0
+L4 1
+V8lF5ai=ojLfP;^TVA53F71
+!s100 9Dzg4KP6_Z_aCALW:1zkU0
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1646613589
+!i10b 1
+Z8 !s108 1646613589.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 3/Task 10/Shameem_03_06_22_NBitFullAdderSub/Shameem_03_06_22_NBitFullAdderSubFlags.vhd|
+Z10 !s107 C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 3/Task 10/Shameem_03_06_22_NBitFullAdderSub/Shameem_03_06_22_NBitFullAdderSubFlags.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Abehavioural
+R1
+R2
+DEx4 work 38 shameem_03_06_22_nbitfulladdersubflags 0 22 8lF5ai=ojLfP;^TVA53F71
+!i122 68
+l15
+L12 72
+V7:o:jBk_bHf@GFVf8^k:72
+!s100 KDbQb:TdPHBiUX0zOm1?H2
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eshameem_03_06_22_nbitfulladdersubflagstestbench
+Z13 w1646606413
+Z14 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z15 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z16 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+R1
+R2
+!i122 69
+R3
+Z17 8C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 3/Task 10/Shameem_03_06_22_NBitFullAdderSub/Shameem_03_06_22_NBitFullAdderSubFlagsTestBench.vhd
+Z18 FC:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 3/Task 10/Shameem_03_06_22_NBitFullAdderSub/Shameem_03_06_22_NBitFullAdderSubFlagsTestBench.vhd
+l0
+L7 1
+V1g@MJaD1:``F6NkgM0`O[1
+!s100 Hz7KOUVGPDkRaElW4]fc]2
+R6
+32
+R7
+!i10b 1
+R8
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 3/Task 10/Shameem_03_06_22_NBitFullAdderSub/Shameem_03_06_22_NBitFullAdderSubFlagsTestBench.vhd|
+Z20 !s107 C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 3/Task 10/Shameem_03_06_22_NBitFullAdderSub/Shameem_03_06_22_NBitFullAdderSubFlagsTestBench.vhd|
+!i113 1
+R11
+R12
+Aarch_tb
+R14
+R15
+R16
+R1
+R2
+Z21 DEx4 work 47 shameem_03_06_22_nbitfulladdersubflagstestbench 0 22 1g@MJaD1:``F6NkgM0`O[1
+!i122 69
+l22
+Z22 L10 41
+Z23 V5WoX@BR@@IC^6kTJ]9Y]I0
+Z24 !s100 8U`[2YJCLDmnaHVmH6z6g2
+R6
+32
+R7
+!i10b 1
+R8
+R19
+R20
+!i113 1
+R11
+R12

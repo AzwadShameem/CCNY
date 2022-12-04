@@ -1,0 +1,183 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/azwad/OneDrive/Documents/FPGA
+Eshameem_03132022_dflipflopmasterslave
+Z0 w1646950620
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+Z3 dC:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 4/Shameem_03132022_4ALAB
+Z4 8C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 4/Shameem_03132022_4ALAB/Shameem_03132022_DFlipFlopMasterSlave.vhd
+Z5 FC:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 4/Shameem_03132022_4ALAB/Shameem_03132022_DFlipFlopMasterSlave.vhd
+l0
+L6 1
+VeHYD8eOzmYAU4:H<iT3:`1
+!s100 aSSVWMC0T@;cLdK5=A:^O3
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1646950806
+!i10b 1
+Z8 !s108 1646950806.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 4/Shameem_03132022_4ALAB/Shameem_03132022_DFlipFlopMasterSlave.vhd|
+Z10 !s107 C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 4/Shameem_03132022_4ALAB/Shameem_03132022_DFlipFlopMasterSlave.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Abdf_type
+R1
+R2
+DEx4 work 37 shameem_03132022_dflipflopmasterslave 0 22 eHYD8eOzmYAU4:H<iT3:`1
+!i122 0
+l16
+L14 25
+V4c4W9VJNON?AcP[aTPIVO3
+!s100 ;lfo;U64[XiHj=Z47?Q;V3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eshameem_03132022_dlatch_as_symbol
+Z13 w1646950091
+R1
+R2
+!i122 1
+R3
+Z14 8C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 4/Shameem_03132022_4ALAB/Shameem_03132022_DLatch.vhd
+Z15 FC:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 4/Shameem_03132022_4ALAB/Shameem_03132022_DLatch.vhd
+l0
+L25 1
+V43ZjcLEic`Li:T3TRX<N<2
+!s100 =h]kRVK2zfD]N>Ozm0i=`0
+R6
+32
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 4/Shameem_03132022_4ALAB/Shameem_03132022_DLatch.vhd|
+Z17 !s107 C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 4/Shameem_03132022_4ALAB/Shameem_03132022_DLatch.vhd|
+!i113 1
+R11
+R12
+Abdf_type
+R1
+R2
+DEx4 work 33 shameem_03132022_dlatch_as_symbol 0 22 43ZjcLEic`Li:T3TRX<N<2
+!i122 1
+l37
+L33 18
+Vf>]bGnKR3f^o?3Jzl_=e20
+!s100 VbAJ56AeYXUVg2?e<Kzn=1
+R6
+32
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
+R12
+Eshameem_03132022_glatch_as_symbol_vhdl
+Z18 w1646955562
+R1
+R2
+!i122 38
+R3
+Z19 8C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 4/Shameem_03132022_4ALAB/Shameem_03132022_GLatch_As_Symbol_VHDL.vhd
+Z20 FC:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 4/Shameem_03132022_4ALAB/Shameem_03132022_GLatch_As_Symbol_VHDL.vhd
+l0
+L24 1
+V<nIii9PRHnCBbJ1fVd`<i0
+!s100 `Qk[hAoz@7;<df_JRPJYZ1
+R6
+32
+Z21 !s110 1646955564
+!i10b 1
+Z22 !s108 1646955564.000000
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 4/Shameem_03132022_4ALAB/Shameem_03132022_GLatch_As_Symbol_VHDL.vhd|
+Z24 !s107 C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 4/Shameem_03132022_4ALAB/Shameem_03132022_GLatch_As_Symbol_VHDL.vhd|
+!i113 1
+R11
+R12
+Abdf_type
+R1
+R2
+DEx4 work 38 shameem_03132022_glatch_as_symbol_vhdl 0 22 <nIii9PRHnCBbJ1fVd`<i0
+!i122 38
+l33
+L32 13
+V<mcl8NP^G_VJnVW2R?@Qk0
+!s100 BX=:ibADekc9?B5?9Uj[81
+R6
+32
+R21
+!i10b 1
+R22
+R23
+R24
+!i113 1
+R11
+R12
+Eshameem_03132022_glatch_as_symbol_vhdl_tb1
+Z25 w1646955452
+Z26 DPx4 ieee 16 std_logic_signed 0 22 C<aanc0R`<LWPSe[JYRP^3
+Z27 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z28 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z29 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+R1
+R2
+!i122 36
+R3
+Z30 8C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 4/Shameem_03132022_4ALAB/Shameem_03132022_GLatch_As_Symbol_VHDL_TB1.vhd
+Z31 FC:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 4/Shameem_03132022_4ALAB/Shameem_03132022_GLatch_As_Symbol_VHDL_TB1.vhd
+l0
+L7 1
+V2VAYznk@_Ud:oDaLm<Bhb3
+!s100 ?F2GeJXh?zI07?lz?5BJ42
+R6
+32
+Z32 !s110 1646955458
+!i10b 1
+Z33 !s108 1646955458.000000
+Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 4/Shameem_03132022_4ALAB/Shameem_03132022_GLatch_As_Symbol_VHDL_TB1.vhd|
+Z35 !s107 C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 4/Shameem_03132022_4ALAB/Shameem_03132022_GLatch_As_Symbol_VHDL_TB1.vhd|
+!i113 1
+R11
+R12
+Atb
+R26
+R27
+R28
+R29
+R1
+R2
+DEx4 work 42 shameem_03132022_glatch_as_symbol_vhdl_tb1 0 22 2VAYznk@_Ud:oDaLm<Bhb3
+!i122 36
+l19
+L10 22
+VhP_8nEm2^P0k9h7=ak2Y82
+!s100 zh]e03gGd918WH8m4ncLA3
+R6
+32
+R32
+!i10b 1
+R33
+R34
+R35
+!i113 1
+R11
+R12

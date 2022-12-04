@@ -1,0 +1,65 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Shameem_03_06_22_Sum[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_06_22_Sum[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_06_22_Sum[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_06_22_Sum[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_06_22_Carry",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_06_22_Operation",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_06_22_A[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_06_22_B[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_06_22_A[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_06_22_B[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_06_22_A[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_06_22_B[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_06_22_A[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_06_22_B[3]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,53 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'Shameem_03132022_clock'
+Slack : -1.624
+TNS   : -6.488
+
+Type  : Slow 1100mV 85C Model Hold 'Shameem_03132022_clock'
+Slack : 0.913
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'Shameem_03132022_clock'
+Slack : -3.166
+TNS   : -65.544
+
+Type  : Slow 1100mV 0C Model Setup 'Shameem_03132022_clock'
+Slack : -1.704
+TNS   : -6.805
+
+Type  : Slow 1100mV 0C Model Hold 'Shameem_03132022_clock'
+Slack : 0.969
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'Shameem_03132022_clock'
+Slack : -3.166
+TNS   : -65.481
+
+Type  : Fast 1100mV 85C Model Setup 'Shameem_03132022_clock'
+Slack : -0.187
+TNS   : -0.743
+
+Type  : Fast 1100mV 85C Model Hold 'Shameem_03132022_clock'
+Slack : 0.433
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'Shameem_03132022_clock'
+Slack : -2.174
+TNS   : -43.137
+
+Type  : Fast 1100mV 0C Model Setup 'Shameem_03132022_clock'
+Slack : -0.168
+TNS   : -0.668
+
+Type  : Fast 1100mV 0C Model Hold 'Shameem_03132022_clock'
+Slack : 0.425
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'Shameem_03132022_clock'
+Slack : -2.174
+TNS   : -43.148
+
+------------------------------------------------------------

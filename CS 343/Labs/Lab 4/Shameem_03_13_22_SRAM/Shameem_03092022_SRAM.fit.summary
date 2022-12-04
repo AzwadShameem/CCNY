@@ -1,0 +1,33 @@
+<<<<<<<< HEAD:Labs/Midterm Lab/Assignment 1/Shameem_03_23_22_DataMemory/output_files/Shameem_03_23_22_DataMemory.fit.summary
+Fitter Status : Successful - Mon Mar 21 12:18:16 2022
+Quartus Prime Version : 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+Revision Name : Shameem_03_23_22_DataMemory
+Top-level Entity Name : Shameem_03_23_22_DataMemory
+========
+Fitter Status : Successful - Sat Mar 12 00:15:27 2022
+Quartus Prime Version : 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+Revision Name : Shameem_03092022_SRAM
+Top-level Entity Name : Shameem_03132022_LPMSRAM
+>>>>>>>> de6422383e664b5f8d1ccefa82bf1cf47094556e:Labs/Lab 4/Shameem_03_13_22_SRAM/Shameem_03092022_SRAM.fit.summary
+Family : Cyclone V
+Device : 5CGXFC7C7F23C8
+Timing Models : Final
+Logic utilization (in ALMs) : 1 / 56,480 ( < 1 % )
+Total registers : 0
+<<<<<<<< HEAD:Labs/Midterm Lab/Assignment 1/Shameem_03_23_22_DataMemory/output_files/Shameem_03_23_22_DataMemory.fit.summary
+Total pins : 70 / 268 ( 26 % )
+Total virtual pins : 0
+Total block memory bits : 512 / 7,024,640 ( < 1 % )
+========
+Total pins : 14 / 268 ( 5 % )
+Total virtual pins : 0
+Total block memory bits : 64 / 7,024,640 ( < 1 % )
+>>>>>>>> de6422383e664b5f8d1ccefa82bf1cf47094556e:Labs/Lab 4/Shameem_03_13_22_SRAM/Shameem_03092022_SRAM.fit.summary
+Total RAM Blocks : 1 / 686 ( < 1 % )
+Total DSP Blocks : 0 / 156 ( 0 % )
+Total HSSI RX PCSs : 0 / 6 ( 0 % )
+Total HSSI PMA RX Deserializers : 0 / 6 ( 0 % )
+Total HSSI TX PCSs : 0 / 6 ( 0 % )
+Total HSSI PMA TX Serializers : 0 / 6 ( 0 % )
+Total PLLs : 0 / 13 ( 0 % )
+Total DLLs : 0 / 4 ( 0 % )

@@ -1,0 +1,8 @@
+|Shameem_Azwad_02_28_22_one_bit_comparator
+a => aeqb.IN0
+a => aeqb.IN0
+b => aeqb.IN1
+b => aeqb.IN1
+aeqb <= aeqb.DB_MAX_OUTPUT_PORT_TYPE
+
+

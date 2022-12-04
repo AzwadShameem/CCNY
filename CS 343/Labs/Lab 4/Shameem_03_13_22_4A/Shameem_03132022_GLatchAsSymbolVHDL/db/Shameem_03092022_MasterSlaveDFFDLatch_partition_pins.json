@@ -1,0 +1,29 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Shameem_03132022_Q",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03132022_CLK",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03132022_CLRN",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03132022_PRN",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03132022_D",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,101 @@
+# Load canceled
+# Compile of Shameem_03132022_Register_N_VHDL.vhd was successful.
+vsim -gui work.shameem_03132022_register_n_vhdl
+# vsim -gui work.shameem_03132022_register_n_vhdl 
+# Start time: 17:18:50 on Mar 11,2022
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.shameem_03132022_register_n_vhdl(arch)
+add wave -position insertpoint sim:/shameem_03132022_register_n_vhdl/*
+force -freeze sim:/shameem_03132022_register_n_vhdl/Shameem_03132022_CLK 0 0, 1 {50 ps} -r 100
+force -freeze sim:/shameem_03132022_register_n_vhdl/Shameem_03132022_WREN 1 {40 ps} -cancel {60 ps}
+force -freeze sim:/shameem_03132022_register_n_vhdl/Shameem_03132022_RDEN 1 {80 ps} -cancel {90 ps}
+force -freeze sim:/shameem_03132022_register_n_vhdl/Shameem_03132022_CHEN 1 0, 0 {300 ps} -r 600
+force -freeze sim:/shameem_03132022_register_n_vhdl/Shameem_03132022_DATA X\"FFF00000\" 0 -cancel {55 ps}
+run -all
+# Break key hit
+# Simulation stop requested.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# WARNING: No extended dataflow license exists
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+force -freeze sim:/shameem_03132022_register_n_vhdl/Shameem_03132022_CLK 0 0, 1 {50 ps} -r 100 -can {400 ps}
+force -freeze sim:/shameem_03132022_register_n_vhdl/Shameem_03132022_WREN 1 {40 ps} -cancel {60 ps}
+force -freeze sim:/shameem_03132022_register_n_vhdl/Shameem_03132022_RDEN 1 {80 ps} -cancel {90 ps}
+force -freeze sim:/shameem_03132022_register_n_vhdl/Shameem_03132022_CHEN 1 0, 0 {300 ps} -r 600
+force -freeze sim:/shameem_03132022_register_n_vhdl/Shameem_03132022_DATA X\"FFF00000\" 0 -cancel {55 ps}
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+run
+restart -f
+force -freeze sim:/shameem_03132022_register_n_vhdl/Shameem_03132022_CLK 0 0, 1 {50 ps} -r 100
+force -freeze sim:/shameem_03132022_register_n_vhdl/Shameem_03132022_WREN 1 {40 ps} -cancel {60 ps}
+force -freeze sim:/shameem_03132022_register_n_vhdl/Shameem_03132022_RDEN 1 {80 ps} -cancel {90 ps}
+force -freeze sim:/shameem_03132022_register_n_vhdl/Shameem_03132022_CHEN 1 0, 0 {300 ps} -r 600
+force -freeze sim:/shameem_03132022_register_n_vhdl/Shameem_03132022_DATA X\"FFF00000\" 0 -cancel {55 ps}
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+force -freeze sim:/shameem_03132022_register_n_vhdl/Shameem_03132022_DATA X\"FFFABCDE\" 0 -cancel {55 ps}
+restart
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+run
+restart
+force -freeze sim:/shameem_03132022_register_n_vhdl/Shameem_03132022_CLK 0 0, 1 {50 ps} -r 100
+force -freeze sim:/shameem_03132022_register_n_vhdl/Shameem_03132022_WREN 1 {40 ps} -cancel {60 ps}
+force -freeze sim:/shameem_03132022_register_n_vhdl/Shameem_03132022_RDEN 1 {80 ps} -cancel {90 ps}
+force -freeze sim:/shameem_03132022_register_n_vhdl/Shameem_03132022_CHEN 1 0, 0 {300 ps} -r 600
+force -freeze sim:/shameem_03132022_register_n_vhdl/Shameem_03132022_DATA X\"FFF00000\" 0 -cancel {55 ps}
+force -freeze sim:/shameem_03132022_register_n_vhdl/Shameem_03132022_DATA X\"FFFABCDE\" {145 ps} -cancel {155 ps}
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# End time: 17:33:46 on Mar 11,2022, Elapsed time: 0:14:56
+# Errors: 0, Warnings: 1

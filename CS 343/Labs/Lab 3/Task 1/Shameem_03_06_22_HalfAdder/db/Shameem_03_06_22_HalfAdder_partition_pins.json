@@ -1,0 +1,25 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Shameem_03_06_22_Sum",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_06_22_Carry",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_06_22_A",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_06_22_B",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

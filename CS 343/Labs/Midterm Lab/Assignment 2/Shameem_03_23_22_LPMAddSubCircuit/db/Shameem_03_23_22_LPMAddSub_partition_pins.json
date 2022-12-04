@@ -1,0 +1,189 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Shameem_03_23_22_FinalResult[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_23_22_FinalResult[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_23_22_FinalResult[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_23_22_FinalResult[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_23_22_FinalResult[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_23_22_FinalResult[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_23_22_FinalResult[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_23_22_FinalResult[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_23_22_FinalResult[8]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_23_22_FinalResult[9]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_23_22_FinalResult[10]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_23_22_FinalResult[11]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_23_22_FinalResult[12]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_23_22_FinalResult[13]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_23_22_FinalResult[14]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_23_22_FinalResult[15]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_23_22_FinalResult[16]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_23_22_FinalResult[17]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_23_22_FinalResult[18]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_23_22_FinalResult[19]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_23_22_FinalResult[20]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_23_22_FinalResult[21]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_23_22_FinalResult[22]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_23_22_FinalResult[23]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_23_22_FinalResult[24]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_23_22_FinalResult[25]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_23_22_FinalResult[26]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_23_22_FinalResult[27]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_23_22_FinalResult[28]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_23_22_FinalResult[29]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_23_22_FinalResult[30]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_23_22_FinalResult[31]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_23_22_Z",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_23_22_N",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_23_22_O",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_23_22_AddSub",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_23_22_Clock",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_23_22_AddressA[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_23_22_AddressA[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_23_22_AddressA[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_23_22_AddressA[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_23_22_AddressB[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_23_22_AddressB[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_23_22_AddressB[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03_23_22_AddressB[3]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

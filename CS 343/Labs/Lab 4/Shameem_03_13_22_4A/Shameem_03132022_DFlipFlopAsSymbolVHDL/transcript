@@ -1,0 +1,30 @@
+# Compile of Shameem_03132022_D_FlipFlop_As_Symbol_VHDL.vhd failed with 1 errors.
+# Compile of Shameem_03132022_D_FlipFlop_As_Symbol_VHDL.vhd failed with 1 errors.
+# Compile of Shameem_03132022_D_FlipFlop_As_Symbol_VHDL.vhd was successful.
+vsim -gui work.shameem_03132022_d_flipflop_as_symbol_vhdl
+# vsim -gui work.shameem_03132022_d_flipflop_as_symbol_vhdl 
+# Start time: 16:50:39 on Mar 11,2022
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.shameem_03132022_d_flipflop_as_symbol_vhdl(bdf_type)
+add wave -position insertpoint sim:/shameem_03132022_d_flipflop_as_symbol_vhdl/*
+force -freeze sim:/shameem_03132022_d_flipflop_as_symbol_vhdl/Shameem_03132022_CLRN 1 0
+force -freeze sim:/shameem_03132022_d_flipflop_as_symbol_vhdl/Shameem_03132022_PRN 1 0
+force -freeze sim:/shameem_03132022_d_flipflop_as_symbol_vhdl/Shameem_03132022_D 0 0, 1 {100000 ps} -r {200 ns}
+force -freeze sim:/shameem_03132022_d_flipflop_as_symbol_vhdl/Shameem_03132022_EDGE 0 0, 1 {50000 ps} -r {100 ns}
+run -all
+# Break key hit
+# Simulation stop requested.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+force -freeze sim:/shameem_03132022_d_flipflop_as_symbol_vhdl/Shameem_03132022_CLRN 1 0 -cancel {400 ns}
+force -freeze sim:/shameem_03132022_d_flipflop_as_symbol_vhdl/Shameem_03132022_PRN 1 0 -cancel {400 ns}
+force -freeze sim:/shameem_03132022_d_flipflop_as_symbol_vhdl/Shameem_03132022_D 0 0, 1 {100000 ps} -r {200 ns} -can {400 ns}
+force -freeze sim:/shameem_03132022_d_flipflop_as_symbol_vhdl/Shameem_03132022_EDGE 0 0, 1 {50000 ps} -r {100 ns} -can {400 ns}
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# End time: 17:06:52 on Mar 11,2022, Elapsed time: 0:16:13
+# Errors: 0, Warnings: 1

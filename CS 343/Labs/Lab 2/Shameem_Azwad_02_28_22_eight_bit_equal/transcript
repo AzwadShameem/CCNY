@@ -1,0 +1,36 @@
+# Compile of Shameem_Azwad_02_28_22_eight_bit_equal.vhd was successful.
+# Compile of Shameem_Azwad_02_28_22_equal.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of Shameem_Azwad_02_28_22_eight_bit_equal.vhd was successful.
+# Compile of Shameem_Azwad_02_28_22_equal.vhd was successful.
+# Compile of Shameem_Azwad_02_28_22_test_eight_bit_equal.vhd was successful.
+# 3 compiles, 0 failed with no errors.
+# Compile of Shameem_Azwad_02_28_22_eight_bit_equal.vhd was successful.
+# Compile of Shameem_Azwad_02_28_22_equal.vhd was successful.
+# Compile of Shameem_Azwad_02_28_22_test_eight_bit_equal.vhd was successful.
+# 3 compiles, 0 failed with no errors.
+# Compile of Shameem_Azwad_02_28_22_eight_bit_equal.vhd was successful.
+# Compile of Shameem_Azwad_02_28_22_equal.vhd was successful.
+# Compile of Shameem_Azwad_02_28_22_test_eight_bit_equal.vhd was successful.
+# 3 compiles, 0 failed with no errors.
+# Compile of Shameem_Azwad_02_28_22_eight_bit_equal.vhd was successful.
+# Compile of Shameem_Azwad_02_28_22_equal.vhd was successful.
+# Compile of Shameem_Azwad_02_28_22_test_eight_bit_equal.vhd was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -gui work.shameem_azwad_02_28_22_test_eight_bit_equal
+# vsim -gui work.shameem_azwad_02_28_22_test_eight_bit_equal 
+# Start time: 19:01:02 on Feb 26,2022
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.shameem_azwad_02_28_22_test_eight_bit_equal(arch_test)
+# Loading work.shameem_azwad_02_28_22_eight_bit_equal(arch)
+# Loading work.shameem_azwad_02_28_22_equal(arch)
+add wave -position insertpoint sim:/shameem_azwad_02_28_22_test_eight_bit_equal/*
+run -all
+# ** Failure: No errors detected. Simulation successful
+#    Time: 1608 ns  Iteration: 0  Process: /shameem_azwad_02_28_22_test_eight_bit_equal/line__18 File: C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_eight_bit_equal/Shameem_Azwad_02_28_22_test_eight_bit_equal.vhd
+# Break in Process line__18 at C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_eight_bit_equal/Shameem_Azwad_02_28_22_test_eight_bit_equal.vhd line 76
+quit
+# End time: 19:03:19 on Feb 26,2022, Elapsed time: 0:02:17
+# Errors: 1, Warnings: 12

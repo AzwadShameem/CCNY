@@ -1,0 +1,262 @@
+# Compile of Shameem_03132022_DFlipFlopMasterSlave.vhd was successful.
+# Compile of Shameem_03132022_DLatch.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.shameem_03132022_dflipflopmasterslave
+# vsim -gui work.shameem_03132022_dflipflopmasterslave 
+# Start time: 17:22:04 on Mar 10,2022
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.shameem_03132022_dflipflopmasterslave(bdf_type)
+add wave -position end  sim:/shameem_03132022_dflipflopmasterslave/Shameem_03132022_PRN
+force -freeze sim:/shameem_03132022_dflipflopmasterslave/Shameem_03132022_PRN 1 0
+add wave -position end  sim:/shameem_03132022_dflipflopmasterslave/Shameem_03132022_D
+add wave -position end  sim:/shameem_03132022_dflipflopmasterslave/Shameem_03132022_CLK
+quit -sim
+# End time: 17:56:06 on Mar 10,2022, Elapsed time: 0:34:02
+# Errors: 0, Warnings: 5
+# Compile of Shameem_03132022_GLatch_As_Symbol.vhd failed with 1 errors.
+# Load canceled
+# Compile of Shameem_03132022_GLatch_As_Symbol.vhd failed with 1 errors.
+# Compile of Shameem_03132022_GLatch_As_Symbol.vhd failed with 1 errors.
+# Compile of Shameem_03132022_GLatch_As_Symbol_VHDL.vhd failed with 1 errors.
+# Compile of Shameem_03132022_GLatch_As_Symbol_VHDL.vhd was successful.
+vsim -gui work.shameem_03132022_glatch_as_symbol_vhdl
+# vsim -gui work.shameem_03132022_glatch_as_symbol_vhdl 
+# Start time: 17:58:27 on Mar 10,2022
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.shameem_03132022_glatch_as_symbol_vhdl(bdf_type)
+add wave -position end  sim:/shameem_03132022_glatch_as_symbol_vhdl/D
+wave create -driver freeze -pattern clock -initialvalue 0 -period 200ns -dutycycle 50 -starttime 0ns -endtime 800ns sim:/shameem_03132022_glatch_as_symbol_vhdl/D
+# Editable Wave items are not compatible with the wave window's standard undo-redo.  Standard undo-redo has been disabled.
+wave create -driver freeze -pattern constant -value 0 -starttime 0ns -endtime 800ns sim:/shameem_03132022_glatch_as_symbol_vhdl/E
+wave create -driver freeze -pattern constant -value 1 -starttime 0ns -endtime 800ns sim:/shameem_03132022_glatch_as_symbol_vhdl/PRN
+wave create -driver freeze -pattern constant -value 1 -starttime 0ns -endtime 800ns sim:/shameem_03132022_glatch_as_symbol_vhdl/CLRN
+wave create -driver expectedOutput -pattern clock -initialvalue 0 -period 200ns -dutycycle 50 -starttime 0ns -endtime 800ns sim:/shameem_03132022_glatch_as_symbol_vhdl/Q
+add wave -position end  sim:/shameem_03132022_glatch_as_symbol_vhdl/PRN
+force -freeze sim:/shameem_03132022_glatch_as_symbol_vhdl/PRN 1 0, 0 {100 ps} -r 200 -can 800
+run -continue
+run -all
+force -freeze sim:/shameem_03132022_glatch_as_symbol_vhdl/PRN 1 0, 0 {50 ps} -r 100 -can 800000
+run -all
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+force -freeze sim:/shameem_03132022_glatch_as_symbol_vhdl/PRN 1 0, 0 {50000 ps} -r 100000 -can 800000
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+restart -f
+force -freeze sim:/shameem_03132022_glatch_as_symbol_vhdl/PRN 0 0, 1 {50000 ps} -r 100000 -can 800000
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+add wave -position end  sim:/shameem_03132022_glatch_as_symbol_vhdl/D
+force -freeze sim:/shameem_03132022_glatch_as_symbol_vhdl/D 0 0, 1 {50000 ps} -r 100000 -can 800000
+restart -f
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+force -freeze sim:/shameem_03132022_glatch_as_symbol_vhdl/D 0 0, 1 {50000 ps} -r 100000 -can 800000
+run -all
+force -freeze sim:/shameem_03132022_glatch_as_symbol_vhdl/D 0 0, 1 {100000 ps} -r 200000 -can 800000
+restart -f
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+force -freeze sim:/shameem_03132022_glatch_as_symbol_vhdl/D 1 0, 0 {100000 ps} -r 200000 -can 800000
+run -all
+restart -f
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+force -freeze sim:/shameem_03132022_glatch_as_symbol_vhdl/D 0 0, 1 {100000 ps} -r 200000 -can 800000
+add wave -position end  sim:/shameem_03132022_glatch_as_symbol_vhdl/E
+force -freeze sim:/shameem_03132022_glatch_as_symbol_vhdl/E 0 800000
+add wave -position end  sim:/shameem_03132022_glatch_as_symbol_vhdl/PRN
+force -freeze sim:/shameem_03132022_glatch_as_symbol_vhdl/PRN 1 800000
+add wave -position end  sim:/shameem_03132022_glatch_as_symbol_vhdl/E
+add wave -position end  sim:/shameem_03132022_glatch_as_symbol_vhdl/CLRN
+force -freeze sim:/shameem_03132022_glatch_as_symbol_vhdl/CLRN 1 800000
+add dataflow  \
+sim:/shameem_03132022_glatch_as_symbol_vhdl/Q
+# WARNING: No extended dataflow license exists
+add wave  \
+sim:/shameem_03132022_glatch_as_symbol_vhdl/Q
+run -all
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+restart -f
+add wave -position insertpoint sim:/shameem_03132022_glatch_as_symbol_vhdl/*
+quit -sim
+# End time: 18:08:51 on Mar 10,2022, Elapsed time: 0:10:24
+# Errors: 0, Warnings: 1
+# Compile of Shameem_03132022_GLatch_As_Symbol_VHDL.vhd was successful.
+# Compile of Shameem_03132022_GLatch_As_Symbol_VHDL_TB1.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of Shameem_03132022_GLatch_As_Symbol_VHDL_TB1.vhd failed with 5 errors.
+# Compile of Shameem_03132022_GLatch_As_Symbol_VHDL.vhd was successful.
+# Compile of Shameem_03132022_GLatch_As_Symbol_VHDL_TB1.vhd failed with 5 errors.
+# 2 compiles, 1 failed with 5 errors.
+# Compile of Shameem_03132022_GLatch_As_Symbol_VHDL.vhd was successful.
+# Compile of Shameem_03132022_GLatch_As_Symbol_VHDL_TB1.vhd failed with 6 errors.
+# 2 compiles, 1 failed with 6 errors.
+# Compile of Shameem_03132022_GLatch_As_Symbol_VHDL.vhd was successful.
+# Compile of Shameem_03132022_GLatch_As_Symbol_VHDL_TB1.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of Shameem_03132022_GLatch_As_Symbol_VHDL.vhd was successful.
+# Compile of Shameem_03132022_GLatch_As_Symbol_VHDL_TB1.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of Shameem_03132022_GLatch_As_Symbol_VHDL.vhd was successful.
+# Compile of Shameem_03132022_GLatch_As_Symbol_VHDL_TB1.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of Shameem_03132022_GLatch_As_Symbol_VHDL.vhd was successful.
+# Compile of Shameem_03132022_GLatch_As_Symbol_VHDL_TB1.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.shameem_03132022_glatch_as_symbol_vhdl_tb1
+# vsim -gui work.shameem_03132022_glatch_as_symbol_vhdl_tb1 
+# Start time: 18:17:10 on Mar 10,2022
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.shameem_03132022_glatch_as_symbol_vhdl_tb1(tb)
+# Loading work.shameem_03132022_glatch_as_symbol_vhdl(bdf_type)
+add wave -position end  sim:/shameem_03132022_glatch_as_symbol_vhdl_tb1/Shameem_03132022_D
+add wave -position end  sim:/shameem_03132022_glatch_as_symbol_vhdl_tb1/Shameem_03132022_E
+add wave -position end  sim:/shameem_03132022_glatch_as_symbol_vhdl_tb1/Shameem_03132022_PRN
+add wave -position end  sim:/shameem_03132022_glatch_as_symbol_vhdl_tb1/Shameem_03132022_CLRN
+run -all
+run -all
+# Compile of Shameem_03132022_GLatch_As_Symbol_VHDL.vhd was successful.
+# Compile of Shameem_03132022_GLatch_As_Symbol_VHDL_TB1.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of Shameem_03132022_GLatch_As_Symbol_VHDL.vhd was successful.
+# Compile of Shameem_03132022_GLatch_As_Symbol_VHDL_TB1.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of Shameem_03132022_GLatch_As_Symbol_VHDL.vhd was successful.
+# Compile of Shameem_03132022_GLatch_As_Symbol_VHDL_TB1.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+run -all
+add wave -position insertpoint sim:/shameem_03132022_glatch_as_symbol_vhdl_tb1/*
+run -all
+# Compile of Shameem_03132022_GLatch_As_Symbol_VHDL.vhd was successful.
+# Compile of Shameem_03132022_GLatch_As_Symbol_VHDL_TB1.vhd failed with 2 errors.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of Shameem_03132022_GLatch_As_Symbol_VHDL.vhd was successful.
+# Compile of Shameem_03132022_GLatch_As_Symbol_VHDL_TB1.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+run -all
+# Compile of Shameem_03132022_GLatch_As_Symbol_VHDL.vhd was successful.
+# Compile of Shameem_03132022_GLatch_As_Symbol_VHDL_TB1.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+run -all
+run -all
+# Compile of Shameem_03132022_GLatch_As_Symbol_VHDL.vhd was successful.
+# Compile of Shameem_03132022_GLatch_As_Symbol_VHDL_TB1.vhd failed with 6 errors.
+# 2 compiles, 1 failed with 6 errors.
+# Compile of Shameem_03132022_GLatch_As_Symbol_VHDL.vhd was successful.
+# Compile of Shameem_03132022_GLatch_As_Symbol_VHDL_TB1.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of Shameem_03132022_GLatch_As_Symbol_VHDL.vhd was successful.
+# Compile of Shameem_03132022_GLatch_As_Symbol_VHDL_TB1.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+run -all
+# Compile of Shameem_03132022_GLatch_As_Symbol_VHDL.vhd was successful.
+# Compile of Shameem_03132022_GLatch_As_Symbol_VHDL_TB1.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+run -all
+quit -sim
+# End time: 18:38:16 on Mar 10,2022, Elapsed time: 0:21:06
+# Errors: 0, Warnings: 20
+# Compile of Shameem_03132022_GLatch_As_Symbol_VHDL.vhd failed with 1 errors.
+# Compile of Shameem_03132022_GLatch_As_Symbol_VHDL.vhd was successful.
+vsim -gui work.shameem_03132022_glatch_as_symbol_vhdl
+# vsim -gui work.shameem_03132022_glatch_as_symbol_vhdl 
+# Start time: 18:39:32 on Mar 10,2022
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.shameem_03132022_glatch_as_symbol_vhdl(bdf_type)
+add wave -position end  sim:/shameem_03132022_glatch_as_symbol_vhdl/Shameem_03132022_D
+force -freeze sim:/shameem_03132022_glatch_as_symbol_vhdl/Shameem_03132022_D 1 0
+add wave -position end  sim:/shameem_03132022_glatch_as_symbol_vhdl/Shameem_03132022_E
+force -freeze sim:/shameem_03132022_glatch_as_symbol_vhdl/Shameem_03132022_E 1 0
+add wave -position end  sim:/shameem_03132022_glatch_as_symbol_vhdl/Shameem_03132022_CLRN
+add wave -position 2  sim:/shameem_03132022_glatch_as_symbol_vhdl/Shameem_03132022_PRN
+force -freeze sim:/shameem_03132022_glatch_as_symbol_vhdl/Shameem_03132022_CLRN 1 0
+force -freeze sim:/shameem_03132022_glatch_as_symbol_vhdl/Shameem_03132022_PRN 1 0
+run
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+run
+restart -f
+add wave  \
+sim:/shameem_03132022_glatch_as_symbol_vhdl/Shameem_03132022_Q
+force -freeze sim:/shameem_03132022_glatch_as_symbol_vhdl/Shameem_03132022_D 0 0, 1 {100000 ps} -r 200000 -can 800000
+force -freeze sim:/shameem_03132022_glatch_as_symbol_vhdl/Shameem_03132022_E 0 0 -cancel 800000
+force -freeze sim:/shameem_03132022_glatch_as_symbol_vhdl/Shameem_03132022_PRN 1 0 -cancel 800000
+force -freeze sim:/shameem_03132022_glatch_as_symbol_vhdl/Shameem_03132022_CLRN 1 0 -cancel 800000
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+force -freeze sim:/shameem_03132022_glatch_as_symbol_vhdl/Shameem_03132022_E 1 0 -cancel 800000
+restart -f
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+restart -f
+force -freeze sim:/shameem_03132022_glatch_as_symbol_vhdl/Shameem_03132022_D 0 0, 1 {100000 ps} -r 200000 -can 800000
+force -freeze sim:/shameem_03132022_glatch_as_symbol_vhdl/Shameem_03132022_E 1 800000
+force -freeze sim:/shameem_03132022_glatch_as_symbol_vhdl/Shameem_03132022_PRN 1 0 -cancel 800000
+force -freeze sim:/shameem_03132022_glatch_as_symbol_vhdl/Shameem_03132022_CLRN 1 0 -cancel 800000
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+force -freeze sim:/shameem_03132022_glatch_as_symbol_vhdl/Shameem_03132022_E 1 0 -cancel 80000
+run -all
+restart -f
+force -freeze sim:/shameem_03132022_glatch_as_symbol_vhdl/Shameem_03132022_D 0 0, 1 {100000 ps} -r 200000 -can 800000
+force -freeze sim:/shameem_03132022_glatch_as_symbol_vhdl/Shameem_03132022_E 1 0 -cancel 800000
+force -freeze sim:/shameem_03132022_glatch_as_symbol_vhdl/Shameem_03132022_PRN 1 0 -cancel 800000
+force -freeze sim:/shameem_03132022_glatch_as_symbol_vhdl/Shameem_03132022_CLRN 1 0 -cancel 800000
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+restart -f
+force -freeze sim:/shameem_03132022_glatch_as_symbol_vhdl/Shameem_03132022_D 0 0, 1 {50000 ps} -r 100000 -can 800000
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+restart -f
+force -freeze sim:/shameem_03132022_glatch_as_symbol_vhdl/Shameem_03132022_D 0 0, 1 {50000 ps} -r 100000 -can 800000
+force -freeze sim:/shameem_03132022_glatch_as_symbol_vhdl/Shameem_03132022_E 0 0, 1 {200000 ps} -r 400000 -can 800000
+force -freeze sim:/shameem_03132022_glatch_as_symbol_vhdl/Shameem_03132022_PRN 1 0 -cancel 800000
+force -freeze sim:/shameem_03132022_glatch_as_symbol_vhdl/Shameem_03132022_CLRN 1 0 -cancel 800000
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+restart -f
+force -freeze sim:/shameem_03132022_glatch_as_symbol_vhdl/Shameem_03132022_D 0 0, 1 {50000 ps} -r 100000 -can 800000
+force -freeze sim:/shameem_03132022_glatch_as_symbol_vhdl/Shameem_03132022_E 0 0, 1 {200000 ps} -r 400000 -can 800000
+force -freeze sim:/shameem_03132022_glatch_as_symbol_vhdl/Shameem_03132022_PRN 1 0 -cancel 800000
+force -freeze sim:/shameem_03132022_glatch_as_symbol_vhdl/Shameem_03132022_CLRN 1 0, 0 {400000 ps} -r 800000 -can 800000
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 

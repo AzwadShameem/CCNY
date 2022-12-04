@@ -1,0 +1,27 @@
+# Compile of Shameem_Azwad_majority.vhd was successful.
+vsim -gui work.shameem_azwad_majority
+# vsim -gui work.shameem_azwad_majority 
+# Start time: 18:52:00 on Feb 15,2022
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.shameem_azwad_majority(behaviour)
+wave create -driver freeze -pattern clock -initialvalue 0 -period 800ns -dutycycle 50 -starttime 0ns -endtime 800ns sim:/shameem_azwad_majority/x1
+# Editable Wave items are not compatible with the wave window's standard undo-redo.  Standard undo-redo has been disabled.
+wave create -driver freeze -pattern clock -initialvalue 0 -period 400ns -dutycycle 50 -starttime 0ns -endtime 800ns sim:/shameem_azwad_majority/x2
+wave create -driver freeze -pattern clock -initialvalue 0 -period 200ns -dutycycle 50 -starttime 0ns -endtime 800ns sim:/shameem_azwad_majority/x3
+run -all
+add wave  \
+sim:/shameem_azwad_majority/f
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+write format wave -window .main_pane.wave.interior.cs.body.pw.wf {C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 1/Shameem_Azwad_2_15_2022_majority/wave.do}
+wave editwrite -file {C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 1/Shameem_Azwad_2_15_2022_majority/wave.do} -append
+quit
+quit
+# End time: 18:58:28 on Feb 15,2022, Elapsed time: 0:06:28
+# Errors: 0, Warnings: 2

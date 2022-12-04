@@ -1,0 +1,134 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/azwad/OneDrive/Documents/FPGA
+Eshameem_03_06_22_fourbitfulladdersub
+Z0 w1646535740
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 3
+Z3 dC:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 3/Task 4/Shameem_03_06_22_FourBitFullAdderSub
+Z4 8C:\Users\azwad\OneDrive\Documents\Projects\CS_343\Labs\Lab 3\Task 4\Shameem_03_06_22_FourBitFullAdderSub\Shameem_03_06_22_FourBitFullAdderSub.vhd
+Z5 FC:\Users\azwad\OneDrive\Documents\Projects\CS_343\Labs\Lab 3\Task 4\Shameem_03_06_22_FourBitFullAdderSub\Shameem_03_06_22_FourBitFullAdderSub.vhd
+l0
+L4 1
+VPA^m0EOA2=jlnHD=8[[b51
+!s100 09`6FzL8lgC4=5W[=8RHC3
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1646535742
+!i10b 1
+Z8 !s108 1646535742.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\azwad\OneDrive\Documents\Projects\CS_343\Labs\Lab 3\Task 4\Shameem_03_06_22_FourBitFullAdderSub\Shameem_03_06_22_FourBitFullAdderSub.vhd|
+Z10 !s107 C:\Users\azwad\OneDrive\Documents\Projects\CS_343\Labs\Lab 3\Task 4\Shameem_03_06_22_FourBitFullAdderSub\Shameem_03_06_22_FourBitFullAdderSub.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Aarch
+R1
+R2
+DEx4 work 36 shameem_03_06_22_fourbitfulladdersub 0 22 PA^m0EOA2=jlnHD=8[[b51
+!i122 3
+l18
+L12 20
+V5NGC9ClinXF3QC2D>C3?>2
+!s100 `0EUcUll<=8iTFd0e7ke82
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eshameem_03_06_22_fulladder
+Z13 w1646532648
+R1
+R2
+!i122 4
+R3
+Z14 8C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 3/Task 4/Shameem_03_06_22_FourBitFullAdderSub/Shameem_03_06_22_FullAdder.vhd
+Z15 FC:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 3/Task 4/Shameem_03_06_22_FourBitFullAdderSub/Shameem_03_06_22_FullAdder.vhd
+l0
+L4 1
+V[L3kd:k;>QLnlMdZVA<gE3
+!s100 ScQAhB6d59IYZEZh1YOT92
+R6
+32
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 3/Task 4/Shameem_03_06_22_FourBitFullAdderSub/Shameem_03_06_22_FullAdder.vhd|
+Z17 !s107 C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 3/Task 4/Shameem_03_06_22_FourBitFullAdderSub/Shameem_03_06_22_FullAdder.vhd|
+!i113 1
+R11
+R12
+Aarch
+R1
+R2
+DEx4 work 26 shameem_03_06_22_fulladder 0 22 [L3kd:k;>QLnlMdZVA<gE3
+!i122 4
+l15
+Z18 L9 11
+VR>dmGNKX^Y4b6MIXOGfiJ3
+!s100 >GEkRTiT4>WQmeznh4o680
+R6
+32
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
+R12
+Eshameem_03_06_22_halfadder
+Z19 w1646532674
+R1
+R2
+!i122 5
+R3
+Z20 8C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 3/Task 4/Shameem_03_06_22_FourBitFullAdderSub/Shameem_03_06_22_HalfAdder.vhd
+Z21 FC:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 3/Task 4/Shameem_03_06_22_FourBitFullAdderSub/Shameem_03_06_22_HalfAdder.vhd
+l0
+L4 1
+V;5>6CNEzb4kf[@eCl9lm10
+!s100 n]ad>20Doz28<czY6^B3L0
+R6
+32
+R7
+!i10b 1
+R8
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 3/Task 4/Shameem_03_06_22_FourBitFullAdderSub/Shameem_03_06_22_HalfAdder.vhd|
+Z23 !s107 C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 3/Task 4/Shameem_03_06_22_FourBitFullAdderSub/Shameem_03_06_22_HalfAdder.vhd|
+!i113 1
+R11
+R12
+Aarch
+R1
+R2
+Z24 DEx4 work 26 shameem_03_06_22_halfadder 0 22 ;5>6CNEzb4kf[@eCl9lm10
+!i122 5
+l10
+R18
+Z25 Vb=CPFn8JN7n7SZ4o0DmcE1
+Z26 !s100 ?bcP3ka9oKn4<Yhg^VTE=0
+R6
+32
+R7
+!i10b 1
+R8
+R22
+R23
+!i113 1
+R11
+R12

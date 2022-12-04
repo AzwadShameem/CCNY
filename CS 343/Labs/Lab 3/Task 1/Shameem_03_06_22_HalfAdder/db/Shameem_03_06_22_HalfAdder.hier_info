@@ -1,0 +1,9 @@
+|Shameem_03_06_22_HalfAdder
+Shameem_03_06_22_A => Shameem_03_06_22_Sum.IN0
+Shameem_03_06_22_A => Shameem_03_06_22_Carry.IN0
+Shameem_03_06_22_B => Shameem_03_06_22_Sum.IN1
+Shameem_03_06_22_B => Shameem_03_06_22_Carry.IN1
+Shameem_03_06_22_Sum <= Shameem_03_06_22_Sum.DB_MAX_OUTPUT_PORT_TYPE
+Shameem_03_06_22_Carry <= Shameem_03_06_22_Carry.DB_MAX_OUTPUT_PORT_TYPE
+
+

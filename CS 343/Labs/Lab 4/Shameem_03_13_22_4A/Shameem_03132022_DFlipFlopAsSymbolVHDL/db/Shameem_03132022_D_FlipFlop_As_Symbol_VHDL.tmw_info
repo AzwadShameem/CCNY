@@ -1,0 +1,11 @@
+<<<<<<< HEAD:Labs/Lab 4/Shameem_03_13_22_4A/Shameem_03132022_DFlipFlopAsSymbolVHDL/db/Shameem_03132022_D_FlipFlop_As_Symbol_VHDL.tmw_info
+start_full_compilation:s:00:00:41
+start_analysis_synthesis:s:00:00:07-start_full_compilation
+=======
+start_full_compilation:s:00:00:47
+start_analysis_synthesis:s:00:00:08-start_full_compilation
+>>>>>>> de6422383e664b5f8d1ccefa82bf1cf47094556e:Labs/Lab 4/Shameem_03132022_SRAM/db/Shameem_03092022_SRAM.tmw_info
+start_analysis_elaboration:s-start_full_compilation
+start_fitter:s:00:00:27-start_full_compilation
+start_assembler:s:00:00:06-start_full_compilation
+start_timing_analyzer:s:00:00:06-start_full_compilation

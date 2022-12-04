@@ -1,0 +1,134 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/azwad/OneDrive/Documents/FPGA
+Eshameem_azwad_02_28_22_equal
+Z0 w1645824240
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 17
+Z3 dC:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_equal
+Z4 8C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_equal/Shameem_Azwad_02_28_22_equal.vhd
+Z5 FC:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_equal/Shameem_Azwad_02_28_22_equal.vhd
+l0
+L4 1
+V:?g@SYhHW8cW;c1b?lP3e0
+!s100 di;_=P40KPcYgdFR=CAmh0
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1645824757
+!i10b 1
+Z8 !s108 1645824757.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_equal/Shameem_Azwad_02_28_22_equal.vhd|
+Z10 !s107 C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_equal/Shameem_Azwad_02_28_22_equal.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Aarch
+R1
+R2
+DEx4 work 28 shameem_azwad_02_28_22_equal 0 22 :?g@SYhHW8cW;c1b?lP3e0
+!i122 17
+l13
+L10 8
+V@obaL8aeJ]JTbDRMW6]bn3
+!s100 ]M0fFjBDXWU=cYEih<T0f0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eshameem_azwad_02_28_22_equal_test
+Z13 w1645824754
+R1
+R2
+!i122 18
+R3
+Z14 8C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_equal/Shameem_Azwad_02_28_22_equal_test.vhd
+Z15 FC:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_equal/Shameem_Azwad_02_28_22_equal_test.vhd
+l0
+L4 1
+VY7Qk5VE8e]9N??IO68Fz73
+!s100 XVe`BPcQGDidAag9VA2;C0
+R6
+32
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_equal/Shameem_Azwad_02_28_22_equal_test.vhd|
+Z17 !s107 C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_equal/Shameem_Azwad_02_28_22_equal_test.vhd|
+!i113 1
+R11
+R12
+Aarch_test
+R1
+R2
+Z18 DEx4 work 33 shameem_azwad_02_28_22_equal_test 0 22 Y7Qk5VE8e]9N??IO68Fz73
+!i122 18
+l15
+L8 46
+VOV@ccJ^f`ZfLi<4l4On`l0
+!s100 S?CBlBT7MCojTbaDlo^jU2
+R6
+32
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
+R12
+Etest_equal
+Z19 w1645824601
+R1
+R2
+!i122 12
+R3
+R14
+R15
+l0
+L3 1
+Vj_KZR[8>;_@HYCR1?:KfG1
+!s100 EO^06g^]_7DAU:JNG:FJD1
+R6
+32
+Z20 !s110 1645824649
+!i10b 1
+Z21 !s108 1645824649.000000
+R16
+R17
+!i113 1
+R11
+R12
+Aarch_test
+R1
+R2
+DEx4 work 10 test_equal 0 22 j_KZR[8>;_@HYCR1?:KfG1
+!i122 12
+l12
+L5 47
+VKVgeSBT[XChC7oh8<XLIZ2
+!s100 bMS`@gEPzjBJXk0[aX`;?3
+R6
+32
+R20
+!i10b 1
+R21
+R16
+R17
+!i113 1
+R11
+R12

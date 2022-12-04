@@ -1,0 +1,8 @@
+|Shameem_Azwad_mux_2_1_32bit
+A => Y.IN0
+B => Y.IN0
+X => Y.IN1
+X => Y.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+
+

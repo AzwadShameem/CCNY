@@ -1,0 +1,69 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'Shameem_03132022_CHEN'
+Slack : -3.507
+TNS   : -59.240
+
+Type  : Slow 1100mV 85C Model Hold 'Shameem_03132022_CHEN'
+Slack : -0.281
+TNS   : -2.282
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'Shameem_03132022_CLK'
+Slack : -0.394
+TNS   : -17.102
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'Shameem_03132022_CHEN'
+Slack : 0.261
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'Shameem_03132022_CHEN'
+Slack : -3.567
+TNS   : -63.663
+
+Type  : Slow 1100mV 0C Model Hold 'Shameem_03132022_CHEN'
+Slack : -0.196
+TNS   : -1.078
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'Shameem_03132022_CLK'
+Slack : -0.394
+TNS   : -18.300
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'Shameem_03132022_CHEN'
+Slack : 0.242
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'Shameem_03132022_CHEN'
+Slack : -2.246
+TNS   : -19.367
+
+Type  : Fast 1100mV 85C Model Hold 'Shameem_03132022_CHEN'
+Slack : -0.228
+TNS   : -2.184
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'Shameem_03132022_CLK'
+Slack : -0.079
+TNS   : -2.497
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'Shameem_03132022_CHEN'
+Slack : -0.005
+TNS   : -0.008
+
+Type  : Fast 1100mV 0C Model Setup 'Shameem_03132022_CHEN'
+Slack : -2.029
+TNS   : -16.898
+
+Type  : Fast 1100mV 0C Model Hold 'Shameem_03132022_CHEN'
+Slack : -0.220
+TNS   : -2.089
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'Shameem_03132022_CLK'
+Slack : -0.080
+TNS   : -2.520
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'Shameem_03132022_CHEN'
+Slack : 0.007
+TNS   : 0.000
+
+------------------------------------------------------------

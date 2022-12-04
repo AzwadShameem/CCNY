@@ -1,0 +1,17 @@
+{C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_two_bit_comparator/Shameem_Azwad_02_28_22_two_bit_comparator.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_two_bit_comparator/Shameem_Azwad_02_28_22_two_bit_comparator.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Shameem_Azwad_02_28_22_two_bit_comparator
+-- Compiling architecture arch of Shameem_Azwad_02_28_22_two_bit_comparator
+
+} {} {}} {C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_two_bit_comparator/Shameem_Azwad_02_28_22_test_two_bit_comparator.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_two_bit_comparator/Shameem_Azwad_02_28_22_test_two_bit_comparator.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Shameem_Azwad_02_28_22_test_two_bit_comparator
+-- Compiling architecture arch_test of Shameem_Azwad_02_28_22_test_two_bit_comparator
+
+} {} {}}

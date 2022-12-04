@@ -1,0 +1,134 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/azwad/OneDrive/Documents/FPGA
+Eshameem_azwad_02_28_22_eight_bit_comparator
+Z0 w1645923638
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 2
+Z3 dC:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_eight_bit_comparator
+Z4 8C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_eight_bit_comparator/Shameem_Azwad_02_28_22_eight_bit_comparator.vhd
+Z5 FC:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_eight_bit_comparator/Shameem_Azwad_02_28_22_eight_bit_comparator.vhd
+l0
+L4 1
+V>X1IWFJDkenh1MC@VkeKI2
+!s100 1jW[0ke=]B_44TjKY^b?@2
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1645924819
+!i10b 1
+Z8 !s108 1645924819.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_eight_bit_comparator/Shameem_Azwad_02_28_22_eight_bit_comparator.vhd|
+Z10 !s107 C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_eight_bit_comparator/Shameem_Azwad_02_28_22_eight_bit_comparator.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Aarch
+R1
+R2
+DEx4 work 43 shameem_azwad_02_28_22_eight_bit_comparator 0 22 >X1IWFJDkenh1MC@VkeKI2
+!i122 2
+l15
+L9 13
+Ve[3R0hoEA4UD5g?=g9bCl0
+!s100 C0;7C1R<<RUYKS7<Gf`R33
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eshameem_azwad_02_28_22_test_eight_bit_comparator
+Z13 w1645924805
+R1
+R2
+!i122 4
+R3
+Z14 8C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_eight_bit_comparator/Shameem_Azwad_02_28_22_test_eight_bit_comparator.vhd
+Z15 FC:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_eight_bit_comparator/Shameem_Azwad_02_28_22_test_eight_bit_comparator.vhd
+l0
+L4 1
+VXi`C>7LU4eTIjG[K:ANVe2
+!s100 9[g5f::f:GT8WRcK:QT^52
+R6
+32
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_eight_bit_comparator/Shameem_Azwad_02_28_22_test_eight_bit_comparator.vhd|
+!s107 C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_eight_bit_comparator/Shameem_Azwad_02_28_22_test_eight_bit_comparator.vhd|
+!i113 1
+R11
+R12
+Aarch_test
+R1
+R2
+DEx4 work 48 shameem_azwad_02_28_22_test_eight_bit_comparator 0 22 Xi`C>7LU4eTIjG[K:ANVe2
+!i122 4
+l15
+L7 76
+Vb47m]4`;0X^_TcX<8P?z:2
+!s100 o0O5`z@?=k^ZgTeY@jE[>0
+R6
+32
+R7
+!i10b 1
+R8
+R16
+Z17 !s107 C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_eight_bit_comparator/Shameem_Azwad_02_28_22_test_eight_bit_comparator.vhd|
+!i113 1
+R11
+R12
+Eshameem_azwad_02_28_22_two_bit_comparator
+Z18 w1645923144
+R1
+R2
+!i122 3
+R3
+Z19 8C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_eight_bit_comparator/Shameem_Azwad_02_28_22_two_bit_comparator.vhd
+Z20 FC:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_eight_bit_comparator/Shameem_Azwad_02_28_22_two_bit_comparator.vhd
+l0
+L4 1
+VgdaY^SN94dLYFAb1cQJg13
+!s100 ^D>7I4Q>n6RTaW9WU5b>i2
+R6
+32
+R7
+!i10b 1
+R8
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_eight_bit_comparator/Shameem_Azwad_02_28_22_two_bit_comparator.vhd|
+Z22 !s107 C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_eight_bit_comparator/Shameem_Azwad_02_28_22_two_bit_comparator.vhd|
+!i113 1
+R11
+R12
+Aarch
+R1
+R2
+DEx4 work 41 shameem_azwad_02_28_22_two_bit_comparator 0 22 gdaY^SN94dLYFAb1cQJg13
+!i122 3
+l10
+L9 4
+VNo5DWNC9ibc]@UUM=G4fH3
+!s100 e[?I@hTSn[_MzBDZl]=403
+R6
+32
+R7
+!i10b 1
+R8
+R21
+R22
+!i113 1
+R11
+R12

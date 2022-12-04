@@ -1,0 +1,50 @@
+library ieee;
+use ieee.std_logic_1164.all;
+USE ieee.numeric_std.ALL;
+USE ieee.std_logic_unsigned.all;
+
+
+entity Shameem_03_06_22_NBitFullAdderSubTestBench is
+end Shameem_03_06_22_NBitFullAdderSubTestBench;
+
+architecture arch_test of Shameem_03_06_22_NBitFullAdderSubTestBench is
+component Shameem_03_06_22_NBitFullAdderSub is
+	generic (N: integer := 16);
+	port (Shameem_03_06_22_Operation: in STD_lOGIC;
+	      Shameem_03_06_22_A, Shameem_03_06_22_B: in STD_lOGIC_VECTOR(N-1 downto 0);
+	      Shameem_03_06_22_Sum: out STD_lOGIC_VECTOR(N-1 downto 0);
+	      Shameem_03_06_22_Cout: out STD_lOGIC);
+end component;
+signal Shameem_03_06_22_addsub, Shameem_03_06_22_Carry, overflow, negative, zero : std_logic;
+signal Shameem_03_06_22_A_input, Shameem_03_06_22_B_input, Shameem_03_06_22_Result, Shameem_03_06_22_Answer: std_logic_vector (15 downto 0);
+signal error: std_logic:= '1';
+
+begin
+	uut: Shameem_03_06_22_NBitFullAdderSub port map(Shameem_03_06_22_addsub, Shameem_03_06_22_A, Shameem_03_06_22_B, 
+		Shameem_03_06_22_Result, Shameem_03_06_22_Carry, overflow, zero, negative);
+	process
+		begin
+			Shameem_03_06_22_A_input <= "0000000000011110";
+			Shameem_03_06_22_B_input <= "0000000000000101";
+			Shameem_03_06_22_Answer <= "0000000000010011";
+			code <= '0';
+			wait for 1 ns;
+			if ((SUM = trueValue)) then
+				error <= '0';
+			end if;
+			wait for 200ns;
+			if (error = '0') then
+				report "No errors detected. The simulation was successful";
+				report "Input A = " & integer'image(to_integer(signed(A)));
+				report "Input B = " & integer'image(to_integer(signed(B)));
+				report "The result = " & integer'image(to_integer(signed(SUM)));
+				report "The value of actual SUM should be " & integer'image(to_integer(signed(trueValue))) severity failure;
+			else
+				report "Error detected. TheSimulation Failed";
+				report "Input A = " & integer'image(to_integer(signed(A)));
+				report "Input B = " & integer'image(to_integer(signed(B)));
+				report "The result = " & integer'image(to_integer(signed(SUM)));
+				report "The real answer should be = " & integer'image(to_integer(signed(trueValue))) severity failure;
+			end if;
+	end process;
+end arch_test;

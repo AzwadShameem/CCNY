@@ -1,0 +1,20 @@
+# Compile of Shameem_Azwad_mux_2_1.vhd was successful.
+vsim -gui work.shameem_azwad_mux_2_1
+# vsim -gui work.shameem_azwad_mux_2_1 
+# Start time: 19:20:34 on Feb 15,2022
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.shameem_azwad_mux_2_1(logicfunction)
+wave create -driver freeze -pattern clock -initialvalue 0 -period 800ns -dutycycle 50 -starttime 0ns -endtime 800ns sim:/shameem_azwad_mux_2_1/X
+# Editable Wave items are not compatible with the wave window's standard undo-redo.  Standard undo-redo has been disabled.
+wave create -driver freeze -pattern clock -initialvalue 0 -period 400ps -dutycycle 50 -starttime 0ns -endtime 800ns sim:/shameem_azwad_mux_2_1/A
+wave modify -driver freeze -pattern clock -initialvalue 0 -period 400ns -dutycycle 50 -starttime 0ns -endtime 800ns Edit:/shameem_azwad_mux_2_1/A
+wave create -driver freeze -pattern clock -initialvalue 0 -period 200ns -dutycycle 50 -starttime 0ns -endtime 800ns sim:/shameem_azwad_mux_2_1/B
+add wave  \
+sim:/shameem_azwad_mux_2_1/Y
+run -all
+write format wave -window .main_pane.wave.interior.cs.body.pw.wf {C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 1/Shameem_Azwad__Feb_13_2022_mux_2_1/wave.do}
+wave editwrite -file {C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 1/Shameem_Azwad__Feb_13_2022_mux_2_1/wave.do} -append
+# End time: 19:28:35 on Feb 15,2022, Elapsed time: 0:08:01
+# Errors: 0, Warnings: 3

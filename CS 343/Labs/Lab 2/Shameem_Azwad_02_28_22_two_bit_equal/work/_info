@@ -1,0 +1,115 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/azwad/OneDrive/Documents/FPGA
+Eshameem_azwad_02_28_22_test_two_bit_equal
+Z0 w1645828818
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 14
+Z3 dC:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_two_bit_equal
+Z4 8C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_two_bit_equal/Shameem_Azwad_02_28_22_test_two_bit_equal.vhd
+Z5 FC:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_two_bit_equal/Shameem_Azwad_02_28_22_test_two_bit_equal.vhd
+l0
+L4 1
+VBJUzi=_fS7ncMDL[e6bLY0
+!s100 W^Ozd<;W8FNSH8Xg52YHc0
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1645897001
+!i10b 1
+Z8 !s108 1645897001.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_two_bit_equal/Shameem_Azwad_02_28_22_test_two_bit_equal.vhd|
+Z10 !s107 C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_two_bit_equal/Shameem_Azwad_02_28_22_test_two_bit_equal.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Aarch_test
+R1
+R2
+Z13 DEx4 work 41 shameem_azwad_02_28_22_test_two_bit_equal 0 22 BJUzi=_fS7ncMDL[e6bLY0
+!i122 14
+l15
+Z14 L7 75
+Z15 VIcHEgWjBA_YGRQGc4C0[Y2
+Z16 !s100 RFje7Mj=_if3>44ZPbXhe1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eshameem_azwad_02_28_22_two_bit_equal
+Z17 w1645827018
+R1
+R2
+!i122 13
+R3
+Z18 8C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_two_bit_equal/Shameem_Azwad_02_28_22_two_bit_equal.vhd
+Z19 FC:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_two_bit_equal/Shameem_Azwad_02_28_22_two_bit_equal.vhd
+l0
+L4 1
+V<i79?7K3c?`?OC=56j^?j0
+!s100 GX6`>F8i?3=A9^h2iZ1;o2
+R6
+32
+R7
+!i10b 1
+R8
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_two_bit_equal/Shameem_Azwad_02_28_22_two_bit_equal.vhd|
+Z21 !s107 C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_two_bit_equal/Shameem_Azwad_02_28_22_two_bit_equal.vhd|
+!i113 1
+R11
+R12
+Aarch
+R1
+R2
+DEx4 work 36 shameem_azwad_02_28_22_two_bit_equal 0 22 <i79?7K3c?`?OC=56j^?j0
+!i122 13
+l11
+L9 9
+V2k7Nb^3CiN^kUMSKKcJnZ1
+!s100 O8e^b<@fDW?Ui9e4^Fn5k1
+R6
+32
+R7
+!i10b 1
+R8
+R20
+R21
+!i113 1
+R11
+R12
+Etest_two_bit_equal
+w1645828075
+R1
+R2
+!i122 6
+R3
+R4
+R5
+l0
+L3 1
+VE0aT2zcJ:h;d_;2Ug>chF0
+!s100 ATHRj0>DGSoY6bCQ4PiQH3
+R6
+32
+!s110 1645828090
+!i10b 1
+!s108 1645828090.000000
+R9
+R10
+!i113 1
+R11
+R12

@@ -1,0 +1,31 @@
+LIBRARY ieee;
+USE ieee.std_logic_1164.ALL;
+USE ieee.numeric_std.ALL;
+USE ieee.std_logic_unsigned.ALL;
+USE ieee.std_logic_signed.ALL;
+
+ENTITY Shameem_03132022_GLatch_As_Symbol_VHDL_TB1 IS
+END Shameem_03132022_GLatch_As_Symbol_VHDL_TB1;
+
+ARCHITECTURE tb OF Shameem_03132022_GLatch_As_Symbol_VHDL_TB1 IS 
+component Shameem_03132022_GLatch_As_Symbol_VHDL is
+	PORT (PRN :  IN  STD_LOGIC;
+		D :  IN  STD_LOGIC;
+		E :  IN  STD_LOGIC;
+		CLRN :  IN  STD_LOGIC;
+		Q :  OUT  STD_LOGIC);
+END component;
+signal PRN, D, E, CLRN, Q: STD_LOGIC;
+BEGIN
+    uut: Shameem_03132022_GLatch_As_Symbol_VHDL PORT MAP (PRN, D, E, CLRN, Q);
+    stim_proc: process
+    begin
+	wait 100 ns;
+        D <= '1';
+	E <= '0';
+	PRN <= '1';
+	CLRN <= '1';
+        wait for 100 ns;
+        wait;
+    end process;
+END;

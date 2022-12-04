@@ -1,0 +1,25 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity Shameem_Azwad_02_28_22_eight_bit_equal is
+	port (a, b : in std_logic_vector(7 downto 0);
+			aeqb : out std_logic);
+end Shameem_Azwad_02_28_22_eight_bit_equal;
+
+architecture arch of Shameem_Azwad_02_28_22_eight_bit_equal is
+signal eq0, eq1, eq2, eq3, eq4, eq5, eq6, eq7: STD_LOGIC;
+component Shameem_Azwad_02_28_22_two_bit_equal is
+	port (a, b : in std_logic_vector(1 downto 0);
+			aeqb : out std_logic);
+end component;
+begin
+	U1: Shameem_Azwad_02_28_22_two_bit_equal port map(i0=>a(0), i1=>b(0), eq=>eq0);
+	U2: Shameem_Azwad_02_28_22_two_bit_equal port map(i0=>a(1), i1=>b(1), eq=>eq1);
+	U3: Shameem_Azwad_02_28_22_two_bit_equal port map(i0=>a(2), i1=>b(2), eq=>eq2);
+	U4: Shameem_Azwad_02_28_22_two_bit_equal port map(i0=>a(3), i1=>b(3), eq=>eq3);
+	U5: Shameem_Azwad_02_28_22_two_bit_equal port map(i0=>a(4), i1=>b(4), eq=>eq4);
+	U6: Shameem_Azwad_02_28_22_two_bit_equal port map(i0=>a(5), i1=>b(5), eq=>eq5);
+	U7: Shameem_Azwad_02_28_22_two_bit_equal port map(i0=>a(6), i1=>b(6), eq=>eq6);
+	U8: Shameem_Azwad_02_28_22_two_bit_equal port map(i0=>a(7), i1=>b(7), eq=>eq7);
+	aeqb <= U1 AND U2 AND U3 AND U4 AND U5 AND U6 AND U7 AND U8
+end arch;

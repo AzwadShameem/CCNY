@@ -1,0 +1,188 @@
+<<<<<<<< HEAD:Labs/Midterm Lab/Assignment 1/Shameem_03_23_22_DataMemory/output_files/Shameem_03_23_22_DataMemory.flow.rpt
+Flow report for Shameem_03_23_22_DataMemory
+Mon Mar 21 12:18:32 2022
+========
+Flow report for Shameem_03132022_DFlipFlopMasterSlave
+Fri Mar 11 16:33:34 2022
+>>>>>>>> de6422383e664b5f8d1ccefa82bf1cf47094556e:Labs/Lab 4/Shameem_03132022_4A/Shameem_03132022_DFlipFlopMasterSlave/output_files/Shameem_03132022_DFlipFlopMasterSlave.flow.rpt
+Quartus Prime Version 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Flow Summary
+  3. Flow Settings
+  4. Flow Non-Default Global Settings
+  5. Flow Elapsed Time
+  6. Flow OS Summary
+  7. Flow Log
+  8. Flow Messages
+  9. Flow Suppressed Messages
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2020  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and any partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel FPGA IP License Agreement, or other applicable license
+agreement, including, without limitation, that your use is for
+the sole purpose of programming logic devices manufactured by
+Intel and sold by Intel or its authorized distributors.  Please
+refer to the applicable agreement for further details, at
+https://fpgasoftware.intel.com/eula.
+
+
+
++-------------------------------------------------------------------------------+
+; Flow Summary                                                                  ;
++---------------------------------+---------------------------------------------+
+<<<<<<<< HEAD:Labs/Midterm Lab/Assignment 1/Shameem_03_23_22_DataMemory/output_files/Shameem_03_23_22_DataMemory.flow.rpt
+; Flow Status                     ; Successful - Mon Mar 21 12:18:25 2022       ;
+; Quartus Prime Version           ; 20.1.1 Build 720 11/11/2020 SJ Lite Edition ;
+; Revision Name                   ; Shameem_03_23_22_DataMemory                 ;
+; Top-level Entity Name           ; Shameem_03_23_22_DataMemory                 ;
+========
+; Flow Status                     ; Successful - Fri Mar 11 16:33:30 2022       ;
+; Quartus Prime Version           ; 20.1.1 Build 720 11/11/2020 SJ Lite Edition ;
+; Revision Name                   ; Shameem_03132022_DFlipFlopMasterSlave       ;
+; Top-level Entity Name           ; Shameem_03132022_DFlipFlopMasterSlave       ;
+>>>>>>>> de6422383e664b5f8d1ccefa82bf1cf47094556e:Labs/Lab 4/Shameem_03132022_4A/Shameem_03132022_DFlipFlopMasterSlave/output_files/Shameem_03132022_DFlipFlopMasterSlave.flow.rpt
+; Family                          ; Cyclone V                                   ;
+; Device                          ; 5CSEMA5F31C6                                ;
+; Timing Models                   ; Final                                       ;
+<<<<<<<< HEAD:Labs/Midterm Lab/Assignment 1/Shameem_03_23_22_DataMemory/output_files/Shameem_03_23_22_DataMemory.flow.rpt
+; Logic utilization (in ALMs)     ; 1 / 56,480 ( < 1 % )                        ;
+; Total registers                 ; 0                                           ;
+; Total pins                      ; 70 / 268 ( 26 % )                           ;
+; Total virtual pins              ; 0                                           ;
+; Total block memory bits         ; 512 / 7,024,640 ( < 1 % )                   ;
+; Total DSP Blocks                ; 0 / 156 ( 0 % )                             ;
+; Total HSSI RX PCSs              ; 0 / 6 ( 0 % )                               ;
+; Total HSSI PMA RX Deserializers ; 0 / 6 ( 0 % )                               ;
+; Total HSSI TX PCSs              ; 0 / 6 ( 0 % )                               ;
+; Total HSSI PMA TX Serializers   ; 0 / 6 ( 0 % )                               ;
+; Total PLLs                      ; 0 / 13 ( 0 % )                              ;
+========
+; Logic utilization (in ALMs)     ; 2 / 32,070 ( < 1 % )                        ;
+; Total registers                 ; 0                                           ;
+; Total pins                      ; 5 / 457 ( 1 % )                             ;
+; Total virtual pins              ; 0                                           ;
+; Total block memory bits         ; 0 / 4,065,280 ( 0 % )                       ;
+; Total DSP Blocks                ; 0 / 87 ( 0 % )                              ;
+; Total HSSI RX PCSs              ; 0                                           ;
+; Total HSSI PMA RX Deserializers ; 0                                           ;
+; Total HSSI TX PCSs              ; 0                                           ;
+; Total HSSI PMA TX Serializers   ; 0                                           ;
+; Total PLLs                      ; 0 / 6 ( 0 % )                               ;
+>>>>>>>> de6422383e664b5f8d1ccefa82bf1cf47094556e:Labs/Lab 4/Shameem_03132022_4A/Shameem_03132022_DFlipFlopMasterSlave/output_files/Shameem_03132022_DFlipFlopMasterSlave.flow.rpt
+; Total DLLs                      ; 0 / 4 ( 0 % )                               ;
++---------------------------------+---------------------------------------------+
+
+
+<<<<<<<< HEAD:Labs/Midterm Lab/Assignment 1/Shameem_03_23_22_DataMemory/output_files/Shameem_03_23_22_DataMemory.flow.rpt
++-------------------------------------------------+
+; Flow Settings                                   ;
++-------------------+-----------------------------+
+; Option            ; Setting                     ;
++-------------------+-----------------------------+
+; Start date & time ; 03/21/2022 12:17:35         ;
+; Main task         ; Compilation                 ;
+; Revision Name     ; Shameem_03_23_22_DataMemory ;
++-------------------+-----------------------------+
+========
++-----------------------------------------------------------+
+; Flow Settings                                             ;
++-------------------+---------------------------------------+
+; Option            ; Setting                               ;
++-------------------+---------------------------------------+
+; Start date & time ; 03/11/2022 16:32:51                   ;
+; Main task         ; Compilation                           ;
+; Revision Name     ; Shameem_03132022_DFlipFlopMasterSlave ;
++-------------------+---------------------------------------+
+>>>>>>>> de6422383e664b5f8d1ccefa82bf1cf47094556e:Labs/Lab 4/Shameem_03132022_4A/Shameem_03132022_DFlipFlopMasterSlave/output_files/Shameem_03132022_DFlipFlopMasterSlave.flow.rpt
+
+
++-------------------------------------------------------------------------------------------------------------------------+
+; Flow Non-Default Global Settings                                                                                        ;
++-------------------------------------+----------------------------------------+---------------+-------------+------------+
+; Assignment Name                     ; Value                                  ; Default Value ; Entity Name ; Section Id ;
++-------------------------------------+----------------------------------------+---------------+-------------+------------+
+<<<<<<<< HEAD:Labs/Midterm Lab/Assignment 1/Shameem_03_23_22_DataMemory/output_files/Shameem_03_23_22_DataMemory.flow.rpt
+; COMPILER_SIGNATURE_ID               ; 53447166807106.164787945504500         ; --            ; --          ; --         ;
+; MAX_CORE_JUNCTION_TEMP              ; 85                                     ; --            ; --          ; --         ;
+; MIN_CORE_JUNCTION_TEMP              ; 0                                      ; --            ; --          ; --         ;
+; MISC_FILE                           ; Shameem_03_23_22_DataMemory.cmp        ; --            ; --          ; --         ;
+========
+; COMPILER_SIGNATURE_ID               ; 53447166807106.164703437105248         ; --            ; --          ; --         ;
+; MAX_CORE_JUNCTION_TEMP              ; 85                                     ; --            ; --          ; --         ;
+; MIN_CORE_JUNCTION_TEMP              ; 0                                      ; --            ; --          ; --         ;
+>>>>>>>> de6422383e664b5f8d1ccefa82bf1cf47094556e:Labs/Lab 4/Shameem_03132022_4A/Shameem_03132022_DFlipFlopMasterSlave/output_files/Shameem_03132022_DFlipFlopMasterSlave.flow.rpt
+; PARTITION_COLOR                     ; -- (Not supported for targeted family) ; --            ; --          ; Top        ;
+; PARTITION_FITTER_PRESERVATION_LEVEL ; -- (Not supported for targeted family) ; --            ; --          ; Top        ;
+; PARTITION_NETLIST_TYPE              ; -- (Not supported for targeted family) ; --            ; --          ; Top        ;
+; POWER_BOARD_THERMAL_MODEL           ; None (CONSERVATIVE)                    ; --            ; --          ; --         ;
+; POWER_PRESET_COOLING_SOLUTION       ; 23 MM HEAT SINK WITH 200 LFPM AIRFLOW  ; --            ; --          ; --         ;
+; PROJECT_OUTPUT_DIRECTORY            ; output_files                           ; --            ; --          ; --         ;
++-------------------------------------+----------------------------------------+---------------+-------------+------------+
+
+
++--------------------------------------------------------------------------------------------------------------------------+
+; Flow Elapsed Time                                                                                                        ;
++----------------------+--------------+-------------------------+---------------------+------------------------------------+
+; Module Name          ; Elapsed Time ; Average Processors Used ; Peak Virtual Memory ; Total CPU Time (on all processors) ;
++----------------------+--------------+-------------------------+---------------------+------------------------------------+
+<<<<<<<< HEAD:Labs/Midterm Lab/Assignment 1/Shameem_03_23_22_DataMemory/output_files/Shameem_03_23_22_DataMemory.flow.rpt
+; Analysis & Synthesis ; 00:00:07     ; 1.0                     ; 4863 MB             ; 00:00:20                           ;
+; Fitter               ; 00:00:33     ; 1.0                     ; 7167 MB             ; 00:01:36                           ;
+; Assembler            ; 00:00:07     ; 1.0                     ; 4835 MB             ; 00:00:07                           ;
+; Timing Analyzer      ; 00:00:06     ; 1.1                     ; 5261 MB             ; 00:00:06                           ;
+; Total                ; 00:00:53     ; --                      ; --                  ; 00:02:09                           ;
+========
+; Analysis & Synthesis ; 00:00:06     ; 1.0                     ; 4870 MB             ; 00:00:16                           ;
+; Fitter               ; 00:00:27     ; 1.0                     ; 6896 MB             ; 00:01:26                           ;
+; Assembler            ; 00:00:04     ; 1.0                     ; 4834 MB             ; 00:00:05                           ;
+; Timing Analyzer      ; 00:00:03     ; 1.0                     ; 5157 MB             ; 00:00:03                           ;
+; Total                ; 00:00:40     ; --                      ; --                  ; 00:01:50                           ;
+>>>>>>>> de6422383e664b5f8d1ccefa82bf1cf47094556e:Labs/Lab 4/Shameem_03132022_4A/Shameem_03132022_DFlipFlopMasterSlave/output_files/Shameem_03132022_DFlipFlopMasterSlave.flow.rpt
++----------------------+--------------+-------------------------+---------------------+------------------------------------+
+
+
++------------------------------------------------------------------------------------+
+; Flow OS Summary                                                                    ;
++----------------------+------------------+------------+------------+----------------+
+; Module Name          ; Machine Hostname ; OS Name    ; OS Version ; Processor type ;
++----------------------+------------------+------------+------------+----------------+
+; Analysis & Synthesis ; DESKTOP-UMH0R4O  ; Windows 10 ; 10.0       ; x86_64         ;
+; Fitter               ; DESKTOP-UMH0R4O  ; Windows 10 ; 10.0       ; x86_64         ;
+; Assembler            ; DESKTOP-UMH0R4O  ; Windows 10 ; 10.0       ; x86_64         ;
+; Timing Analyzer      ; DESKTOP-UMH0R4O  ; Windows 10 ; 10.0       ; x86_64         ;
++----------------------+------------------+------------+------------+----------------+
+
+
+------------
+; Flow Log ;
+------------
+<<<<<<<< HEAD:Labs/Midterm Lab/Assignment 1/Shameem_03_23_22_DataMemory/output_files/Shameem_03_23_22_DataMemory.flow.rpt
+quartus_map --read_settings_files=on --write_settings_files=off Shameem_03_23_22_DataMemory -c Shameem_03_23_22_DataMemory
+quartus_fit --read_settings_files=off --write_settings_files=off Shameem_03_23_22_DataMemory -c Shameem_03_23_22_DataMemory
+quartus_asm --read_settings_files=off --write_settings_files=off Shameem_03_23_22_DataMemory -c Shameem_03_23_22_DataMemory
+quartus_sta Shameem_03_23_22_DataMemory -c Shameem_03_23_22_DataMemory
+========
+quartus_map --read_settings_files=on --write_settings_files=off Shameem_03132022_DFlipFlopMasterSlave -c Shameem_03132022_DFlipFlopMasterSlave
+quartus_fit --read_settings_files=off --write_settings_files=off Shameem_03132022_DFlipFlopMasterSlave -c Shameem_03132022_DFlipFlopMasterSlave
+quartus_asm --read_settings_files=off --write_settings_files=off Shameem_03132022_DFlipFlopMasterSlave -c Shameem_03132022_DFlipFlopMasterSlave
+quartus_sta Shameem_03132022_DFlipFlopMasterSlave -c Shameem_03132022_DFlipFlopMasterSlave
+>>>>>>>> de6422383e664b5f8d1ccefa82bf1cf47094556e:Labs/Lab 4/Shameem_03132022_4A/Shameem_03132022_DFlipFlopMasterSlave/output_files/Shameem_03132022_DFlipFlopMasterSlave.flow.rpt
+
+
+

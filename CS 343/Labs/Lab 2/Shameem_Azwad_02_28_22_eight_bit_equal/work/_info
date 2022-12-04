@@ -1,0 +1,175 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/azwad/OneDrive/Documents/FPGA
+Eshameem_azwad_02_28_22_eight_bit_equal
+Z0 w1645916801
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 11
+Z3 dC:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_eight_bit_equal
+Z4 8C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_eight_bit_equal/Shameem_Azwad_02_28_22_eight_bit_equal.vhd
+Z5 FC:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_eight_bit_equal/Shameem_Azwad_02_28_22_eight_bit_equal.vhd
+l0
+L4 1
+VZ?K4ZUea5g221dEcEkRcl0
+!s100 =hT10JQb;z2`UK1]A2U_b3
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1645919884
+!i10b 1
+Z8 !s108 1645919884.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_eight_bit_equal/Shameem_Azwad_02_28_22_eight_bit_equal.vhd|
+Z10 !s107 C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_eight_bit_equal/Shameem_Azwad_02_28_22_eight_bit_equal.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Aarch
+R1
+R2
+DEx4 work 38 shameem_azwad_02_28_22_eight_bit_equal 0 22 Z?K4ZUea5g221dEcEkRcl0
+!i122 11
+l15
+L9 17
+VE4CdB^^hh^XBGL98MVDgA0
+!s100 KKz11PS`L@;APQ8bRj:j_2
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eshameem_azwad_02_28_22_equal
+Z13 w1645918413
+R1
+R2
+!i122 12
+R3
+Z14 8C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_eight_bit_equal/Shameem_Azwad_02_28_22_equal.vhd
+Z15 FC:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_eight_bit_equal/Shameem_Azwad_02_28_22_equal.vhd
+l0
+L4 1
+VgD1cfGkA=>ZNC?GkAVzjI0
+!s100 FRzM?CLcPlVT4;G3^<nI>1
+R6
+32
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_eight_bit_equal/Shameem_Azwad_02_28_22_equal.vhd|
+Z17 !s107 C:/Users/azwad/OneDrive/Documents/Projects/CS_343/Labs/Lab 2/Shameem_Azwad_02_28_22_eight_bit_equal/Shameem_Azwad_02_28_22_equal.vhd|
+!i113 1
+R11
+R12
+Aarch
+R1
+R2
+DEx4 work 28 shameem_azwad_02_28_22_equal 0 22 gD1cfGkA=>ZNC?GkAVzjI0
+!i122 12
+l13
+L10 8
+V;23m8Rd?=;_89G@A>^Q`B1
+!s100 ;9Q2I0P@Z5bRca^LCL5Hm3
+R6
+32
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
+R12
+Eshameem_azwad_02_28_22_test_eight_bit_equal
+Z18 w1645919877
+R1
+R2
+!i122 13
+R3
+Z19 8C:\Users\azwad\OneDrive\Documents\Projects\CS_343\Labs\Lab 2\Shameem_Azwad_02_28_22_eight_bit_equal\Shameem_Azwad_02_28_22_test_eight_bit_equal.vhd
+Z20 FC:\Users\azwad\OneDrive\Documents\Projects\CS_343\Labs\Lab 2\Shameem_Azwad_02_28_22_eight_bit_equal\Shameem_Azwad_02_28_22_test_eight_bit_equal.vhd
+l0
+L4 1
+VCaIZFe78kL[LD]HdeBaD93
+!s100 Lk6nSJz0nJEP5aoz2c_^m1
+R6
+32
+R7
+!i10b 1
+R8
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\azwad\OneDrive\Documents\Projects\CS_343\Labs\Lab 2\Shameem_Azwad_02_28_22_eight_bit_equal\Shameem_Azwad_02_28_22_test_eight_bit_equal.vhd|
+Z22 !s107 C:\Users\azwad\OneDrive\Documents\Projects\CS_343\Labs\Lab 2\Shameem_Azwad_02_28_22_eight_bit_equal\Shameem_Azwad_02_28_22_test_eight_bit_equal.vhd|
+!i113 1
+R11
+R12
+Aarch_test
+R1
+R2
+Z23 DEx4 work 43 shameem_azwad_02_28_22_test_eight_bit_equal 0 22 CaIZFe78kL[LD]HdeBaD93
+!i122 13
+l15
+Z24 L7 76
+V:WISc0c1mT9NAnhgBLflW3
+!s100 _<_097ieDF1c@=bRI5nga3
+R6
+32
+R7
+!i10b 1
+R8
+R21
+R22
+!i113 1
+R11
+R12
+Etest_eight_bit_equal_port_map
+Z25 w1645919590
+R1
+R2
+!i122 7
+R3
+R19
+R20
+l0
+L4 1
+VLlN8kU1SoQ_fjXVBHQ]BI2
+!s100 kc@;GS`=L@YjgV@PdIBeb2
+R6
+32
+Z26 !s110 1645919686
+!i10b 1
+Z27 !s108 1645919686.000000
+R21
+R22
+!i113 1
+R11
+R12
+Aarch_test
+R1
+R2
+DEx4 work 29 test_eight_bit_equal_port_map 0 22 LlN8kU1SoQ_fjXVBHQ]BI2
+!i122 7
+l15
+L7 78
+VPoPo^nhI9jaAMbU4aX`oL0
+!s100 QI6ikD[:ENj_8XaO7<_?L2
+R6
+32
+R26
+!i10b 1
+R27
+R21
+R22
+!i113 1
+R11
+R12

@@ -1,0 +1,26 @@
+{C:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 2/Shameem_03_23_22_LPMAddSubCircuit/Shameem_03_23_22_DataMemory.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 2/Shameem_03_23_22_LPMAddSubCircuit/Shameem_03_23_22_DataMemory.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package altera_mf_components
+-- Compiling entity Shameem_03_23_22_DataMemory
+-- Compiling architecture SYN of shameem_03_23_22_datamemory
+
+} {} {}} {C:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 2/Shameem_03_23_22_LPMAddSubCircuit/Shameem_03_23_22_LPMAddSubCircuit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 2/Shameem_03_23_22_LPMAddSubCircuit/Shameem_03_23_22_LPMAddSubCircuit.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Shameem_03_23_22_LPMAddSubCircuit
+-- Compiling architecture arch of Shameem_03_23_22_LPMAddSubCircuit
+
+} {} {}} {C:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 2/Shameem_03_23_22_LPMAddSubCircuit/Shameem_03_23_22_LPMAddSub.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/azwad/Documents/CS_343/Labs/Midterm Lab/Assignment 2/Shameem_03_23_22_LPMAddSubCircuit/Shameem_03_23_22_LPMAddSub.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Shameem_03_23_22_LPMAddSub
+-- Compiling architecture SYN of shameem_03_23_22_lpmaddsub
+
+} {} {}}

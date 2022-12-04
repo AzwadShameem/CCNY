@@ -1,0 +1,121 @@
+|Shameem_03_06_22_FourBitFullAdder
+Shameem_03_06_22_Cin => Shameem_03_06_22_FullAdder:U1.Shameem_03_06_22_Cin
+Shameem_03_06_22_A[0] => Shameem_03_06_22_FullAdder:U1.Shameem_03_06_22_A
+Shameem_03_06_22_A[1] => Shameem_03_06_22_FullAdder:U2.Shameem_03_06_22_A
+Shameem_03_06_22_A[2] => Shameem_03_06_22_FullAdder:U3.Shameem_03_06_22_A
+Shameem_03_06_22_A[3] => Shameem_03_06_22_FullAdder:U4.Shameem_03_06_22_A
+Shameem_03_06_22_B[0] => Shameem_03_06_22_FullAdder:U1.Shameem_03_06_22_B
+Shameem_03_06_22_B[1] => Shameem_03_06_22_FullAdder:U2.Shameem_03_06_22_B
+Shameem_03_06_22_B[2] => Shameem_03_06_22_FullAdder:U3.Shameem_03_06_22_B
+Shameem_03_06_22_B[3] => Shameem_03_06_22_FullAdder:U4.Shameem_03_06_22_B
+Shameem_03_06_22_Sum[0] <= Shameem_03_06_22_FullAdder:U1.Shameem_03_06_22_Sum
+Shameem_03_06_22_Sum[1] <= Shameem_03_06_22_FullAdder:U2.Shameem_03_06_22_Sum
+Shameem_03_06_22_Sum[2] <= Shameem_03_06_22_FullAdder:U3.Shameem_03_06_22_Sum
+Shameem_03_06_22_Sum[3] <= Shameem_03_06_22_FullAdder:U4.Shameem_03_06_22_Sum
+Shameem_03_06_22_Cout <= Shameem_03_06_22_FullAdder:U4.Shameem_03_06_22_Cout
+
+
+|Shameem_03_06_22_FourBitFullAdder|Shameem_03_06_22_FullAdder:U1
+Shameem_03_06_22_Cin => Shameem_03_06_22_HalfAdder:U2.Shameem_03_06_22_B
+Shameem_03_06_22_A => Shameem_03_06_22_HalfAdder:U1.Shameem_03_06_22_A
+Shameem_03_06_22_B => Shameem_03_06_22_HalfAdder:U1.Shameem_03_06_22_B
+Shameem_03_06_22_Sum <= Shameem_03_06_22_HalfAdder:U2.Shameem_03_06_22_Sum
+Shameem_03_06_22_Cout <= Shameem_03_06_22_Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Shameem_03_06_22_FourBitFullAdder|Shameem_03_06_22_FullAdder:U1|Shameem_03_06_22_HalfAdder:U1
+Shameem_03_06_22_A => Shameem_03_06_22_Carry.IN0
+Shameem_03_06_22_A => Shameem_03_06_22_Sum.IN0
+Shameem_03_06_22_B => Shameem_03_06_22_Carry.IN1
+Shameem_03_06_22_B => Shameem_03_06_22_Sum.IN1
+Shameem_03_06_22_Sum <= Shameem_03_06_22_Sum.DB_MAX_OUTPUT_PORT_TYPE
+Shameem_03_06_22_Carry <= Shameem_03_06_22_Carry.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Shameem_03_06_22_FourBitFullAdder|Shameem_03_06_22_FullAdder:U1|Shameem_03_06_22_HalfAdder:U2
+Shameem_03_06_22_A => Shameem_03_06_22_Carry.IN0
+Shameem_03_06_22_A => Shameem_03_06_22_Sum.IN0
+Shameem_03_06_22_B => Shameem_03_06_22_Carry.IN1
+Shameem_03_06_22_B => Shameem_03_06_22_Sum.IN1
+Shameem_03_06_22_Sum <= Shameem_03_06_22_Sum.DB_MAX_OUTPUT_PORT_TYPE
+Shameem_03_06_22_Carry <= Shameem_03_06_22_Carry.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Shameem_03_06_22_FourBitFullAdder|Shameem_03_06_22_FullAdder:U2
+Shameem_03_06_22_Cin => Shameem_03_06_22_HalfAdder:U2.Shameem_03_06_22_B
+Shameem_03_06_22_A => Shameem_03_06_22_HalfAdder:U1.Shameem_03_06_22_A
+Shameem_03_06_22_B => Shameem_03_06_22_HalfAdder:U1.Shameem_03_06_22_B
+Shameem_03_06_22_Sum <= Shameem_03_06_22_HalfAdder:U2.Shameem_03_06_22_Sum
+Shameem_03_06_22_Cout <= Shameem_03_06_22_Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Shameem_03_06_22_FourBitFullAdder|Shameem_03_06_22_FullAdder:U2|Shameem_03_06_22_HalfAdder:U1
+Shameem_03_06_22_A => Shameem_03_06_22_Carry.IN0
+Shameem_03_06_22_A => Shameem_03_06_22_Sum.IN0
+Shameem_03_06_22_B => Shameem_03_06_22_Carry.IN1
+Shameem_03_06_22_B => Shameem_03_06_22_Sum.IN1
+Shameem_03_06_22_Sum <= Shameem_03_06_22_Sum.DB_MAX_OUTPUT_PORT_TYPE
+Shameem_03_06_22_Carry <= Shameem_03_06_22_Carry.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Shameem_03_06_22_FourBitFullAdder|Shameem_03_06_22_FullAdder:U2|Shameem_03_06_22_HalfAdder:U2
+Shameem_03_06_22_A => Shameem_03_06_22_Carry.IN0
+Shameem_03_06_22_A => Shameem_03_06_22_Sum.IN0
+Shameem_03_06_22_B => Shameem_03_06_22_Carry.IN1
+Shameem_03_06_22_B => Shameem_03_06_22_Sum.IN1
+Shameem_03_06_22_Sum <= Shameem_03_06_22_Sum.DB_MAX_OUTPUT_PORT_TYPE
+Shameem_03_06_22_Carry <= Shameem_03_06_22_Carry.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Shameem_03_06_22_FourBitFullAdder|Shameem_03_06_22_FullAdder:U3
+Shameem_03_06_22_Cin => Shameem_03_06_22_HalfAdder:U2.Shameem_03_06_22_B
+Shameem_03_06_22_A => Shameem_03_06_22_HalfAdder:U1.Shameem_03_06_22_A
+Shameem_03_06_22_B => Shameem_03_06_22_HalfAdder:U1.Shameem_03_06_22_B
+Shameem_03_06_22_Sum <= Shameem_03_06_22_HalfAdder:U2.Shameem_03_06_22_Sum
+Shameem_03_06_22_Cout <= Shameem_03_06_22_Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Shameem_03_06_22_FourBitFullAdder|Shameem_03_06_22_FullAdder:U3|Shameem_03_06_22_HalfAdder:U1
+Shameem_03_06_22_A => Shameem_03_06_22_Carry.IN0
+Shameem_03_06_22_A => Shameem_03_06_22_Sum.IN0
+Shameem_03_06_22_B => Shameem_03_06_22_Carry.IN1
+Shameem_03_06_22_B => Shameem_03_06_22_Sum.IN1
+Shameem_03_06_22_Sum <= Shameem_03_06_22_Sum.DB_MAX_OUTPUT_PORT_TYPE
+Shameem_03_06_22_Carry <= Shameem_03_06_22_Carry.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Shameem_03_06_22_FourBitFullAdder|Shameem_03_06_22_FullAdder:U3|Shameem_03_06_22_HalfAdder:U2
+Shameem_03_06_22_A => Shameem_03_06_22_Carry.IN0
+Shameem_03_06_22_A => Shameem_03_06_22_Sum.IN0
+Shameem_03_06_22_B => Shameem_03_06_22_Carry.IN1
+Shameem_03_06_22_B => Shameem_03_06_22_Sum.IN1
+Shameem_03_06_22_Sum <= Shameem_03_06_22_Sum.DB_MAX_OUTPUT_PORT_TYPE
+Shameem_03_06_22_Carry <= Shameem_03_06_22_Carry.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Shameem_03_06_22_FourBitFullAdder|Shameem_03_06_22_FullAdder:U4
+Shameem_03_06_22_Cin => Shameem_03_06_22_HalfAdder:U2.Shameem_03_06_22_B
+Shameem_03_06_22_A => Shameem_03_06_22_HalfAdder:U1.Shameem_03_06_22_A
+Shameem_03_06_22_B => Shameem_03_06_22_HalfAdder:U1.Shameem_03_06_22_B
+Shameem_03_06_22_Sum <= Shameem_03_06_22_HalfAdder:U2.Shameem_03_06_22_Sum
+Shameem_03_06_22_Cout <= Shameem_03_06_22_Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Shameem_03_06_22_FourBitFullAdder|Shameem_03_06_22_FullAdder:U4|Shameem_03_06_22_HalfAdder:U1
+Shameem_03_06_22_A => Shameem_03_06_22_Carry.IN0
+Shameem_03_06_22_A => Shameem_03_06_22_Sum.IN0
+Shameem_03_06_22_B => Shameem_03_06_22_Carry.IN1
+Shameem_03_06_22_B => Shameem_03_06_22_Sum.IN1
+Shameem_03_06_22_Sum <= Shameem_03_06_22_Sum.DB_MAX_OUTPUT_PORT_TYPE
+Shameem_03_06_22_Carry <= Shameem_03_06_22_Carry.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Shameem_03_06_22_FourBitFullAdder|Shameem_03_06_22_FullAdder:U4|Shameem_03_06_22_HalfAdder:U2
+Shameem_03_06_22_A => Shameem_03_06_22_Carry.IN0
+Shameem_03_06_22_A => Shameem_03_06_22_Sum.IN0
+Shameem_03_06_22_B => Shameem_03_06_22_Carry.IN1
+Shameem_03_06_22_B => Shameem_03_06_22_Sum.IN1
+Shameem_03_06_22_Sum <= Shameem_03_06_22_Sum.DB_MAX_OUTPUT_PORT_TYPE
+Shameem_03_06_22_Carry <= Shameem_03_06_22_Carry.DB_MAX_OUTPUT_PORT_TYPE
+
+
